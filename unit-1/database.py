@@ -58,10 +58,12 @@ with con:
     print len(filteredData)
     if len(filteredData) > 0:
 
+        # Some trouble getting the dataframe to print the message I want
         if len(filteredData) == 1:
             print filteredData['name'] + ' is the only warm city in ' + month
         else:
             msg = ''
+            ## iterrows
             for city in filteredData:
                 print city
                 if len(filteredData) > 0:
