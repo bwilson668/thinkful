@@ -12,6 +12,8 @@ intrate = loansData['Interest.Rate']
 loanamt = loansData['Amount.Requested']
 fico = loansData['FICO.Score']
 
+loansData.to_csv('loansData_clean.csv', header=True, index=False)
+
 # The dependent variable
 y = np.matrix(intrate).transpose()
 # The independent variables as columns
