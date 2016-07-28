@@ -1,0 +1,1730 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="10.5">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>country-age-and-population.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="country" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="country_abv" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="Series Name" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="Series Code" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1960" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1961" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1962" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1963" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1964" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1965" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1966" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1967" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1968" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1969" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1970" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1971" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1972" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1973" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1974" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1975" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1976" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1977" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1978" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1979" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1980" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1981" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1982" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1983" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1984" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1985" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1986" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1987" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1988" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1989" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1990" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1991" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1992" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1993" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1994" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1995" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1996" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1997" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1998" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="1999" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="2000" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="2001" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="2002" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="2003" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="2004" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="2005" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="2006" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="2007" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="2008" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="2009" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="2010" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="2011" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="2012" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="2013" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="2014" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+            <Field name="2015" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-age-and-population.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>country-gdp.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="country" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="country_abv" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1960" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1961" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1962" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1963" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1964" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1965" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1966" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1967" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1968" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1969" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1970" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1971" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1972" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1973" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1974" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1975" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1976" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1977" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1978" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1979" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1980" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1981" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1982" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1983" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1984" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1985" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1986" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1987" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1988" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1989" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1990" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1991" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1992" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1993" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1994" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1995" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1996" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1997" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1998" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="1999" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="2000" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="2001" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="2002" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="2003" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="2004" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="2005" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="2006" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="2007" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="2008" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="2009" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="2010" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="2011" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="2012" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="2013" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="2014" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+            <Field name="2015" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-gdp.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="30" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\703054135\Dropbox\bootcamp\unit-5\country-metadata.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>country-metadata.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="country_abv" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-metadata.csv" type="V_String" />
+            <Field name="country" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-metadata.csv" type="V_String" />
+            <Field name="region" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-metadata.csv" type="V_String" />
+            <Field name="income_group" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-metadata.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="390" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\703054135\Dropbox\bootcamp\unit-5\country-olympic-participation-and-medal-count.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>country-olympic-participation-and-medal-count.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="country_id" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-olympic-participation-and-medal-count.csv" type="V_String" />
+            <Field name="country" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-olympic-participation-and-medal-count.csv" type="V_String" />
+            <Field name="summer_from" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-olympic-participation-and-medal-count.csv" type="V_String" />
+            <Field name="summer_to" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-olympic-participation-and-medal-count.csv" type="V_String" />
+            <Field name="summer_participants" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-olympic-participation-and-medal-count.csv" type="V_String" />
+            <Field name="summer_sports" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-olympic-participation-and-medal-count.csv" type="V_String" />
+            <Field name="summer_gold" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-olympic-participation-and-medal-count.csv" type="V_String" />
+            <Field name="summer_silver" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-olympic-participation-and-medal-count.csv" type="V_String" />
+            <Field name="summer_bronze" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-olympic-participation-and-medal-count.csv" type="V_String" />
+            <Field name="summer_total" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-olympic-participation-and-medal-count.csv" type="V_String" />
+            <Field name="winter_from" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-olympic-participation-and-medal-count.csv" type="V_String" />
+            <Field name="winter_to" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-olympic-participation-and-medal-count.csv" type="V_String" />
+            <Field name="winter_participants" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-olympic-participation-and-medal-count.csv" type="V_String" />
+            <Field name="winter_sports" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-olympic-participation-and-medal-count.csv" type="V_String" />
+            <Field name="winter_gold" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-olympic-participation-and-medal-count.csv" type="V_String" />
+            <Field name="winter_silver" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-olympic-participation-and-medal-count.csv" type="V_String" />
+            <Field name="winter_bronze" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-olympic-participation-and-medal-count.csv" type="V_String" />
+            <Field name="winter_total" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-olympic-participation-and-medal-count.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>country-population.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="country" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="country_abv" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1960" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1961" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1962" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1963" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1964" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1965" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1966" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1967" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1968" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1969" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1970" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1971" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1972" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1973" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1974" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1975" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1976" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1977" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1978" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1979" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1980" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1981" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1982" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1983" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1984" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1985" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1986" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1987" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1988" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1989" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1990" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1991" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1992" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1993" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1994" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1995" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1996" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1997" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1998" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="1999" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="2000" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="2001" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="2002" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="2003" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="2004" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="2005" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="2006" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="2007" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="2008" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="2009" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="2010" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="2011" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="2012" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="2013" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="2014" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+            <Field name="2015" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\country-population.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="138" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="country_abv" />
+          </KeyFields>
+          <DataFields>
+            <Field field="country" selected="False" />
+            <Field field="country_abv" selected="False" />
+            <Field field="1960" selected="True" />
+            <Field field="1961" selected="True" />
+            <Field field="1962" selected="True" />
+            <Field field="1963" selected="True" />
+            <Field field="1964" selected="True" />
+            <Field field="1965" selected="True" />
+            <Field field="1966" selected="True" />
+            <Field field="1967" selected="True" />
+            <Field field="1968" selected="True" />
+            <Field field="1969" selected="True" />
+            <Field field="1970" selected="True" />
+            <Field field="1971" selected="True" />
+            <Field field="1972" selected="True" />
+            <Field field="1973" selected="True" />
+            <Field field="1974" selected="True" />
+            <Field field="1975" selected="True" />
+            <Field field="1976" selected="True" />
+            <Field field="1977" selected="True" />
+            <Field field="1978" selected="True" />
+            <Field field="1979" selected="True" />
+            <Field field="1980" selected="True" />
+            <Field field="1981" selected="True" />
+            <Field field="1982" selected="True" />
+            <Field field="1983" selected="True" />
+            <Field field="1984" selected="True" />
+            <Field field="1985" selected="True" />
+            <Field field="1986" selected="True" />
+            <Field field="1987" selected="True" />
+            <Field field="1988" selected="True" />
+            <Field field="1989" selected="True" />
+            <Field field="1990" selected="True" />
+            <Field field="1991" selected="True" />
+            <Field field="1992" selected="True" />
+            <Field field="1993" selected="True" />
+            <Field field="1994" selected="True" />
+            <Field field="1995" selected="True" />
+            <Field field="1996" selected="True" />
+            <Field field="1997" selected="True" />
+            <Field field="1998" selected="True" />
+            <Field field="1999" selected="True" />
+            <Field field="2000" selected="True" />
+            <Field field="2001" selected="True" />
+            <Field field="2002" selected="True" />
+            <Field field="2003" selected="True" />
+            <Field field="2004" selected="True" />
+            <Field field="2005" selected="True" />
+            <Field field="2006" selected="True" />
+            <Field field="2007" selected="True" />
+            <Field field="2008" selected="True" />
+            <Field field="2009" selected="True" />
+            <Field field="2010" selected="True" />
+            <Field field="2011" selected="True" />
+            <Field field="2012" selected="True" />
+            <Field field="2013" selected="True" />
+            <Field field="2014" selected="True" />
+            <Field field="2015" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="222" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <SelectFields>
+            <SelectField field="Name" selected="True" rename="year" />
+            <SelectField field="Value" selected="True" rename="gdp" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="138" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="country_abv" />
+          </KeyFields>
+          <DataFields>
+            <Field field="country" selected="False" />
+            <Field field="country_abv" selected="False" />
+            <Field field="1960" selected="True" />
+            <Field field="1961" selected="True" />
+            <Field field="1962" selected="True" />
+            <Field field="1963" selected="True" />
+            <Field field="1964" selected="True" />
+            <Field field="1965" selected="True" />
+            <Field field="1966" selected="True" />
+            <Field field="1967" selected="True" />
+            <Field field="1968" selected="True" />
+            <Field field="1969" selected="True" />
+            <Field field="1970" selected="True" />
+            <Field field="1971" selected="True" />
+            <Field field="1972" selected="True" />
+            <Field field="1973" selected="True" />
+            <Field field="1974" selected="True" />
+            <Field field="1975" selected="True" />
+            <Field field="1976" selected="True" />
+            <Field field="1977" selected="True" />
+            <Field field="1978" selected="True" />
+            <Field field="1979" selected="True" />
+            <Field field="1980" selected="True" />
+            <Field field="1981" selected="True" />
+            <Field field="1982" selected="True" />
+            <Field field="1983" selected="True" />
+            <Field field="1984" selected="True" />
+            <Field field="1985" selected="True" />
+            <Field field="1986" selected="True" />
+            <Field field="1987" selected="True" />
+            <Field field="1988" selected="True" />
+            <Field field="1989" selected="True" />
+            <Field field="1990" selected="True" />
+            <Field field="1991" selected="True" />
+            <Field field="1992" selected="True" />
+            <Field field="1993" selected="True" />
+            <Field field="1994" selected="True" />
+            <Field field="1995" selected="True" />
+            <Field field="1996" selected="True" />
+            <Field field="1997" selected="True" />
+            <Field field="1998" selected="True" />
+            <Field field="1999" selected="True" />
+            <Field field="2000" selected="True" />
+            <Field field="2001" selected="True" />
+            <Field field="2002" selected="True" />
+            <Field field="2003" selected="True" />
+            <Field field="2004" selected="True" />
+            <Field field="2005" selected="True" />
+            <Field field="2006" selected="True" />
+            <Field field="2007" selected="True" />
+            <Field field="2008" selected="True" />
+            <Field field="2009" selected="True" />
+            <Field field="2010" selected="True" />
+            <Field field="2011" selected="True" />
+            <Field field="2012" selected="True" />
+            <Field field="2013" selected="True" />
+            <Field field="2014" selected="True" />
+            <Field field="2015" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="222" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <SelectFields>
+            <SelectField field="Name" selected="True" rename="year" />
+            <SelectField field="Value" selected="True" rename="population" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="20">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="306" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="country_abv" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="country_abv" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <SelectFields>
+                <SelectField field="Right_country_abv" selected="False" rename="Right_country_abv" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="21">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="390" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="country_abv" />
+            <Field field="year" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="country_abv" />
+            <Field field="year" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <SelectFields>
+                <SelectField field="Right_country_abv" selected="False" rename="Right_country_abv" />
+                <SelectField field="Right_year" selected="False" rename="Right_year" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="26">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="138" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="country" />
+            <Field field="country_abv" />
+            <Field field="Series Name" />
+            <Field field="Series Code" />
+          </KeyFields>
+          <DataFields>
+            <Field field="country" selected="False" />
+            <Field field="country_abv" selected="False" />
+            <Field field="Series Name" selected="False" />
+            <Field field="Series Code" selected="False" />
+            <Field field="1960" selected="True" />
+            <Field field="1961" selected="True" />
+            <Field field="1962" selected="True" />
+            <Field field="1963" selected="True" />
+            <Field field="1964" selected="True" />
+            <Field field="1965" selected="True" />
+            <Field field="1966" selected="True" />
+            <Field field="1967" selected="True" />
+            <Field field="1968" selected="True" />
+            <Field field="1969" selected="True" />
+            <Field field="1970" selected="True" />
+            <Field field="1971" selected="True" />
+            <Field field="1972" selected="True" />
+            <Field field="1973" selected="True" />
+            <Field field="1974" selected="True" />
+            <Field field="1975" selected="True" />
+            <Field field="1976" selected="True" />
+            <Field field="1977" selected="True" />
+            <Field field="1978" selected="True" />
+            <Field field="1979" selected="True" />
+            <Field field="1980" selected="True" />
+            <Field field="1981" selected="True" />
+            <Field field="1982" selected="True" />
+            <Field field="1983" selected="True" />
+            <Field field="1984" selected="True" />
+            <Field field="1985" selected="True" />
+            <Field field="1986" selected="True" />
+            <Field field="1987" selected="True" />
+            <Field field="1988" selected="True" />
+            <Field field="1989" selected="True" />
+            <Field field="1990" selected="True" />
+            <Field field="1991" selected="True" />
+            <Field field="1992" selected="True" />
+            <Field field="1993" selected="True" />
+            <Field field="1994" selected="True" />
+            <Field field="1995" selected="True" />
+            <Field field="1996" selected="True" />
+            <Field field="1997" selected="True" />
+            <Field field="1998" selected="True" />
+            <Field field="1999" selected="True" />
+            <Field field="2000" selected="True" />
+            <Field field="2001" selected="True" />
+            <Field field="2002" selected="True" />
+            <Field field="2003" selected="True" />
+            <Field field="2004" selected="True" />
+            <Field field="2005" selected="True" />
+            <Field field="2006" selected="True" />
+            <Field field="2007" selected="True" />
+            <Field field="2008" selected="True" />
+            <Field field="2009" selected="True" />
+            <Field field="2010" selected="True" />
+            <Field field="2011" selected="True" />
+            <Field field="2012" selected="True" />
+            <Field field="2013" selected="True" />
+            <Field field="2014" selected="True" />
+            <Field field="2015" selected="True" />
+            <Field field="*Unknown" selected="False" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="28">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="306" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="country" />
+            <Field field="country_abv" />
+            <Field field="year" />
+          </GroupFields>
+          <HeaderField field="series_code" />
+          <DataField field="value" />
+          <Methods>
+            <Method method="Concat" />
+            <Separator>,</Separator>
+            <FieldSize value="2048" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="country" size="254" source="CrossTab:Group:Concat:" type="V_String" />
+            <Field name="country_abv" size="254" source="CrossTab:Group:Concat:" type="V_String" />
+            <Field name="year" size="4" source="CrossTab:Group:Concat:" type="String" />
+            <Field name="SH_DTH_IMRT" size="2048" source="CrossTab:Header:series_code:SH_DTH_IMRT:Concat:" type="V_String" />
+            <Field name="SH_DTH_MORT" size="2048" source="CrossTab:Header:series_code:SH_DTH_MORT:Concat:" type="V_String" />
+            <Field name="SH_DTH_NMRT" size="2048" source="CrossTab:Header:series_code:SH_DTH_NMRT:Concat:" type="V_String" />
+            <Field name="SH_DYN_MORT" size="2048" source="CrossTab:Header:series_code:SH_DYN_MORT:Concat:" type="V_String" />
+            <Field name="SH_DYN_MORT_FE" size="2048" source="CrossTab:Header:series_code:SH_DYN_MORT_FE:Concat:" type="V_String" />
+            <Field name="SH_DYN_MORT_MA" size="2048" source="CrossTab:Header:series_code:SH_DYN_MORT_MA:Concat:" type="V_String" />
+            <Field name="SH_DYN_NMRT" size="2048" source="CrossTab:Header:series_code:SH_DYN_NMRT:Concat:" type="V_String" />
+            <Field name="SM_POP_NETM" size="2048" source="CrossTab:Header:series_code:SM_POP_NETM:Concat:" type="V_String" />
+            <Field name="SP_DYN_AMRT_FE" size="2048" source="CrossTab:Header:series_code:SP_DYN_AMRT_FE:Concat:" type="V_String" />
+            <Field name="SP_DYN_AMRT_MA" size="2048" source="CrossTab:Header:series_code:SP_DYN_AMRT_MA:Concat:" type="V_String" />
+            <Field name="SP_DYN_CBRT_IN" size="2048" source="CrossTab:Header:series_code:SP_DYN_CBRT_IN:Concat:" type="V_String" />
+            <Field name="SP_DYN_CDRT_IN" size="2048" source="CrossTab:Header:series_code:SP_DYN_CDRT_IN:Concat:" type="V_String" />
+            <Field name="SP_DYN_IMRT_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_DYN_IMRT_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_DYN_IMRT_IN" size="2048" source="CrossTab:Header:series_code:SP_DYN_IMRT_IN:Concat:" type="V_String" />
+            <Field name="SP_DYN_IMRT_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_DYN_IMRT_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_DYN_LE00_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_DYN_LE00_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_DYN_LE00_IN" size="2048" source="CrossTab:Header:series_code:SP_DYN_LE00_IN:Concat:" type="V_String" />
+            <Field name="SP_DYN_LE00_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_DYN_LE00_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_DYN_TFRT_IN" size="2048" source="CrossTab:Header:series_code:SP_DYN_TFRT_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_0004_FE" size="2048" source="CrossTab:Header:series_code:SP_POP_0004_FE:Concat:" type="V_String" />
+            <Field name="SP_POP_0004_FE_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_0004_FE_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_0004_MA" size="2048" source="CrossTab:Header:series_code:SP_POP_0004_MA:Concat:" type="V_String" />
+            <Field name="SP_POP_0004_MA_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_0004_MA_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_0014_FE_ZS" size="2048" source="CrossTab:Header:series_code:SP_POP_0014_FE_ZS:Concat:" type="V_String" />
+            <Field name="SP_POP_0014_MA_ZS" size="2048" source="CrossTab:Header:series_code:SP_POP_0014_MA_ZS:Concat:" type="V_String" />
+            <Field name="SP_POP_0014_TO" size="2048" source="CrossTab:Header:series_code:SP_POP_0014_TO:Concat:" type="V_String" />
+            <Field name="SP_POP_0014_TO_ZS" size="2048" source="CrossTab:Header:series_code:SP_POP_0014_TO_ZS:Concat:" type="V_String" />
+            <Field name="SP_POP_65UP_FE_ZS" size="2048" source="CrossTab:Header:series_code:SP_POP_65UP_FE_ZS:Concat:" type="V_String" />
+            <Field name="SP_POP_65UP_MA_ZS" size="2048" source="CrossTab:Header:series_code:SP_POP_65UP_MA_ZS:Concat:" type="V_String" />
+            <Field name="SP_POP_65UP_TO" size="2048" source="CrossTab:Header:series_code:SP_POP_65UP_TO:Concat:" type="V_String" />
+            <Field name="SP_POP_65UP_TO_ZS" size="2048" source="CrossTab:Header:series_code:SP_POP_65UP_TO_ZS:Concat:" type="V_String" />
+            <Field name="SP_POP_80UP_FE" size="2048" source="CrossTab:Header:series_code:SP_POP_80UP_FE:Concat:" type="V_String" />
+            <Field name="SP_POP_80UP_FE_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_80UP_FE_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_80UP_MA" size="2048" source="CrossTab:Header:series_code:SP_POP_80UP_MA:Concat:" type="V_String" />
+            <Field name="SP_POP_80UP_MA_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_80UP_MA_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_0509_FE" size="2048" source="CrossTab:Header:series_code:SP_POP_0509_FE:Concat:" type="V_String" />
+            <Field name="SP_POP_0509_FE_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_0509_FE_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_0509_MA" size="2048" source="CrossTab:Header:series_code:SP_POP_0509_MA:Concat:" type="V_String" />
+            <Field name="SP_POP_0509_MA_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_0509_MA_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_1014_FE" size="2048" source="CrossTab:Header:series_code:SP_POP_1014_FE:Concat:" type="V_String" />
+            <Field name="SP_POP_1014_FE_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_1014_FE_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_1014_MA" size="2048" source="CrossTab:Header:series_code:SP_POP_1014_MA:Concat:" type="V_String" />
+            <Field name="SP_POP_1014_MA_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_1014_MA_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_1519_FE" size="2048" source="CrossTab:Header:series_code:SP_POP_1519_FE:Concat:" type="V_String" />
+            <Field name="SP_POP_1519_FE_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_1519_FE_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_1519_MA" size="2048" source="CrossTab:Header:series_code:SP_POP_1519_MA:Concat:" type="V_String" />
+            <Field name="SP_POP_1519_MA_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_1519_MA_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_1564_FE_ZS" size="2048" source="CrossTab:Header:series_code:SP_POP_1564_FE_ZS:Concat:" type="V_String" />
+            <Field name="SP_POP_1564_MA_ZS" size="2048" source="CrossTab:Header:series_code:SP_POP_1564_MA_ZS:Concat:" type="V_String" />
+            <Field name="SP_POP_1564_TO" size="2048" source="CrossTab:Header:series_code:SP_POP_1564_TO:Concat:" type="V_String" />
+            <Field name="SP_POP_1564_TO_ZS" size="2048" source="CrossTab:Header:series_code:SP_POP_1564_TO_ZS:Concat:" type="V_String" />
+            <Field name="SP_POP_2024_FE" size="2048" source="CrossTab:Header:series_code:SP_POP_2024_FE:Concat:" type="V_String" />
+            <Field name="SP_POP_2024_FE_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_2024_FE_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_2024_MA" size="2048" source="CrossTab:Header:series_code:SP_POP_2024_MA:Concat:" type="V_String" />
+            <Field name="SP_POP_2024_MA_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_2024_MA_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_2529_FE" size="2048" source="CrossTab:Header:series_code:SP_POP_2529_FE:Concat:" type="V_String" />
+            <Field name="SP_POP_2529_FE_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_2529_FE_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_2529_MA" size="2048" source="CrossTab:Header:series_code:SP_POP_2529_MA:Concat:" type="V_String" />
+            <Field name="SP_POP_2529_MA_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_2529_MA_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_3034_FE" size="2048" source="CrossTab:Header:series_code:SP_POP_3034_FE:Concat:" type="V_String" />
+            <Field name="SP_POP_3034_FE_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_3034_FE_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_3034_MA" size="2048" source="CrossTab:Header:series_code:SP_POP_3034_MA:Concat:" type="V_String" />
+            <Field name="SP_POP_3034_MA_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_3034_MA_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_3539_FE" size="2048" source="CrossTab:Header:series_code:SP_POP_3539_FE:Concat:" type="V_String" />
+            <Field name="SP_POP_3539_FE_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_3539_FE_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_3539_MA" size="2048" source="CrossTab:Header:series_code:SP_POP_3539_MA:Concat:" type="V_String" />
+            <Field name="SP_POP_3539_MA_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_3539_MA_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_4044_FE" size="2048" source="CrossTab:Header:series_code:SP_POP_4044_FE:Concat:" type="V_String" />
+            <Field name="SP_POP_4044_FE_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_4044_FE_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_4044_MA" size="2048" source="CrossTab:Header:series_code:SP_POP_4044_MA:Concat:" type="V_String" />
+            <Field name="SP_POP_4044_MA_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_4044_MA_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_4549_FE" size="2048" source="CrossTab:Header:series_code:SP_POP_4549_FE:Concat:" type="V_String" />
+            <Field name="SP_POP_4549_FE_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_4549_FE_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_4549_MA" size="2048" source="CrossTab:Header:series_code:SP_POP_4549_MA:Concat:" type="V_String" />
+            <Field name="SP_POP_4549_MA_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_4549_MA_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_5054_FE" size="2048" source="CrossTab:Header:series_code:SP_POP_5054_FE:Concat:" type="V_String" />
+            <Field name="SP_POP_5054_FE_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_5054_FE_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_5054_MA" size="2048" source="CrossTab:Header:series_code:SP_POP_5054_MA:Concat:" type="V_String" />
+            <Field name="SP_POP_5054_MA_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_5054_MA_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_5559_FE" size="2048" source="CrossTab:Header:series_code:SP_POP_5559_FE:Concat:" type="V_String" />
+            <Field name="SP_POP_5559_FE_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_5559_FE_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_5559_MA" size="2048" source="CrossTab:Header:series_code:SP_POP_5559_MA:Concat:" type="V_String" />
+            <Field name="SP_POP_5559_MA_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_5559_MA_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_6064_FE" size="2048" source="CrossTab:Header:series_code:SP_POP_6064_FE:Concat:" type="V_String" />
+            <Field name="SP_POP_6064_FE_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_6064_FE_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_6064_MA" size="2048" source="CrossTab:Header:series_code:SP_POP_6064_MA:Concat:" type="V_String" />
+            <Field name="SP_POP_6064_MA_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_6064_MA_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_6569_FE" size="2048" source="CrossTab:Header:series_code:SP_POP_6569_FE:Concat:" type="V_String" />
+            <Field name="SP_POP_6569_FE_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_6569_FE_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_6569_MA" size="2048" source="CrossTab:Header:series_code:SP_POP_6569_MA:Concat:" type="V_String" />
+            <Field name="SP_POP_6569_MA_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_6569_MA_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_7074_FE" size="2048" source="CrossTab:Header:series_code:SP_POP_7074_FE:Concat:" type="V_String" />
+            <Field name="SP_POP_7074_FE_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_7074_FE_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_7074_MA" size="2048" source="CrossTab:Header:series_code:SP_POP_7074_MA:Concat:" type="V_String" />
+            <Field name="SP_POP_7074_MA_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_7074_MA_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_7579_FE" size="2048" source="CrossTab:Header:series_code:SP_POP_7579_FE:Concat:" type="V_String" />
+            <Field name="SP_POP_7579_FE_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_7579_FE_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_7579_MA" size="2048" source="CrossTab:Header:series_code:SP_POP_7579_MA:Concat:" type="V_String" />
+            <Field name="SP_POP_7579_MA_5Y" size="2048" source="CrossTab:Header:series_code:SP_POP_7579_MA_5Y:Concat:" type="V_String" />
+            <Field name="SP_POP_AG00_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG00_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG00_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG00_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG01_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG01_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG01_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG01_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG02_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG02_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG02_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG02_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG03_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG03_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG03_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG03_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG04_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG04_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG04_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG04_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG05_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG05_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG05_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG05_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG06_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG06_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG06_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG06_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG07_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG07_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG07_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG07_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG08_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG08_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG08_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG08_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG09_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG09_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG09_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG09_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG10_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG10_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG10_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG10_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG11_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG11_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG11_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG11_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG12_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG12_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG12_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG12_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG13_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG13_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG13_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG13_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG14_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG14_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG14_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG14_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG15_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG15_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG15_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG15_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG16_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG16_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG16_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG16_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG17_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG17_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG17_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG17_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG18_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG18_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG18_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG18_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG19_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG19_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG19_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG19_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG20_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG20_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG20_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG20_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG21_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG21_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG21_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG21_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG22_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG22_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG22_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG22_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG23_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG23_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG23_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG23_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG24_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG24_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG24_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG24_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG25_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG25_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_AG25_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_AG25_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_BRTH_MF" size="2048" source="CrossTab:Header:series_code:SP_POP_BRTH_MF:Concat:" type="V_String" />
+            <Field name="SP_POP_DPND" size="2048" source="CrossTab:Header:series_code:SP_POP_DPND:Concat:" type="V_String" />
+            <Field name="SP_POP_DPND_OL" size="2048" source="CrossTab:Header:series_code:SP_POP_DPND_OL:Concat:" type="V_String" />
+            <Field name="SP_POP_DPND_YG" size="2048" source="CrossTab:Header:series_code:SP_POP_DPND_YG:Concat:" type="V_String" />
+            <Field name="SP_POP_GROW" size="2048" source="CrossTab:Header:series_code:SP_POP_GROW:Concat:" type="V_String" />
+            <Field name="SP_POP_TOTL" size="2048" source="CrossTab:Header:series_code:SP_POP_TOTL:Concat:" type="V_String" />
+            <Field name="SP_POP_TOTL_FE_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_TOTL_FE_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_TOTL_FE_ZS" size="2048" source="CrossTab:Header:series_code:SP_POP_TOTL_FE_ZS:Concat:" type="V_String" />
+            <Field name="SP_POP_TOTL_MA_IN" size="2048" source="CrossTab:Header:series_code:SP_POP_TOTL_MA_IN:Concat:" type="V_String" />
+            <Field name="SP_POP_TOTL_MA_ZS" size="2048" source="CrossTab:Header:series_code:SP_POP_TOTL_MA_ZS:Concat:" type="V_String" />
+            <Field name="SP_RUR_TOTL" size="2048" source="CrossTab:Header:series_code:SP_RUR_TOTL:Concat:" type="V_String" />
+            <Field name="SP_RUR_TOTL_ZG" size="2048" source="CrossTab:Header:series_code:SP_RUR_TOTL_ZG:Concat:" type="V_String" />
+            <Field name="SP_RUR_TOTL_ZS" size="2048" source="CrossTab:Header:series_code:SP_RUR_TOTL_ZS:Concat:" type="V_String" />
+            <Field name="SP_URB_GROW" size="2048" source="CrossTab:Header:series_code:SP_URB_GROW:Concat:" type="V_String" />
+            <Field name="SP_URB_TOTL" size="2048" source="CrossTab:Header:series_code:SP_URB_TOTL:Concat:" type="V_String" />
+            <Field name="SP_URB_TOTL_IN_ZS" size="2048" source="CrossTab:Header:series_code:SP_URB_TOTL_IN_ZS:Concat:" type="V_String" />
+            <Field name="_Null_" size="2048" source="CrossTab:Header:series_code:[Null]:Concat:" type="V_String" />
+          </RecordInfo>
+          <SortInfo>
+            <Field field="country" order="Asc" />
+            <Field field="country_abv" order="Asc" />
+            <Field field="year" order="Asc" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="222" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <SelectFields>
+            <SelectField field="Series Name" selected="True" rename="series_name" />
+            <SelectField field="Series Code" selected="True" rename="series_code" />
+            <SelectField field="Name" selected="True" rename="year" />
+            <SelectField field="Value" selected="True" rename="value" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="31">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="474" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="country_abv" />
+            <Field field="year" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="country_abv" />
+            <Field field="year" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <SelectFields>
+                <SelectField field="Left_country_abv" selected="True" />
+                <SelectField field="Left_country" selected="True" />
+                <SelectField field="Left_region" selected="True" />
+                <SelectField field="Left_income_group" selected="True" />
+                <SelectField field="Left_year" selected="True" />
+                <SelectField field="Left_gdp" selected="True" />
+                <SelectField field="Left_population" selected="True" />
+                <SelectField field="Right_country" selected="False" rename="Right_country" />
+                <SelectField field="Right_country_abv" selected="False" rename="Right_country_abv" />
+                <SelectField field="Right_year" selected="False" rename="Right_year" />
+                <SelectField field="Right_SH_DTH_IMRT" selected="True" />
+                <SelectField field="Right_SH_DTH_MORT" selected="True" />
+                <SelectField field="Right_SH_DTH_NMRT" selected="True" />
+                <SelectField field="Right_SH_DYN_MORT" selected="True" />
+                <SelectField field="Right_SH_DYN_MORT_FE" selected="True" />
+                <SelectField field="Right_SH_DYN_MORT_MA" selected="True" />
+                <SelectField field="Right_SH_DYN_NMRT" selected="True" />
+                <SelectField field="Right_SM_POP_NETM" selected="True" />
+                <SelectField field="Right_SP_DYN_AMRT_FE" selected="True" />
+                <SelectField field="Right_SP_DYN_AMRT_MA" selected="True" />
+                <SelectField field="Right_SP_DYN_CBRT_IN" selected="True" />
+                <SelectField field="Right_SP_DYN_CDRT_IN" selected="True" />
+                <SelectField field="Right_SP_DYN_IMRT_FE_IN" selected="True" />
+                <SelectField field="Right_SP_DYN_IMRT_IN" selected="True" />
+                <SelectField field="Right_SP_DYN_IMRT_MA_IN" selected="True" />
+                <SelectField field="Right_SP_DYN_LE00_FE_IN" selected="True" />
+                <SelectField field="Right_SP_DYN_LE00_IN" selected="True" />
+                <SelectField field="Right_SP_DYN_LE00_MA_IN" selected="True" />
+                <SelectField field="Right_SP_DYN_TFRT_IN" selected="True" />
+                <SelectField field="Right_SP_POP_0004_FE" selected="True" />
+                <SelectField field="Right_SP_POP_0004_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_0004_MA" selected="True" />
+                <SelectField field="Right_SP_POP_0004_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_0014_FE_ZS" selected="True" />
+                <SelectField field="Right_SP_POP_0014_MA_ZS" selected="True" />
+                <SelectField field="Right_SP_POP_0014_TO" selected="True" />
+                <SelectField field="Right_SP_POP_0014_TO_ZS" selected="True" />
+                <SelectField field="Right_SP_POP_65UP_FE_ZS" selected="True" />
+                <SelectField field="Right_SP_POP_65UP_MA_ZS" selected="True" />
+                <SelectField field="Right_SP_POP_65UP_TO" selected="True" />
+                <SelectField field="Right_SP_POP_65UP_TO_ZS" selected="True" />
+                <SelectField field="Right_SP_POP_80UP_FE" selected="True" />
+                <SelectField field="Right_SP_POP_80UP_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_80UP_MA" selected="True" />
+                <SelectField field="Right_SP_POP_80UP_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_0509_FE" selected="True" />
+                <SelectField field="Right_SP_POP_0509_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_0509_MA" selected="True" />
+                <SelectField field="Right_SP_POP_0509_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_1014_FE" selected="True" />
+                <SelectField field="Right_SP_POP_1014_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_1014_MA" selected="True" />
+                <SelectField field="Right_SP_POP_1014_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_1519_FE" selected="True" />
+                <SelectField field="Right_SP_POP_1519_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_1519_MA" selected="True" />
+                <SelectField field="Right_SP_POP_1519_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_1564_FE_ZS" selected="True" />
+                <SelectField field="Right_SP_POP_1564_MA_ZS" selected="True" />
+                <SelectField field="Right_SP_POP_1564_TO" selected="True" />
+                <SelectField field="Right_SP_POP_1564_TO_ZS" selected="True" />
+                <SelectField field="Right_SP_POP_2024_FE" selected="True" />
+                <SelectField field="Right_SP_POP_2024_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_2024_MA" selected="True" />
+                <SelectField field="Right_SP_POP_2024_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_2529_FE" selected="True" />
+                <SelectField field="Right_SP_POP_2529_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_2529_MA" selected="True" />
+                <SelectField field="Right_SP_POP_2529_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_3034_FE" selected="True" />
+                <SelectField field="Right_SP_POP_3034_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_3034_MA" selected="True" />
+                <SelectField field="Right_SP_POP_3034_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_3539_FE" selected="True" />
+                <SelectField field="Right_SP_POP_3539_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_3539_MA" selected="True" />
+                <SelectField field="Right_SP_POP_3539_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_4044_FE" selected="True" />
+                <SelectField field="Right_SP_POP_4044_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_4044_MA" selected="True" />
+                <SelectField field="Right_SP_POP_4044_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_4549_FE" selected="True" />
+                <SelectField field="Right_SP_POP_4549_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_4549_MA" selected="True" />
+                <SelectField field="Right_SP_POP_4549_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_5054_FE" selected="True" />
+                <SelectField field="Right_SP_POP_5054_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_5054_MA" selected="True" />
+                <SelectField field="Right_SP_POP_5054_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_5559_FE" selected="True" />
+                <SelectField field="Right_SP_POP_5559_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_5559_MA" selected="True" />
+                <SelectField field="Right_SP_POP_5559_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_6064_FE" selected="True" />
+                <SelectField field="Right_SP_POP_6064_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_6064_MA" selected="True" />
+                <SelectField field="Right_SP_POP_6064_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_6569_FE" selected="True" />
+                <SelectField field="Right_SP_POP_6569_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_6569_MA" selected="True" />
+                <SelectField field="Right_SP_POP_6569_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_7074_FE" selected="True" />
+                <SelectField field="Right_SP_POP_7074_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_7074_MA" selected="True" />
+                <SelectField field="Right_SP_POP_7074_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_7579_FE" selected="True" />
+                <SelectField field="Right_SP_POP_7579_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_7579_MA" selected="True" />
+                <SelectField field="Right_SP_POP_7579_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_AG00_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG00_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG01_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG01_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG02_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG02_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG03_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG03_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG04_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG04_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG05_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG05_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG06_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG06_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG07_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG07_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG08_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG08_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG09_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG09_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG10_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG10_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG11_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG11_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG12_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG12_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG13_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG13_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG14_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG14_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG15_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG15_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG16_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG16_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG17_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG17_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG18_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG18_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG19_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG19_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG20_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG20_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG21_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG21_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG22_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG22_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG23_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG23_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG24_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG24_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG25_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG25_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_BRTH_MF" selected="True" />
+                <SelectField field="Right_SP_POP_DPND" selected="True" />
+                <SelectField field="Right_SP_POP_DPND_OL" selected="True" />
+                <SelectField field="Right_SP_POP_DPND_YG" selected="True" />
+                <SelectField field="Right_SP_POP_GROW" selected="True" />
+                <SelectField field="Right_SP_POP_TOTL" selected="True" />
+                <SelectField field="Right_SP_POP_TOTL_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_TOTL_FE_ZS" selected="True" />
+                <SelectField field="Right_SP_POP_TOTL_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_TOTL_MA_ZS" selected="True" />
+                <SelectField field="Right_SP_RUR_TOTL" selected="True" />
+                <SelectField field="Right_SP_RUR_TOTL_ZG" selected="True" />
+                <SelectField field="Right_SP_RUR_TOTL_ZS" selected="True" />
+                <SelectField field="Right_SP_URB_GROW" selected="True" />
+                <SelectField field="Right_SP_URB_TOTL" selected="True" />
+                <SelectField field="Right_SP_URB_TOTL_IN_ZS" selected="True" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="558" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="country" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="country" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="True" />
+              <SelectFields>
+                <SelectField field="Left_country_abv" selected="True" />
+                <SelectField field="Right_country_abv" selected="True" rename="country_abv_alt" />
+                <SelectField field="Left_country" selected="True" />
+                <SelectField field="Left_region" selected="True" />
+                <SelectField field="Left_income_group" selected="True" />
+                <SelectField field="Left_year" selected="True" />
+                <SelectField field="Left_gdp" selected="True" />
+                <SelectField field="Left_population" selected="True" />
+                <SelectField field="Right_country" selected="False" rename="Right_country" />
+                <SelectField field="Right_year" selected="False" rename="Right_year" />
+                <SelectField field="Right_SH_DTH_IMRT" selected="True" />
+                <SelectField field="Right_SH_DTH_MORT" selected="True" />
+                <SelectField field="Right_SH_DTH_NMRT" selected="True" />
+                <SelectField field="Right_SH_DYN_MORT" selected="True" />
+                <SelectField field="Right_SH_DYN_MORT_FE" selected="True" />
+                <SelectField field="Right_SH_DYN_MORT_MA" selected="True" />
+                <SelectField field="Right_SH_DYN_NMRT" selected="True" />
+                <SelectField field="Right_SM_POP_NETM" selected="True" />
+                <SelectField field="Right_SP_DYN_AMRT_FE" selected="True" />
+                <SelectField field="Right_SP_DYN_AMRT_MA" selected="True" />
+                <SelectField field="Right_SP_DYN_CBRT_IN" selected="True" />
+                <SelectField field="Right_SP_DYN_CDRT_IN" selected="True" />
+                <SelectField field="Right_SP_DYN_IMRT_FE_IN" selected="True" />
+                <SelectField field="Right_SP_DYN_IMRT_IN" selected="True" />
+                <SelectField field="Right_SP_DYN_IMRT_MA_IN" selected="True" />
+                <SelectField field="Right_SP_DYN_LE00_FE_IN" selected="True" />
+                <SelectField field="Right_SP_DYN_LE00_IN" selected="True" />
+                <SelectField field="Right_SP_DYN_LE00_MA_IN" selected="True" />
+                <SelectField field="Right_SP_DYN_TFRT_IN" selected="True" />
+                <SelectField field="Right_SP_POP_0004_FE" selected="True" />
+                <SelectField field="Right_SP_POP_0004_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_0004_MA" selected="True" />
+                <SelectField field="Right_SP_POP_0004_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_0014_FE_ZS" selected="True" />
+                <SelectField field="Right_SP_POP_0014_MA_ZS" selected="True" />
+                <SelectField field="Right_SP_POP_0014_TO" selected="True" />
+                <SelectField field="Right_SP_POP_0014_TO_ZS" selected="True" />
+                <SelectField field="Right_SP_POP_65UP_FE_ZS" selected="True" />
+                <SelectField field="Right_SP_POP_65UP_MA_ZS" selected="True" />
+                <SelectField field="Right_SP_POP_65UP_TO" selected="True" />
+                <SelectField field="Right_SP_POP_65UP_TO_ZS" selected="True" />
+                <SelectField field="Right_SP_POP_80UP_FE" selected="True" />
+                <SelectField field="Right_SP_POP_80UP_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_80UP_MA" selected="True" />
+                <SelectField field="Right_SP_POP_80UP_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_0509_FE" selected="True" />
+                <SelectField field="Right_SP_POP_0509_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_0509_MA" selected="True" />
+                <SelectField field="Right_SP_POP_0509_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_1014_FE" selected="True" />
+                <SelectField field="Right_SP_POP_1014_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_1014_MA" selected="True" />
+                <SelectField field="Right_SP_POP_1014_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_1519_FE" selected="True" />
+                <SelectField field="Right_SP_POP_1519_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_1519_MA" selected="True" />
+                <SelectField field="Right_SP_POP_1519_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_1564_FE_ZS" selected="True" />
+                <SelectField field="Right_SP_POP_1564_MA_ZS" selected="True" />
+                <SelectField field="Right_SP_POP_1564_TO" selected="True" />
+                <SelectField field="Right_SP_POP_1564_TO_ZS" selected="True" />
+                <SelectField field="Right_SP_POP_2024_FE" selected="True" />
+                <SelectField field="Right_SP_POP_2024_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_2024_MA" selected="True" />
+                <SelectField field="Right_SP_POP_2024_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_2529_FE" selected="True" />
+                <SelectField field="Right_SP_POP_2529_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_2529_MA" selected="True" />
+                <SelectField field="Right_SP_POP_2529_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_3034_FE" selected="True" />
+                <SelectField field="Right_SP_POP_3034_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_3034_MA" selected="True" />
+                <SelectField field="Right_SP_POP_3034_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_3539_FE" selected="True" />
+                <SelectField field="Right_SP_POP_3539_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_3539_MA" selected="True" />
+                <SelectField field="Right_SP_POP_3539_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_4044_FE" selected="True" />
+                <SelectField field="Right_SP_POP_4044_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_4044_MA" selected="True" />
+                <SelectField field="Right_SP_POP_4044_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_4549_FE" selected="True" />
+                <SelectField field="Right_SP_POP_4549_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_4549_MA" selected="True" />
+                <SelectField field="Right_SP_POP_4549_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_5054_FE" selected="True" />
+                <SelectField field="Right_SP_POP_5054_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_5054_MA" selected="True" />
+                <SelectField field="Right_SP_POP_5054_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_5559_FE" selected="True" />
+                <SelectField field="Right_SP_POP_5559_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_5559_MA" selected="True" />
+                <SelectField field="Right_SP_POP_5559_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_6064_FE" selected="True" />
+                <SelectField field="Right_SP_POP_6064_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_6064_MA" selected="True" />
+                <SelectField field="Right_SP_POP_6064_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_6569_FE" selected="True" />
+                <SelectField field="Right_SP_POP_6569_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_6569_MA" selected="True" />
+                <SelectField field="Right_SP_POP_6569_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_7074_FE" selected="True" />
+                <SelectField field="Right_SP_POP_7074_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_7074_MA" selected="True" />
+                <SelectField field="Right_SP_POP_7074_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_7579_FE" selected="True" />
+                <SelectField field="Right_SP_POP_7579_FE_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_7579_MA" selected="True" />
+                <SelectField field="Right_SP_POP_7579_MA_5Y" selected="True" />
+                <SelectField field="Right_SP_POP_AG00_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG00_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG01_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG01_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG02_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG02_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG03_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG03_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG04_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG04_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG05_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG05_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG06_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG06_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG07_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG07_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG08_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG08_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG09_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG09_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG10_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG10_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG11_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG11_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG12_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG12_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG13_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG13_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG14_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG14_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG15_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG15_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG16_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG16_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG17_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG17_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG18_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG18_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG19_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG19_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG20_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG20_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG21_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG21_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG22_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG22_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG23_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG23_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG24_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG24_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG25_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_AG25_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_BRTH_MF" selected="True" />
+                <SelectField field="Right_SP_POP_DPND" selected="True" />
+                <SelectField field="Right_SP_POP_DPND_OL" selected="True" />
+                <SelectField field="Right_SP_POP_DPND_YG" selected="True" />
+                <SelectField field="Right_SP_POP_GROW" selected="True" />
+                <SelectField field="Right_SP_POP_TOTL" selected="True" />
+                <SelectField field="Right_SP_POP_TOTL_FE_IN" selected="True" />
+                <SelectField field="Right_SP_POP_TOTL_FE_ZS" selected="True" />
+                <SelectField field="Right_SP_POP_TOTL_MA_IN" selected="True" />
+                <SelectField field="Right_SP_POP_TOTL_MA_ZS" selected="True" />
+                <SelectField field="Right_SP_RUR_TOTL" selected="True" />
+                <SelectField field="Right_SP_RUR_TOTL_ZG" selected="True" />
+                <SelectField field="Right_SP_RUR_TOTL_ZS" selected="True" />
+                <SelectField field="Right_SP_URB_GROW" selected="True" />
+                <SelectField field="Right_SP_URB_TOTL" selected="True" />
+                <SelectField field="Right_SP_URB_TOTL_IN_ZS" selected="True" />
+                <SelectField field="Right__Null_" selected="False" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="39">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="642" y="318" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ByName</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="40">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="726" y="318" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\703054~1\AppData\Local\Temp\Engine_12064_576a8c733fad43ecbd5cd6f7fc569431_\Engine_7316_4aa55eb865b94ca2b1d4596025676d8d_.yxdb</TempFile>
+          <Layout>
+            <View1>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="41">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="726" y="378" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="country" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="country" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <SelectFields>
+                <SelectField field="Right_country" selected="True" rename="Right_country" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="44">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="822" y="462" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\703054~1\AppData\Local\Temp\Engine_12064_576a8c733fad43ecbd5cd6f7fc569431_\Engine_7316_4e8f6b02daa048d2a95ff3aba2a64736_.yxdb</TempFile>
+          <Layout>
+            <View1>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="45">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
+        <Position x="822" y="318" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UniqueFields>
+            <Field field="country" />
+          </UniqueFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Unique: country</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
+    </Node>
+    <Node ToolID="46">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
+        <Position x="822" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UniqueFields>
+            <Field field="country" />
+          </UniqueFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Unique: country</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
+    </Node>
+    <Node ToolID="47">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="942" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\703054~1\AppData\Local\Temp\Engine_12064_576a8c733fad43ecbd5cd6f7fc569431_\Engine_7316_283a5dc91a0946c3be3a6ce9218ee211_.yxdb</TempFile>
+          <Layout>
+            <View1>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="48">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="942" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\703054~1\AppData\Local\Temp\Engine_12064_576a8c733fad43ecbd5cd6f7fc569431_\Engine_7316_e6ad3577b85e48b6af6708809c2d7298_.yxdb</TempFile>
+          <Layout>
+            <View1>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="49">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="942" y="378" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">C:\Users\703054135\Dropbox\bootcamp\unit-5\combined-olympic-data.csv</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>combined-olympic-data.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="50">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="942" y="462" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">C:\Users\703054135\Dropbox\bootcamp\unit-5\unmatched-olympic-data.csv</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>unmatched-olympic-data.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="20" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="20" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="41" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="Output" />
+      <Destination ToolID="41" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="Output" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="21" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="Join" />
+      <Destination ToolID="21" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="Join" />
+      <Destination ToolID="31" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="28" Connection="Output" />
+      <Destination ToolID="31" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="26" Connection="Output" />
+      <Destination ToolID="29" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="29" Connection="Output" />
+      <Destination ToolID="28" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="31" Connection="Left" />
+      <Destination ToolID="35" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="31" Connection="Right" />
+      <Destination ToolID="35" Connection="Right" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="31" Connection="Join" />
+      <Destination ToolID="39" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="35" Connection="Join" />
+      <Destination ToolID="39" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="Output" />
+      <Destination ToolID="40" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="41" Connection="Right" />
+      <Destination ToolID="44" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="41" Connection="Join" />
+      <Destination ToolID="45" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="41" Connection="Left" />
+      <Destination ToolID="46" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="41" Connection="Join" />
+      <Destination ToolID="49" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="41" Connection="Right" />
+      <Destination ToolID="50" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="45" Connection="Unique" />
+      <Destination ToolID="48" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="46" Connection="Unique" />
+      <Destination ToolID="47" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>alteryx-data-blending-workflow</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
