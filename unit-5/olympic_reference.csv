@@ -1,0 +1,48 @@
+olympic_id,year,season,host_city,host_nation
+1,1896,Summer,Athens,Greece
+2,1900,Summer,Paris,France
+3,1904,Summer,St. Louis,USA
+4,1906,Summer,Athens,Greece
+5,1908,Summer,London,UK
+6,1912,Summer,Stockholm,Sweden
+7,1920,Summer,Atwerp,Belgium
+8,1924,Summer,Paris,France
+9,1928,Summer,Amsterdam,Netherlands
+10,1932,Summer,Los Angeles,USA
+11,1936,Summer,Berlin,Germany
+12,1948,Summer,London,UK
+13,1952,Summer,Helsinki,Finland
+14,1956,Summer,Melbourne,Australia
+15,1960,Summer,Rome,Italy
+16,1964,Summer,Tokyo,Japan
+17,1968,Summer,Mexico City,Mexico
+18,1972,Summer,Munchen,Germany
+19,1976,Summer,Montreal,Canada
+20,1980,Summer,Moscow,Russia
+21,1984,Summer,Los Angeles,USA
+22,1988,Summer,Seoul,South Korea
+23,1992,Summer,Barcelona,Spain
+24,1996,Summer,Atlanta,USA
+25,2000,Summer,Sydney,Australia
+26,2004,Summer,Athens,Greece
+27,1924,Winter,Chamonix,France
+28,1928,Winter,St. Moritz,Switzerland
+29,1932,Winter,Lake Placid,USA
+30,1936,Winter,Garmisch-Partenkirchen,Germany
+31,1948,Winter,St. Moritz,Switzerland
+32,1952,Winter,Oslo,Norway
+33,1956,Winter,Cortina d'Ampezzo,Italy
+34,1960,Winter,Squaw Valley,USA
+35,1964,Winter,Innsbruck,Austria
+36,1968,Winter,Grenoble,France
+37,1972,Winter,Sapporo,Japan
+38,1976,Winter,Innsbruck,Austria
+39,1980,Winter,Lake Placid,USA
+40,1984,Winter,Sarajevo,Yugoslavia
+41,1988,Winter,Calgary,Canada
+42,1992,Winter,Albertville,France
+43,1994,Winter,Lillehammer,Norway
+44,1998,Winter,Nagano,Japan
+45,2002,Winter,Salt Lake City,USA
+46,2006,Winter,Turin,Italy
+47,2008,Summer,Beijing,China

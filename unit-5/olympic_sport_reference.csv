@@ -1,0 +1,53 @@
+sport_id,sport_key,sport,season
+1,ARC,Archery,Summer
+2,ART,Art Contests,Summer
+3,BAD,Badminton,Summer
+4,BAB,Baseball,Summer
+5,BAS,Basketball,Summer
+6,BOX,Boxing,Summer
+7,CAN,Canoeing,Summer
+8,CRI,Cricket,Summer
+9,CRO,Croquet,Summer
+10,CYC,Cycling,Summer
+11,DIV,Diving,Summer
+12,EQU,Equestrian,Summer
+13,FEN,Fencing,Summer
+14,GOL,Golf,Summer
+15,GYM,Gymnastics,Summer
+16,HAN,Handball,Summer
+17,HOC,Hockey,Summer
+18,PAU,Jeu De Paume,Summer
+19,JUD,Judo,Summer
+20,LAC,Lacrosse,Summer
+21,MOD,Modern Pentathlon,Summer
+22,MOT,Motor Boating,Summer
+23,PEB,Pelota Basque,Summer
+24,POL,Polo,Summer
+25,RAC,Rackets,Summer
+26,ROW,Rowing,Summer
+27,RUG,Rugby,Summer
+28,YAT,Sailing,Summer
+29,SHO,Shooting,Summer
+30,SOC,Soccer,Summer
+31,SOF,Softball,Summer
+32,SWI,Swimming,Summer
+33,SYN,Synchronised Swimming,Summer
+34,TAB,Table Tennis,Summer
+35,TKD,Taekwondo,Summer
+36,TEN,Tennis,Summer
+37,ATH,Track & Field,Summer
+38,TRI,Triathlon,Summer
+39,TUG,Tug Of War,Summer
+40,VOL,Volleyball,Summer
+41,WPO,Water Polo,Summer
+42,WEI,Weightlifting,Summer
+43,WRE,Wrestling,Summer
+44,ALP,Alpine Skiing,Winter
+45,BIA,Biathlon,Winter
+46,BOB,Bobsleigh,Winter
+47,CUR,Curling,Winter
+48,FIG,Figure Skating,Winter
+49,ICE,Ice Hockey,Winter
+50,LUG,Lugeing,Winter
+51,NOR,Nordic Skiing,Winter
+52,SPE,Speed Skating,Winter
