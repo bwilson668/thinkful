@@ -1,0 +1,1247 @@
+sport_id,sport_key,sport,season,country,total_sport_medals_count,total_sport_medals_score
+44,ALP,Alpine Skiing,Winter,AUS,4,8
+44,ALP,Alpine Skiing,Winter,AUT,103,197
+44,ALP,Alpine Skiing,Winter,BLR,3,4
+44,ALP,Alpine Skiing,Winter,CAN,18,35
+44,ALP,Alpine Skiing,Winter,CHN,3,7
+44,ALP,Alpine Skiing,Winter,CRO,7,18
+44,ALP,Alpine Skiing,Winter,CZE,1,1
+44,ALP,Alpine Skiing,Winter,CZR,1,3
+44,ALP,Alpine Skiing,Winter,ESP,2,4
+44,ALP,Alpine Skiing,Winter,FIN,6,11
+44,ALP,Alpine Skiing,Winter,FRA,54,108
+44,ALP,Alpine Skiing,Winter,FRG,9,20
+44,ALP,Alpine Skiing,Winter,GER,29,61
+44,ALP,Alpine Skiing,Winter,ITA,29,62
+44,ALP,Alpine Skiing,Winter,JPN,3,6
+44,ALP,Alpine Skiing,Winter,LIE,9,15
+44,ALP,Alpine Skiing,Winter,LUX,2,4
+44,ALP,Alpine Skiing,Winter,NOR,31,61
+44,ALP,Alpine Skiing,Winter,NZL,1,2
+44,ALP,Alpine Skiing,Winter,RUS,4,6
+44,ALP,Alpine Skiing,Winter,SLO,3,3
+44,ALP,Alpine Skiing,Winter,SUI,64,130
+44,ALP,Alpine Skiing,Winter,SVK,1,2
+44,ALP,Alpine Skiing,Winter,SWE,16,30
+44,ALP,Alpine Skiing,Winter,URS,2,3
+44,ALP,Alpine Skiing,Winter,USA,55,120
+44,ALP,Alpine Skiing,Winter,UZB,1,3
+44,ALP,Alpine Skiing,Winter,YUG,2,4
+1,ARC,Archery,Summer,AUS,2,4
+1,ARC,Archery,Summer,BEL,51,134
+1,ARC,Archery,Summer,CHN,15,28
+1,ARC,Archery,Summer,ESP,3,9
+1,ARC,Archery,Summer,FIN,6,11
+1,ARC,Archery,Summer,FRA,46,82
+1,ARC,Archery,Summer,GBR,13,19
+1,ARC,Archery,Summer,GER,6,9
+1,ARC,Archery,Summer,INA,3,6
+1,ARC,Archery,Summer,ITA,12,20
+1,ARC,Archery,Summer,JPN,3,5
+1,ARC,Archery,Summer,KOR,52,135
+1,ARC,Archery,Summer,NED,9,25
+1,ARC,Archery,Summer,POL,4,5
+1,ARC,Archery,Summer,RUS,1,1
+1,ARC,Archery,Summer,SWE,2,4
+1,ARC,Archery,Summer,TPE,6,9
+1,ARC,Archery,Summer,UKR,8,13
+1,ARC,Archery,Summer,URS,11,16
+1,ARC,Archery,Summer,USA,52,111
+2,ART,Art Contests,Summer,AUT,10,19
+2,ART,Art Contests,Summer,BEL,8,13
+2,ART,Art Contests,Summer,CAN,2,3
+2,ART,Art Contests,Summer,CZE,3,4
+2,ART,Art Contests,Summer,DEN,9,14
+2,ART,Art Contests,Summer,FIN,5,12
+2,ART,Art Contests,Summer,FRA,16,34
+2,ART,Art Contests,Summer,GBR,9,21
+2,ART,Art Contests,Summer,GER,26,53
+2,ART,Art Contests,Summer,GRE,1,3
+2,ART,Art Contests,Summer,HUN,5,10
+2,ART,Art Contests,Summer,IND,1,2
+2,ART,Art Contests,Summer,IRL,3,4
+2,ART,Art Contests,Summer,ITA,4,7
+2,ART,Art Contests,Summer,JPN,2,2
+2,ART,Art Contests,Summer,KIT,10,24
+2,ART,Art Contests,Summer,LUX,3,8
+2,ART,Art Contests,Summer,MON,1,1
+2,ART,Art Contests,Summer,NED,7,12
+2,ART,Art Contests,Summer,NOR,1,2
+2,ART,Art Contests,Summer,POL,8,16
+2,ART,Art Contests,Summer,SAF,2,3
+2,ART,Art Contests,Summer,SUI,11,28
+2,ART,Art Contests,Summer,SWE,4,8
+2,ART,Art Contests,Summer,USA,9,22
+37,ATH,Track & Field,Summer,ALG,6,13
+37,ATH,Track & Field,Summer,ANZ,1,1
+37,ATH,Track & Field,Summer,ARG,5,12
+37,ATH,Track & Field,Summer,AUS,84,163
+37,ATH,Track & Field,Summer,AUT,7,11
+37,ATH,Track & Field,Summer,BAH,19,41
+37,ATH,Track & Field,Summer,BAR,1,1
+37,ATH,Track & Field,Summer,BDI,1,3
+37,ATH,Track & Field,Summer,BEL,15,31
+37,ATH,Track & Field,Summer,BIN,2,4
+37,ATH,Track & Field,Summer,BLR,18,31
+37,ATH,Track & Field,Summer,BOH,1,2
+37,ATH,Track & Field,Summer,BRA,20,34
+37,ATH,Track & Field,Summer,BRN,1,3
+37,ATH,Track & Field,Summer,BUL,18,35
+37,ATH,Track & Field,Summer,BWI,5,5
+37,ATH,Track & Field,Summer,CAN,84,148
+37,ATH,Track & Field,Summer,CHI,2,4
+37,ATH,Track & Field,Summer,CHN,15,28
+37,ATH,Track & Field,Summer,CIV,1,2
+37,ATH,Track & Field,Summer,CMR,2,6
+37,ATH,Track & Field,Summer,COL,1,1
+37,ATH,Track & Field,Summer,CRO,1,2
+37,ATH,Track & Field,Summer,CUB,55,97
+37,ATH,Track & Field,Summer,CZE,22,48
+37,ATH,Track & Field,Summer,CZR,10,23
+37,ATH,Track & Field,Summer,DEN,6,8
+37,ATH,Track & Field,Summer,DEU,11,19
+37,ATH,Track & Field,Summer,DJI,1,1
+37,ATH,Track & Field,Summer,DOM,1,3
+37,ATH,Track & Field,Summer,ECU,2,5
+37,ATH,Track & Field,Summer,ERI,1,1
+37,ATH,Track & Field,Summer,ESP,11,19
+37,ATH,Track & Field,Summer,EST,5,10
+37,ATH,Track & Field,Summer,ETH,38,80
+37,ATH,Track & Field,Summer,FIN,123,270
+37,ATH,Track & Field,Summer,FRA,97,159
+37,ATH,Track & Field,Summer,FRG,67,114
+37,ATH,Track & Field,Summer,GBR,294,553
+37,ATH,Track & Field,Summer,GDR,139,290
+37,ATH,Track & Field,Summer,GER,132,228
+37,ATH,Track & Field,Summer,GRE,36,65
+37,ATH,Track & Field,Summer,HAI,1,2
+37,ATH,Track & Field,Summer,HUN,49,84
+37,ATH,Track & Field,Summer,INT,5,10
+37,ATH,Track & Field,Summer,IRL,6,16
+37,ATH,Track & Field,Summer,ISL,2,3
+37,ATH,Track & Field,Summer,ITA,49,88
+37,ATH,Track & Field,Summer,JAM,93,177
+37,ATH,Track & Field,Summer,JAP,4,4
+37,ATH,Track & Field,Summer,JPN,21,42
+37,ATH,Track & Field,Summer,KAZ,2,4
+37,ATH,Track & Field,Summer,KEN,74,153
+37,ATH,Track & Field,Summer,KIT,23,39
+37,ATH,Track & Field,Summer,KOR,2,5
+37,ATH,Track & Field,Summer,KSA,1,2
+37,ATH,Track & Field,Summer,LAT,5,9
+37,ATH,Track & Field,Summer,LTU,5,12
+37,ATH,Track & Field,Summer,LUX,1,3
+37,ATH,Track & Field,Summer,MAR,18,35
+37,ATH,Track & Field,Summer,MEX,10,21
+37,ATH,Track & Field,Summer,MOZ,2,4
+37,ATH,Track & Field,Summer,NAM,4,8
+37,ATH,Track & Field,Summer,NED,21,42
+37,ATH,Track & Field,Summer,NGR,38,53
+37,ATH,Track & Field,Summer,NOR,20,39
+37,ATH,Track & Field,Summer,NZL,19,38
+37,ATH,Track & Field,Summer,PAN,3,5
+37,ATH,Track & Field,Summer,PHI,2,2
+37,ATH,Track & Field,Summer,POL,67,143
+37,ATH,Track & Field,Summer,POR,10,20
+37,ATH,Track & Field,Summer,QAT,1,1
+37,ATH,Track & Field,Summer,ROM,34,70
+37,ATH,Track & Field,Summer,RSA,9,17
+37,ATH,Track & Field,Summer,RUS,80,155
+37,ATH,Track & Field,Summer,SAF,17,35
+37,ATH,Track & Field,Summer,SEN,1,2
+37,ATH,Track & Field,Summer,SLO,3,6
+37,ATH,Track & Field,Summer,SRI,2,4
+37,ATH,Track & Field,Summer,SUD,1,2
+37,ATH,Track & Field,Summer,SUI,8,14
+37,ATH,Track & Field,Summer,SWE,112,191
+37,ATH,Track & Field,Summer,SYR,1,3
+37,ATH,Track & Field,Summer,TAN,2,4
+37,ATH,Track & Field,Summer,TPE,2,3
+37,ATH,Track & Field,Summer,TRI,17,27
+37,ATH,Track & Field,Summer,TUN,4,8
+37,ATH,Track & Field,Summer,TUR,4,6
+37,ATH,Track & Field,Summer,UGA,2,4
+37,ATH,Track & Field,Summer,UKR,16,25
+37,ATH,Track & Field,Summer,URS,264,525
+37,ATH,Track & Field,Summer,USA,957,2184
+37,ATH,Track & Field,Summer,VEN,1,1
+37,ATH,Track & Field,Summer,YUG,2,4
+37,ATH,Track & Field,Summer,ZAM,1,2
+4,BAB,Baseball,Summer,AUS,24,48
+4,BAB,Baseball,Summer,CUB,112,288
+4,BAB,Baseball,Summer,JPN,64,84
+4,BAB,Baseball,Summer,KOR,48,96
+4,BAB,Baseball,Summer,TPE,20,40
+4,BAB,Baseball,Summer,USA,68,116
+3,BAD,Badminton,Summer,CHN,47,91
+3,BAD,Badminton,Summer,DEN,5,8
+3,BAD,Badminton,Summer,GBR,4,6
+3,BAD,Badminton,Summer,INA,26,53
+3,BAD,Badminton,Summer,KOR,31,65
+3,BAD,Badminton,Summer,MAS,6,9
+3,BAD,Badminton,Summer,NED,1,2
+5,BAS,Basketball,Summer,ARG,24,48
+5,BAS,Basketball,Summer,AUS,48,84
+5,BAS,Basketball,Summer,BRA,58,70
+5,BAS,Basketball,Summer,BUL,24,36
+5,BAS,Basketball,Summer,CAN,9,18
+5,BAS,Basketball,Summer,CHN,23,34
+5,BAS,Basketball,Summer,CRO,12,24
+5,BAS,Basketball,Summer,CUB,12,12
+5,BAS,Basketball,Summer,ESP,24,48
+5,BAS,Basketball,Summer,FRA,26,52
+5,BAS,Basketball,Summer,ITA,24,48
+5,BAS,Basketball,Summer,KOR,11,22
+5,BAS,Basketball,Summer,LTU,35,35
+5,BAS,Basketball,Summer,MEX,11,11
+5,BAS,Basketball,Summer,RUS,24,24
+5,BAS,Basketball,Summer,URS,160,332
+5,BAS,Basketball,Summer,URU,24,24
+5,BAS,Basketball,Summer,USA,294,786
+5,BAS,Basketball,Summer,YUF,12,24
+5,BAS,Basketball,Summer,YUG,84,156
+45,BIA,Biathlon,Winter,AUT,1,1
+45,BIA,Biathlon,Winter,BLR,2,3
+45,BIA,Biathlon,Winter,BUL,2,4
+45,BIA,Biathlon,Winter,CAN,3,7
+45,BIA,Biathlon,Winter,FIN,12,22
+45,BIA,Biathlon,Winter,FRA,24,36
+45,BIA,Biathlon,Winter,FRG,14,21
+45,BIA,Biathlon,Winter,GDR,20,33
+45,BIA,Biathlon,Winter,GER,67,159
+45,BIA,Biathlon,Winter,ITA,6,7
+45,BIA,Biathlon,Winter,NOR,42,87
+45,BIA,Biathlon,Winter,POL,1,2
+45,BIA,Biathlon,Winter,RUS,40,78
+45,BIA,Biathlon,Winter,SWE,15,20
+45,BIA,Biathlon,Winter,UKR,3,4
+45,BIA,Biathlon,Winter,URS,48,116
+46,BOB,Bobsleigh,Winter,AUT,12,28
+46,BOB,Bobsleigh,Winter,BEL,9,13
+46,BOB,Bobsleigh,Winter,CAN,8,22
+46,BOB,Bobsleigh,Winter,FRA,4,4
+46,BOB,Bobsleigh,Winter,FRG,22,44
+46,BOB,Bobsleigh,Winter,GBR,14,22
+46,BOB,Bobsleigh,Winter,GDR,38,84
+46,BOB,Bobsleigh,Winter,GER,49,101
+46,BOB,Bobsleigh,Winter,ITA,32,64
+46,BOB,Bobsleigh,Winter,ROM,2,2
+46,BOB,Bobsleigh,Winter,RUS,4,8
+46,BOB,Bobsleigh,Winter,SUI,90,176
+46,BOB,Bobsleigh,Winter,URS,8,12
+46,BOB,Bobsleigh,Winter,USA,58,117
+6,BOX,Boxing,Summer,ALG,6,8
+6,BOX,Boxing,Summer,ANZ,1,2
+6,BOX,Boxing,Summer,ARG,24,45
+6,BOX,Boxing,Summer,ARM,1,1
+6,BOX,Boxing,Summer,AUS,4,5
+6,BOX,Boxing,Summer,AZE,4,4
+6,BOX,Boxing,Summer,BEL,4,7
+6,BOX,Boxing,Summer,BER,1,1
+6,BOX,Boxing,Summer,BLR,2,4
+6,BOX,Boxing,Summer,BRA,1,1
+6,BOX,Boxing,Summer,BUL,17,30
+6,BOX,Boxing,Summer,CAN,18,32
+6,BOX,Boxing,Summer,CHI,3,4
+6,BOX,Boxing,Summer,CHN,5,10
+6,BOX,Boxing,Summer,CMR,2,3
+6,BOX,Boxing,Summer,COL,3,3
+6,BOX,Boxing,Summer,CUB,63,146
+6,BOX,Boxing,Summer,CZE,6,13
+6,BOX,Boxing,Summer,CZR,1,2
+6,BOX,Boxing,Summer,DEN,12,19
+6,BOX,Boxing,Summer,DOM,2,4
+6,BOX,Boxing,Summer,EGY,4,5
+6,BOX,Boxing,Summer,ESP,4,6
+6,BOX,Boxing,Summer,EST,1,2
+6,BOX,Boxing,Summer,FIN,14,19
+6,BOX,Boxing,Summer,FRA,19,34
+6,BOX,Boxing,Summer,FRG,6,8
+6,BOX,Boxing,Summer,GBR,49,87
+6,BOX,Boxing,Summer,GDR,13,25
+6,BOX,Boxing,Summer,GEO,1,1
+6,BOX,Boxing,Summer,GER,28,50
+6,BOX,Boxing,Summer,GHA,3,4
+6,BOX,Boxing,Summer,GUY,1,1
+6,BOX,Boxing,Summer,HUN,20,42
+6,BOX,Boxing,Summer,IND,1,1
+6,BOX,Boxing,Summer,IRL,12,18
+6,BOX,Boxing,Summer,ITA,35,67
+6,BOX,Boxing,Summer,JPN,3,5
+6,BOX,Boxing,Summer,KAZ,13,27
+6,BOX,Boxing,Summer,KEN,7,10
+6,BOX,Boxing,Summer,KIT,9,20
+6,BOX,Boxing,Summer,KOR,19,31
+6,BOX,Boxing,Summer,MAR,3,3
+6,BOX,Boxing,Summer,MDA,2,2
+6,BOX,Boxing,Summer,MEX,12,19
+6,BOX,Boxing,Summer,MGL,4,7
+6,BOX,Boxing,Summer,MRI,1,1
+6,BOX,Boxing,Summer,NED,6,9
+6,BOX,Boxing,Summer,NGR,6,9
+6,BOX,Boxing,Summer,NIG,1,1
+6,BOX,Boxing,Summer,NOR,5,9
+6,BOX,Boxing,Summer,NZL,3,6
+6,BOX,Boxing,Summer,PAK,1,1
+6,BOX,Boxing,Summer,PHI,5,7
+6,BOX,Boxing,Summer,POL,43,68
+6,BOX,Boxing,Summer,PRK,8,15
+6,BOX,Boxing,Summer,PUR,6,7
+6,BOX,Boxing,Summer,ROM,25,36
+6,BOX,Boxing,Summer,RUS,20,39
+6,BOX,Boxing,Summer,SAF,19,35
+6,BOX,Boxing,Summer,SWE,11,16
+6,BOX,Boxing,Summer,SYR,1,1
+6,BOX,Boxing,Summer,TGA,1,2
+6,BOX,Boxing,Summer,THA,13,24
+6,BOX,Boxing,Summer,TUN,2,2
+6,BOX,Boxing,Summer,TUR,5,7
+6,BOX,Boxing,Summer,UGA,4,7
+6,BOX,Boxing,Summer,UKR,9,15
+6,BOX,Boxing,Summer,URS,53,101
+6,BOX,Boxing,Summer,URU,1,1
+6,BOX,Boxing,Summer,USA,109,228
+6,BOX,Boxing,Summer,UZB,6,8
+6,BOX,Boxing,Summer,VEN,5,9
+6,BOX,Boxing,Summer,YUG,11,19
+6,BOX,Boxing,Summer,ZAM,1,1
+7,CAN,Canoeing,Summer,AUS,33,46
+7,CAN,Canoeing,Summer,AUT,21,36
+7,CAN,Canoeing,Summer,BLR,10,22
+7,CAN,Canoeing,Summer,BUL,28,42
+7,CAN,Canoeing,Summer,CAN,30,52
+7,CAN,Canoeing,Summer,CHN,4,12
+7,CAN,Canoeing,Summer,CUB,5,10
+7,CAN,Canoeing,Summer,CZE,15,38
+7,CAN,Canoeing,Summer,CZR,16,33
+7,CAN,Canoeing,Summer,DEN,21,37
+7,CAN,Canoeing,Summer,ESP,16,31
+7,CAN,Canoeing,Summer,FIN,14,30
+7,CAN,Canoeing,Summer,FRA,47,72
+7,CAN,Canoeing,Summer,FRG,14,27
+7,CAN,Canoeing,Summer,GBR,9,15
+7,CAN,Canoeing,Summer,GDR,52,111
+7,CAN,Canoeing,Summer,GER,133,301
+7,CAN,Canoeing,Summer,HUN,137,269
+7,CAN,Canoeing,Summer,ISR,1,1
+7,CAN,Canoeing,Summer,ITA,22,45
+7,CAN,Canoeing,Summer,LAT,2,4
+7,CAN,Canoeing,Summer,MDA,2,4
+7,CAN,Canoeing,Summer,NED,12,16
+7,CAN,Canoeing,Summer,NOR,21,42
+7,CAN,Canoeing,Summer,NZL,14,37
+7,CAN,Canoeing,Summer,POL,32,44
+7,CAN,Canoeing,Summer,ROM,67,127
+7,CAN,Canoeing,Summer,RUS,15,22
+7,CAN,Canoeing,Summer,SLO,5,10
+7,CAN,Canoeing,Summer,SUI,4,8
+7,CAN,Canoeing,Summer,SVK,18,41
+7,CAN,Canoeing,Summer,SWE,57,126
+7,CAN,Canoeing,Summer,TOG,1,1
+7,CAN,Canoeing,Summer,UKR,6,8
+7,CAN,Canoeing,Summer,URS,90,224
+7,CAN,Canoeing,Summer,USA,22,44
+7,CAN,Canoeing,Summer,YUG,7,16
+8,CRI,Cricket,Summer,FRA,12,24
+8,CRI,Cricket,Summer,GBR,12,36
+9,CRO,Croquet,Summer,FRA,7,17
+47,CUR,Curling,Winter,CAN,30,60
+47,CUR,Curling,Winter,DEN,5,10
+47,CUR,Curling,Winter,FIN,5,10
+47,CUR,Curling,Winter,GBR,5,15
+47,CUR,Curling,Winter,NOR,10,20
+47,CUR,Curling,Winter,SUI,20,40
+47,CUR,Curling,Winter,SWE,10,20
+47,CUR,Curling,Winter,USA,5,5
+10,CYC,Cycling,Summer,ARG,2,6
+10,CYC,Cycling,Summer,AUS,64,129
+10,CYC,Cycling,Summer,AUT,3,5
+10,CYC,Cycling,Summer,BEL,41,72
+10,CYC,Cycling,Summer,BLR,1,1
+10,CYC,Cycling,Summer,CAN,14,21
+10,CYC,Cycling,Summer,CHN,3,4
+10,CYC,Cycling,Summer,CUB,1,2
+10,CYC,Cycling,Summer,CZE,13,20
+10,CYC,Cycling,Summer,DEN,42,79
+10,CYC,Cycling,Summer,DEU,10,17
+10,CYC,Cycling,Summer,ESP,18,34
+10,CYC,Cycling,Summer,EST,1,3
+10,CYC,Cycling,Summer,FRA,137,303
+10,CYC,Cycling,Summer,FRG,26,54
+10,CYC,Cycling,Summer,GBR,128,236
+10,CYC,Cycling,Summer,GDR,32,69
+10,CYC,Cycling,Summer,GER,69,146
+10,CYC,Cycling,Summer,GRE,4,9
+10,CYC,Cycling,Summer,ITA,90,207
+10,CYC,Cycling,Summer,JAM,1,1
+10,CYC,Cycling,Summer,JPN,6,9
+10,CYC,Cycling,Summer,KAZ,1,2
+10,CYC,Cycling,Summer,KIT,29,80
+10,CYC,Cycling,Summer,LAT,2,4
+10,CYC,Cycling,Summer,LTU,1,1
+10,CYC,Cycling,Summer,MEX,2,3
+10,CYC,Cycling,Summer,NED,57,122
+10,CYC,Cycling,Summer,NOR,3,7
+10,CYC,Cycling,Summer,NZL,12,15
+10,CYC,Cycling,Summer,POL,21,39
+10,CYC,Cycling,Summer,POR,1,2
+10,CYC,Cycling,Summer,RUS,19,36
+10,CYC,Cycling,Summer,SAF,16,27
+10,CYC,Cycling,Summer,SUI,22,40
+10,CYC,Cycling,Summer,SWE,36,58
+10,CYC,Cycling,Summer,UKR,6,10
+10,CYC,Cycling,Summer,URS,51,113
+10,CYC,Cycling,Summer,URU,1,2
+10,CYC,Cycling,Summer,USA,61,108
+11,DIV,Diving,Summer,AUS,17,26
+11,DIV,Diving,Summer,AUT,1,1
+11,DIV,Diving,Summer,CAN,11,18
+11,DIV,Diving,Summer,CHN,59,145
+11,DIV,Diving,Summer,CZE,2,5
+11,DIV,Diving,Summer,DEN,2,4
+11,DIV,Diving,Summer,DEU,11,22
+11,DIV,Diving,Summer,EGY,2,3
+11,DIV,Diving,Summer,FRA,1,2
+11,DIV,Diving,Summer,GBR,7,10
+11,DIV,Diving,Summer,GDR,7,13
+11,DIV,Diving,Summer,GER,19,32
+11,DIV,Diving,Summer,GRE,2,6
+11,DIV,Diving,Summer,ITA,9,19
+11,DIV,Diving,Summer,MEX,11,17
+11,DIV,Diving,Summer,RUS,24,46
+11,DIV,Diving,Summer,SWE,21,41
+11,DIV,Diving,Summer,UKR,4,4
+11,DIV,Diving,Summer,URS,17,31
+11,DIV,Diving,Summer,USA,131,268
+12,EQU,Equestrian,Summer,,1,2
+12,EQU,Equestrian,Summer,ARG,1,2
+12,EQU,Equestrian,Summer,AUS,30,69
+12,EQU,Equestrian,Summer,AUT,5,10
+12,EQU,Equestrian,Summer,BEL,22,40
+12,EQU,Equestrian,Summer,BRA,9,11
+12,EQU,Equestrian,Summer,BUL,3,6
+12,EQU,Equestrian,Summer,CAN,16,29
+12,EQU,Equestrian,Summer,CHI,4,8
+12,EQU,Equestrian,Summer,CZE,1,3
+12,EQU,Equestrian,Summer,DEN,8,12
+12,EQU,Equestrian,Summer,DEU,8,13
+12,EQU,Equestrian,Summer,ESP,11,24
+12,EQU,Equestrian,Summer,FRA,68,140
+12,EQU,Equestrian,Summer,FRG,63,134
+12,EQU,Equestrian,Summer,GBR,63,120
+12,EQU,Equestrian,Summer,GER,107,257
+12,EQU,Equestrian,Summer,HUN,1,1
+12,EQU,Equestrian,Summer,ITA,28,52
+12,EQU,Equestrian,Summer,JPN,1,3
+12,EQU,Equestrian,Summer,KIT,15,25
+12,EQU,Equestrian,Summer,KSA,1,1
+12,EQU,Equestrian,Summer,MEX,17,26
+12,EQU,Equestrian,Summer,NED,44,100
+12,EQU,Equestrian,Summer,NOR,3,6
+12,EQU,Equestrian,Summer,NZL,17,27
+12,EQU,Equestrian,Summer,POL,15,27
+12,EQU,Equestrian,Summer,POR,9,9
+12,EQU,Equestrian,Summer,ROM,4,5
+12,EQU,Equestrian,Summer,SUI,47,83
+12,EQU,Equestrian,Summer,SWE,78,165
+12,EQU,Equestrian,Summer,URS,29,68
+12,EQU,Equestrian,Summer,USA,120,223
+13,FEN,Fencing,Summer,ARG,5,5
+13,FEN,Fencing,Summer,AUT,14,24
+13,FEN,Fencing,Summer,BEL,51,95
+13,FEN,Fencing,Summer,BOH,6,6
+13,FEN,Fencing,Summer,CHN,21,40
+13,FEN,Fencing,Summer,CUB,25,44
+13,FEN,Fencing,Summer,DEN,6,10
+13,FEN,Fencing,Summer,DEU,7,19
+13,FEN,Fencing,Summer,ESP,1,1
+13,FEN,Fencing,Summer,FRA,302,641
+13,FEN,Fencing,Summer,FRG,48,118
+13,FEN,Fencing,Summer,GBR,28,57
+13,FEN,Fencing,Summer,GDR,1,2
+13,FEN,Fencing,Summer,GER,63,104
+13,FEN,Fencing,Summer,GRE,11,23
+13,FEN,Fencing,Summer,HUN,229,488
+13,FEN,Fencing,Summer,INT,3,9
+13,FEN,Fencing,Summer,ITA,216,456
+13,FEN,Fencing,Summer,JPN,1,2
+13,FEN,Fencing,Summer,KIT,118,288
+13,FEN,Fencing,Summer,KOR,3,6
+13,FEN,Fencing,Summer,MEX,1,2
+13,FEN,Fencing,Summer,NED,31,32
+13,FEN,Fencing,Summer,POL,82,132
+13,FEN,Fencing,Summer,POR,6,6
+13,FEN,Fencing,Summer,ROM,38,54
+13,FEN,Fencing,Summer,RUS,42,96
+13,FEN,Fencing,Summer,SUI,24,37
+13,FEN,Fencing,Summer,SWE,26,51
+13,FEN,Fencing,Summer,UKR,5,13
+13,FEN,Fencing,Summer,URS,160,346
+13,FEN,Fencing,Summer,USA,48,66
+48,FIG,Figure Skating,Winter,AUT,25,54
+48,FIG,Figure Skating,Winter,BEL,3,7
+48,FIG,Figure Skating,Winter,CAN,28,46
+48,FIG,Figure Skating,Winter,CHN,8,10
+48,FIG,Figure Skating,Winter,CZE,4,7
+48,FIG,Figure Skating,Winter,CZR,1,1
+48,FIG,Figure Skating,Winter,FIN,2,4
+48,FIG,Figure Skating,Winter,FRA,18,33
+48,FIG,Figure Skating,Winter,FRG,3,3
+48,FIG,Figure Skating,Winter,GBR,10,21
+48,FIG,Figure Skating,Winter,GDR,14,24
+48,FIG,Figure Skating,Winter,GER,12,27
+48,FIG,Figure Skating,Winter,HUN,12,16
+48,FIG,Figure Skating,Winter,ITA,2,2
+48,FIG,Figure Skating,Winter,JPN,2,5
+48,FIG,Figure Skating,Winter,NED,3,7
+48,FIG,Figure Skating,Winter,NOR,3,9
+48,FIG,Figure Skating,Winter,RUS,31,79
+48,FIG,Figure Skating,Winter,SUI,3,5
+48,FIG,Figure Skating,Winter,SWE,4,9
+48,FIG,Figure Skating,Winter,UKR,3,5
+48,FIG,Figure Skating,Winter,URS,51,118
+48,FIG,Figure Skating,Winter,USA,49,94
+14,GOL,Golf,Summer,CAN,1,3
+14,GOL,Golf,Summer,GBR,2,3
+14,GOL,Golf,Summer,USA,37,73
+15,GYM,Gymnastics,Summer,AUS,1,2
+15,GYM,Gymnastics,Summer,BEL,48,72
+15,GYM,Gymnastics,Summer,BLR,18,26
+15,GYM,Gymnastics,Summer,BUL,23,36
+15,GYM,Gymnastics,Summer,CAN,7,14
+15,GYM,Gymnastics,Summer,CHN,103,218
+15,GYM,Gymnastics,Summer,CRO,1,2
+15,GYM,Gymnastics,Summer,CZE,78,158
+15,GYM,Gymnastics,Summer,DEN,110,219
+15,GYM,Gymnastics,Summer,DEU,32,86
+15,GYM,Gymnastics,Summer,ESP,11,29
+15,GYM,Gymnastics,Summer,FIN,94,144
+15,GYM,Gymnastics,Summer,FRA,57,84
+15,GYM,Gymnastics,Summer,FRG,2,2
+15,GYM,Gymnastics,Summer,GBR,37,38
+15,GYM,Gymnastics,Summer,GDR,86,126
+15,GYM,Gymnastics,Summer,GER,42,89
+15,GYM,Gymnastics,Summer,GRE,23,39
+15,GYM,Gymnastics,Summer,HUN,107,190
+15,GYM,Gymnastics,Summer,ITA,20,34
+15,GYM,Gymnastics,Summer,JPN,152,309
+15,GYM,Gymnastics,Summer,KIT,94,238
+15,GYM,Gymnastics,Summer,KOR,8,12
+15,GYM,Gymnastics,Summer,LAT,2,5
+15,GYM,Gymnastics,Summer,NED,12,36
+15,GYM,Gymnastics,Summer,NOR,123,268
+15,GYM,Gymnastics,Summer,POL,9,12
+15,GYM,Gymnastics,Summer,PRK,2,6
+15,GYM,Gymnastics,Summer,ROM,128,245
+15,GYM,Gymnastics,Summer,RUS,88,184
+15,GYM,Gymnastics,Summer,SUI,80,163
+15,GYM,Gymnastics,Summer,SWE,103,300
+15,GYM,Gymnastics,Summer,UKR,26,46
+15,GYM,Gymnastics,Summer,URS,320,748
+15,GYM,Gymnastics,Summer,USA,161,316
+15,GYM,Gymnastics,Summer,UZB,2,2
+15,GYM,Gymnastics,Summer,YUG,18,30
+16,HAN,Handball,Summer,AUT,23,45
+16,HAN,Handball,Summer,CHN,13,13
+16,HAN,Handball,Summer,CRO,31,93
+16,HAN,Handball,Summer,CZE,16,32
+16,HAN,Handball,Summer,DEN,46,138
+16,HAN,Handball,Summer,ESP,44,44
+16,HAN,Handball,Summer,FRA,31,61
+16,HAN,Handball,Summer,FRG,15,30
+16,HAN,Handball,Summer,GDR,42,84
+16,HAN,Handball,Summer,GER,37,96
+16,HAN,Handball,Summer,HUN,44,59
+16,HAN,Handball,Summer,ICE,14,28
+16,HAN,Handball,Summer,KOR,99,212
+16,HAN,Handball,Summer,NOR,58,115
+16,HAN,Handball,Summer,POL,14,14
+16,HAN,Handball,Summer,ROM,58,72
+16,HAN,Handball,Summer,RUS,44,88
+16,HAN,Handball,Summer,SUI,16,16
+16,HAN,Handball,Summer,SWE,48,96
+16,HAN,Handball,Summer,UKR,15,15
+16,HAN,Handball,Summer,URS,114,272
+16,HAN,Handball,Summer,YUG,73,175
+17,HOC,Hockey,Summer,ARG,32,48
+17,HOC,Hockey,Summer,AUS,172,345
+17,HOC,Hockey,Summer,BEL,14,14
+17,HOC,Hockey,Summer,BIN,48,144
+17,HOC,Hockey,Summer,BLR,16,16
+17,HOC,Hockey,Summer,CHN,16,32
+17,HOC,Hockey,Summer,CZE,16,32
+17,HOC,Hockey,Summer,DEN,12,24
+17,HOC,Hockey,Summer,ESP,76,152
+17,HOC,Hockey,Summer,FRG,66,150
+17,HOC,Hockey,Summer,GBR,131,236
+17,HOC,Hockey,Summer,GER,133,269
+17,HOC,Hockey,Summer,IND,127,308
+17,HOC,Hockey,Summer,JPN,11,22
+17,HOC,Hockey,Summer,KOR,48,96
+17,HOC,Hockey,Summer,NED,206,388
+17,HOC,Hockey,Summer,NZL,14,42
+17,HOC,Hockey,Summer,PAK,120,249
+17,HOC,Hockey,Summer,URS,32,32
+17,HOC,Hockey,Summer,USA,29,29
+17,HOC,Hockey,Summer,ZIM,15,45
+49,ICE,Ice Hockey,Winter,CAN,254,599
+49,ICE,Ice Hockey,Winter,CZE,108,181
+49,ICE,Ice Hockey,Winter,CZR,71,119
+49,ICE,Ice Hockey,Winter,FIN,109,153
+49,ICE,Ice Hockey,Winter,FRG,18,18
+49,ICE,Ice Hockey,Winter,GBR,22,46
+49,ICE,Ice Hockey,Winter,GER,10,10
+49,ICE,Ice Hockey,Winter,RUS,47,71
+49,ICE,Ice Hockey,Winter,SUI,29,29
+49,ICE,Ice Hockey,Winter,SWE,195,337
+49,ICE,Ice Hockey,Winter,URS,192,522
+49,ICE,Ice Hockey,Winter,USA,203,432
+19,JUD,Judo,Summer,ALG,2,3
+19,JUD,Judo,Summer,ARG,1,1
+19,JUD,Judo,Summer,AUS,2,2
+19,JUD,Judo,Summer,AUT,5,11
+19,JUD,Judo,Summer,AZE,2,4
+19,JUD,Judo,Summer,BEL,10,15
+19,JUD,Judo,Summer,BLR,2,4
+19,JUD,Judo,Summer,BRA,14,19
+19,JUD,Judo,Summer,BUL,3,4
+19,JUD,Judo,Summer,CAN,4,6
+19,JUD,Judo,Summer,CHN,18,36
+19,JUD,Judo,Summer,CUB,33,54
+19,JUD,Judo,Summer,CZE,1,1
+19,JUD,Judo,Summer,EGY,2,3
+19,JUD,Judo,Summer,ESP,6,13
+19,JUD,Judo,Summer,EST,3,3
+19,JUD,Judo,Summer,FRA,38,66
+19,JUD,Judo,Summer,FRG,8,14
+19,JUD,Judo,Summer,GBR,15,22
+19,JUD,Judo,Summer,GDR,9,13
+19,JUD,Judo,Summer,GEO,5,10
+19,JUD,Judo,Summer,GER,15,22
+19,JUD,Judo,Summer,GRE,1,3
+19,JUD,Judo,Summer,HUN,8,14
+19,JUD,Judo,Summer,ISL,1,1
+19,JUD,Judo,Summer,ISR,3,4
+19,JUD,Judo,Summer,ITA,12,21
+19,JUD,Judo,Summer,JAP,1,2
+19,JUD,Judo,Summer,JPN,64,149
+19,JUD,Judo,Summer,KAZ,1,2
+19,JUD,Judo,Summer,KGZ,1,1
+19,JUD,Judo,Summer,KOR,36,68
+19,JUD,Judo,Summer,LAT,1,1
+19,JUD,Judo,Summer,MGL,5,8
+19,JUD,Judo,Summer,NED,19,29
+19,JUD,Judo,Summer,POL,8,17
+19,JUD,Judo,Summer,POR,1,1
+19,JUD,Judo,Summer,PRK,7,11
+19,JUD,Judo,Summer,ROM,4,6
+19,JUD,Judo,Summer,RUS,8,11
+19,JUD,Judo,Summer,SLO,2,2
+19,JUD,Judo,Summer,SUI,4,7
+19,JUD,Judo,Summer,SVK,1,2
+19,JUD,Judo,Summer,TJK,1,1
+19,JUD,Judo,Summer,TUR,2,4
+19,JUD,Judo,Summer,UKR,3,4
+19,JUD,Judo,Summer,URS,27,46
+19,JUD,Judo,Summer,USA,10,13
+19,JUD,Judo,Summer,UZB,3,5
+19,JUD,Judo,Summer,YUG,2,2
+20,LAC,Lacrosse,Summer,CAN,36,84
+20,LAC,Lacrosse,Summer,GBR,12,24
+20,LAC,Lacrosse,Summer,USA,12,24
+50,LUG,Lugeing,Winter,AUT,23,43
+50,LUG,Lugeing,Winter,CAN,3,6
+50,LUG,Lugeing,Winter,FRG,14,23
+50,LUG,Lugeing,Winter,GBR,4,5
+50,LUG,Lugeing,Winter,GDR,37,82
+50,LUG,Lugeing,Winter,GER,32,71
+50,LUG,Lugeing,Winter,ITA,23,49
+50,LUG,Lugeing,Winter,LAT,1,1
+50,LUG,Lugeing,Winter,RUS,1,2
+50,LUG,Lugeing,Winter,SUI,3,5
+50,LUG,Lugeing,Winter,URS,7,12
+50,LUG,Lugeing,Winter,USA,14,27
+21,MOD,Modern Pentathlon,Summer,BLR,1,1
+21,MOD,Modern Pentathlon,Summer,CZE,4,7
+21,MOD,Modern Pentathlon,Summer,CZR,1,1
+21,MOD,Modern Pentathlon,Summer,FIN,11,12
+21,MOD,Modern Pentathlon,Summer,FRA,6,6
+21,MOD,Modern Pentathlon,Summer,GBR,10,19
+21,MOD,Modern Pentathlon,Summer,GER,3,7
+21,MOD,Modern Pentathlon,Summer,HUN,37,83
+21,MOD,Modern Pentathlon,Summer,ITA,13,24
+21,MOD,Modern Pentathlon,Summer,KAZ,1,3
+21,MOD,Modern Pentathlon,Summer,KIT,1,1
+21,MOD,Modern Pentathlon,Summer,LAT,1,2
+21,MOD,Modern Pentathlon,Summer,LTU,3,5
+21,MOD,Modern Pentathlon,Summer,POL,5,15
+21,MOD,Modern Pentathlon,Summer,RUS,4,11
+21,MOD,Modern Pentathlon,Summer,SWE,25,52
+21,MOD,Modern Pentathlon,Summer,UKR,1,1
+21,MOD,Modern Pentathlon,Summer,URS,31,69
+21,MOD,Modern Pentathlon,Summer,USA,17,29
+22,MOT,Motor Boating,Summer,FRA,1,3
+22,MOT,Motor Boating,Summer,GBR,6,18
+51,NOR,Nordic Skiing,Winter,AUT,57,99
+51,NOR,Nordic Skiing,Winter,BUL,1,1
+51,NOR,Nordic Skiing,Winter,CAN,4,10
+51,NOR,Nordic Skiing,Winter,CZE,17,25
+51,NOR,Nordic Skiing,Winter,CZR,11,18
+51,NOR,Nordic Skiing,Winter,EST,6,15
+51,NOR,Nordic Skiing,Winter,FIN,179,352
+51,NOR,Nordic Skiing,Winter,FRA,7,11
+51,NOR,Nordic Skiing,Winter,FRG,5,14
+51,NOR,Nordic Skiing,Winter,GDR,24,48
+51,NOR,Nordic Skiing,Winter,GER,51,108
+51,NOR,Nordic Skiing,Winter,ITA,57,107
+51,NOR,Nordic Skiing,Winter,JPN,22,54
+51,NOR,Nordic Skiing,Winter,KAZ,4,8
+51,NOR,Nordic Skiing,Winter,NOR,217,447
+51,NOR,Nordic Skiing,Winter,POL,5,8
+51,NOR,Nordic Skiing,Winter,RUS,36,84
+51,NOR,Nordic Skiing,Winter,SLO,4,4
+51,NOR,Nordic Skiing,Winter,SUI,21,32
+51,NOR,Nordic Skiing,Winter,SWE,97,201
+51,NOR,Nordic Skiing,Winter,URS,127,267
+51,NOR,Nordic Skiing,Winter,USA,2,3
+51,NOR,Nordic Skiing,Winter,YUG,4,7
+18,PAU,Jeu De Paume,Summer,GBR,2,3
+18,PAU,Jeu De Paume,Summer,USA,1,3
+23,PEB,Pelota Basque,Summer,ESP,2,6
+23,PEB,Pelota Basque,Summer,FRA,2,4
+24,POL,Polo,Summer,ARG,9,27
+24,POL,Polo,Summer,ESP,5,10
+24,POL,Polo,Summer,GBR,24,52
+24,POL,Polo,Summer,INT,13,27
+24,POL,Polo,Summer,MEX,8,8
+24,POL,Polo,Summer,USA,8,12
+25,RAC,Rackets,Summer,GBR,10,19
+26,ROW,Rowing,Summer,ARG,6,11
+26,ROW,Rowing,Summer,AUS,122,204
+26,ROW,Rowing,Summer,AUT,9,14
+26,ROW,Rowing,Summer,BEL,30,56
+26,ROW,Rowing,Summer,BLR,17,22
+26,ROW,Rowing,Summer,BUL,32,54
+26,ROW,Rowing,Summer,CAN,183,353
+26,ROW,Rowing,Summer,CHN,24,41
+26,ROW,Rowing,Summer,CRO,11,13
+26,ROW,Rowing,Summer,CZE,44,61
+26,ROW,Rowing,Summer,CZR,6,12
+26,ROW,Rowing,Summer,DEN,66,122
+26,ROW,Rowing,Summer,DEU,32,52
+26,ROW,Rowing,Summer,ESP,2,4
+26,ROW,Rowing,Summer,EST,4,7
+26,ROW,Rowing,Summer,FIN,16,24
+26,ROW,Rowing,Summer,FRA,111,193
+26,ROW,Rowing,Summer,FRG,50,108
+26,ROW,Rowing,Summer,GBR,216,486
+26,ROW,Rowing,Summer,GDR,184,485
+26,ROW,Rowing,Summer,GER,169,368
+26,ROW,Rowing,Summer,GRE,53,114
+26,ROW,Rowing,Summer,HUN,8,12
+26,ROW,Rowing,Summer,ITA,81,162
+26,ROW,Rowing,Summer,KIT,94,180
+26,ROW,Rowing,Summer,LTU,2,2
+26,ROW,Rowing,Summer,NED,114,200
+26,ROW,Rowing,Summer,NOR,52,78
+26,ROW,Rowing,Summer,NZL,55,107
+26,ROW,Rowing,Summer,POL,44,69
+26,ROW,Rowing,Summer,ROM,149,329
+26,ROW,Rowing,Summer,RSA,2,2
+26,ROW,Rowing,Summer,RUS,17,25
+26,ROW,Rowing,Summer,SLO,10,16
+26,ROW,Rowing,Summer,SUI,70,135
+26,ROW,Rowing,Summer,SWE,10,20
+26,ROW,Rowing,Summer,UKR,8,12
+26,ROW,Rowing,Summer,URS,156,286
+26,ROW,Rowing,Summer,URU,6,7
+26,ROW,Rowing,Summer,USA,344,778
+26,ROW,Rowing,Summer,YUG,13,23
+27,RUG,Rugby,Summer,ANZ,15,45
+27,RUG,Rugby,Summer,DEU,15,30
+27,RUG,Rugby,Summer,FRA,51,119
+27,RUG,Rugby,Summer,GBR,30,45
+27,RUG,Rugby,Summer,ROM,16,16
+27,RUG,Rugby,Summer,USA,35,105
+29,SHO,Shooting,Summer,ARG,1,2
+29,SHO,Shooting,Summer,AUS,10,19
+29,SHO,Shooting,Summer,AUT,8,12
+29,SHO,Shooting,Summer,AZE,3,5
+29,SHO,Shooting,Summer,BEL,15,28
+29,SHO,Shooting,Summer,BLR,6,8
+29,SHO,Shooting,Summer,BRA,7,10
+29,SHO,Shooting,Summer,BUL,16,30
+29,SHO,Shooting,Summer,CAN,22,41
+29,SHO,Shooting,Summer,CHI,1,2
+29,SHO,Shooting,Summer,CHN,42,91
+29,SHO,Shooting,Summer,COL,2,4
+29,SHO,Shooting,Summer,CRO,1,1
+29,SHO,Shooting,Summer,CUB,3,3
+29,SHO,Shooting,Summer,CZE,7,16
+29,SHO,Shooting,Summer,CZR,10,19
+29,SHO,Shooting,Summer,DEN,26,49
+29,SHO,Shooting,Summer,DEU,7,8
+29,SHO,Shooting,Summer,ESP,3,5
+29,SHO,Shooting,Summer,FIN,39,58
+29,SHO,Shooting,Summer,FRA,72,128
+29,SHO,Shooting,Summer,FRG,11,23
+29,SHO,Shooting,Summer,GBR,95,186
+29,SHO,Shooting,Summer,GDR,17,33
+29,SHO,Shooting,Summer,GEO,1,1
+29,SHO,Shooting,Summer,GER,19,40
+29,SHO,Shooting,Summer,GRE,22,43
+29,SHO,Shooting,Summer,HAI,5,5
+29,SHO,Shooting,Summer,HUN,17,34
+29,SHO,Shooting,Summer,IND,2,5
+29,SHO,Shooting,Summer,ITA,28,55
+29,SHO,Shooting,Summer,JPN,6,10
+29,SHO,Shooting,Summer,KAZ,3,5
+29,SHO,Shooting,Summer,KIT,3,6
+29,SHO,Shooting,Summer,KOR,8,18
+29,SHO,Shooting,Summer,KUW,1,1
+29,SHO,Shooting,Summer,LAT,1,2
+29,SHO,Shooting,Summer,LTU,1,3
+29,SHO,Shooting,Summer,MDA,1,2
+29,SHO,Shooting,Summer,MEX,1,2
+29,SHO,Shooting,Summer,MGL,2,3
+29,SHO,Shooting,Summer,NED,6,7
+29,SHO,Shooting,Summer,NOR,82,180
+29,SHO,Shooting,Summer,NZL,1,1
+29,SHO,Shooting,Summer,PER,3,7
+29,SHO,Shooting,Summer,POL,11,21
+29,SHO,Shooting,Summer,POR,1,2
+29,SHO,Shooting,Summer,PRK,2,4
+29,SHO,Shooting,Summer,ROM,14,28
+29,SHO,Shooting,Summer,RUS,31,60
+29,SHO,Shooting,Summer,SAF,5,10
+29,SHO,Shooting,Summer,SLO,2,4
+29,SHO,Shooting,Summer,SUI,59,117
+29,SHO,Shooting,Summer,SVK,3,4
+29,SHO,Shooting,Summer,SWE,124,240
+29,SHO,Shooting,Summer,UAE,1,3
+29,SHO,Shooting,Summer,UKR,5,14
+29,SHO,Shooting,Summer,URS,57,118
+29,SHO,Shooting,Summer,USA,184,442
+29,SHO,Shooting,Summer,VEN,1,1
+29,SHO,Shooting,Summer,YUF,6,10
+29,SHO,Shooting,Summer,YUG,4,9
+30,SOC,Soccer,Summer,ARG,69,173
+30,SOC,Soccer,Summer,AUT,13,26
+30,SOC,Soccer,Summer,BEL,25,53
+30,SOC,Soccer,Summer,BRA,103,170
+30,SOC,Soccer,Summer,BUL,32,50
+30,SOC,Soccer,Summer,CAN,11,33
+30,SOC,Soccer,Summer,CHI,18,18
+30,SOC,Soccer,Summer,CHN,16,32
+30,SOC,Soccer,Summer,CMR,18,54
+30,SOC,Soccer,Summer,CZE,33,82
+30,SOC,Soccer,Summer,DEN,65,129
+30,SOC,Soccer,Summer,ESP,55,130
+30,SOC,Soccer,Summer,FRA,29,74
+30,SOC,Soccer,Summer,FRG,18,18
+30,SOC,Soccer,Summer,GBR,36,108
+30,SOC,Soccer,Summer,GDR,51,102
+30,SOC,Soccer,Summer,GER,72,72
+30,SOC,Soccer,Summer,GHA,20,20
+30,SOC,Soccer,Summer,GRE,11,11
+30,SOC,Soccer,Summer,HUN,79,188
+30,SOC,Soccer,Summer,INT,11,22
+30,SOC,Soccer,Summer,ITA,17,17
+30,SOC,Soccer,Summer,JPN,16,16
+30,SOC,Soccer,Summer,KIT,31,59
+30,SOC,Soccer,Summer,NED,41,41
+30,SOC,Soccer,Summer,NGR,36,90
+30,SOC,Soccer,Summer,NOR,47,83
+30,SOC,Soccer,Summer,PAR,17,34
+30,SOC,Soccer,Summer,POL,50,117
+30,SOC,Soccer,Summer,SUI,15,30
+30,SOC,Soccer,Summer,SWE,42,66
+30,SOC,Soccer,Summer,URS,88,162
+30,SOC,Soccer,Summer,URU,32,96
+30,SOC,Soccer,Summer,USA,92,223
+30,SOC,Soccer,Summer,YUG,73,145
+31,SOF,Softball,Summer,AUS,65,80
+31,SOF,Softball,Summer,CHN,17,34
+31,SOF,Softball,Summer,JPN,45,90
+31,SOF,Softball,Summer,USA,60,165
+52,SPE,Speed Skating,Winter,AUS,5,7
+52,SPE,Speed Skating,Winter,AUT,6,10
+52,SPE,Speed Skating,Winter,BEL,1,1
+52,SPE,Speed Skating,Winter,BLR,1,2
+52,SPE,Speed Skating,Winter,BUL,3,5
+52,SPE,Speed Skating,Winter,CAN,82,159
+52,SPE,Speed Skating,Winter,CHN,37,62
+52,SPE,Speed Skating,Winter,FIN,24,46
+52,SPE,Speed Skating,Winter,FRG,3,9
+52,SPE,Speed Skating,Winter,GBR,1,1
+52,SPE,Speed Skating,Winter,GDR,29,57
+52,SPE,Speed Skating,Winter,GER,40,87
+52,SPE,Speed Skating,Winter,ITA,19,42
+52,SPE,Speed Skating,Winter,JPN,18,25
+52,SPE,Speed Skating,Winter,KAZ,1,1
+52,SPE,Speed Skating,Winter,KOR,52,133
+52,SPE,Speed Skating,Winter,NED,79,155
+52,SPE,Speed Skating,Winter,NOR,79,157
+52,SPE,Speed Skating,Winter,POL,2,3
+52,SPE,Speed Skating,Winter,PRK,2,3
+52,SPE,Speed Skating,Winter,RUS,12,21
+52,SPE,Speed Skating,Winter,SWE,16,34
+52,SPE,Speed Skating,Winter,URS,64,129
+52,SPE,Speed Skating,Winter,USA,87,180
+32,SWI,Swimming,Summer,ANZ,11,24
+32,SWI,Swimming,Summer,ARG,3,6
+32,SWI,Swimming,Summer,AUS,311,625
+32,SWI,Swimming,Summer,AUT,17,27
+32,SWI,Swimming,Summer,BEL,4,7
+32,SWI,Swimming,Summer,BRA,17,22
+32,SWI,Swimming,Summer,BUL,3,6
+32,SWI,Swimming,Summer,CAN,75,111
+32,SWI,Swimming,Summer,CHN,49,93
+32,SWI,Swimming,Summer,CRC,4,7
+32,SWI,Swimming,Summer,CRO,1,2
+32,SWI,Swimming,Summer,CUB,2,3
+32,SWI,Swimming,Summer,DEN,15,27
+32,SWI,Swimming,Summer,DEU,29,67
+32,SWI,Swimming,Summer,ESP,4,6
+32,SWI,Swimming,Summer,FIN,4,5
+32,SWI,Swimming,Summer,FRA,52,80
+32,SWI,Swimming,Summer,FRG,48,68
+32,SWI,Swimming,Summer,GBR,109,189
+32,SWI,Swimming,Summer,GDR,137,299
+32,SWI,Swimming,Summer,GER,125,180
+32,SWI,Swimming,Summer,GRE,7,12
+32,SWI,Swimming,Summer,HUN,83,173
+32,SWI,Swimming,Summer,IRL,4,10
+32,SWI,Swimming,Summer,ITA,22,34
+32,SWI,Swimming,Summer,JPN,92,174
+32,SWI,Swimming,Summer,KOR,2,5
+32,SWI,Swimming,Summer,MEX,2,4
+32,SWI,Swimming,Summer,NED,100,191
+32,SWI,Swimming,Summer,NOR,2,3
+32,SWI,Swimming,Summer,NZL,6,11
+32,SWI,Swimming,Summer,PHI,2,2
+32,SWI,Swimming,Summer,POL,6,11
+32,SWI,Swimming,Summer,ROM,9,17
+32,SWI,Swimming,Summer,RSA,11,25
+32,SWI,Swimming,Summer,RUS,29,58
+32,SWI,Swimming,Summer,SAF,10,12
+32,SWI,Swimming,Summer,SLO,1,2
+32,SWI,Swimming,Summer,SRB,1,2
+32,SWI,Swimming,Summer,SUI,1,1
+32,SWI,Swimming,Summer,SUR,3,5
+32,SWI,Swimming,Summer,SVK,2,4
+32,SWI,Swimming,Summer,SWE,61,100
+32,SWI,Swimming,Summer,TRI,1,1
+32,SWI,Swimming,Summer,TUN,1,3
+32,SWI,Swimming,Summer,UKR,7,17
+32,SWI,Swimming,Summer,URS,127,229
+32,SWI,Swimming,Summer,USA,825,1959
+32,SWI,Swimming,Summer,VEN,1,1
+32,SWI,Swimming,Summer,YUG,2,5
+32,SWI,Swimming,Summer,ZIM,7,15
+33,SYN,Synchronised Swimming,Summer,CAN,28,51
+33,SYN,Synchronised Swimming,Summer,CHN,9,9
+33,SYN,Synchronised Swimming,Summer,ESP,11,22
+33,SYN,Synchronised Swimming,Summer,FRA,2,2
+33,SYN,Synchronised Swimming,Summer,JPN,42,63
+33,SYN,Synchronised Swimming,Summer,RUS,32,96
+33,SYN,Synchronised Swimming,Summer,USA,29,64
+34,TAB,Table Tennis,Summer,CHN,61,146
+34,TAB,Table Tennis,Summer,DEN,2,2
+34,TAB,Table Tennis,Summer,FRA,3,4
+34,TAB,Table Tennis,Summer,GER,6,11
+34,TAB,Table Tennis,Summer,HKG,2,4
+34,TAB,Table Tennis,Summer,KOR,30,41
+34,TAB,Table Tennis,Summer,PRK,4,5
+34,TAB,Table Tennis,Summer,SIN,3,6
+34,TAB,Table Tennis,Summer,SWE,3,6
+34,TAB,Table Tennis,Summer,TPE,2,3
+34,TAB,Table Tennis,Summer,YUG,4,6
+36,TEN,Tennis,Summer,ANZ,1,1
+36,TEN,Tennis,Summer,ARG,5,6
+36,TEN,Tennis,Summer,AUS,9,15
+36,TEN,Tennis,Summer,AUT,2,4
+36,TEN,Tennis,Summer,BEL,3,5
+36,TEN,Tennis,Summer,BOH,5,5
+36,TEN,Tennis,Summer,BUL,1,1
+36,TEN,Tennis,Summer,CAN,2,6
+36,TEN,Tennis,Summer,CHI,5,12
+36,TEN,Tennis,Summer,CHN,4,8
+36,TEN,Tennis,Summer,CRO,5,5
+36,TEN,Tennis,Summer,CZE,7,11
+36,TEN,Tennis,Summer,CZR,3,5
+36,TEN,Tennis,Summer,DEN,1,2
+36,TEN,Tennis,Summer,DEU,5,11
+36,TEN,Tennis,Summer,ESP,17,30
+36,TEN,Tennis,Summer,FRA,32,63
+36,TEN,Tennis,Summer,FRG,3,5
+36,TEN,Tennis,Summer,GBR,60,124
+36,TEN,Tennis,Summer,GER,8,16
+36,TEN,Tennis,Summer,GRE,11,19
+36,TEN,Tennis,Summer,HUN,1,1
+36,TEN,Tennis,Summer,IND,1,1
+36,TEN,Tennis,Summer,INT,10,20
+36,TEN,Tennis,Summer,JPN,3,6
+36,TEN,Tennis,Summer,KIT,1,1
+36,TEN,Tennis,Summer,NED,4,6
+36,TEN,Tennis,Summer,NOR,1,1
+36,TEN,Tennis,Summer,RSA,2,4
+36,TEN,Tennis,Summer,RUS,5,11
+36,TEN,Tennis,Summer,SAF,6,15
+36,TEN,Tennis,Summer,SRB,1,1
+36,TEN,Tennis,Summer,SUI,3,9
+36,TEN,Tennis,Summer,SWE,14,20
+36,TEN,Tennis,Summer,URS,3,3
+36,TEN,Tennis,Summer,USA,48,109
+35,TKD,Taekwondo,Summer,AFG,1,1
+35,TKD,Taekwondo,Summer,AUS,2,5
+35,TKD,Taekwondo,Summer,BRA,1,1
+35,TKD,Taekwondo,Summer,CAN,2,3
+35,TKD,Taekwondo,Summer,CHN,5,13
+35,TKD,Taekwondo,Summer,CRO,2,2
+35,TKD,Taekwondo,Summer,CUB,4,8
+35,TKD,Taekwondo,Summer,DOM,1,2
+35,TKD,Taekwondo,Summer,EGY,1,1
+35,TKD,Taekwondo,Summer,ESP,1,2
+35,TKD,Taekwondo,Summer,FRA,4,5
+35,TKD,Taekwondo,Summer,GBR,1,1
+35,TKD,Taekwondo,Summer,GER,1,2
+35,TKD,Taekwondo,Summer,GRE,4,9
+35,TKD,Taekwondo,Summer,IRI,3,5
+35,TKD,Taekwondo,Summer,IRN,1,3
+35,TKD,Taekwondo,Summer,ITA,1,2
+35,TKD,Taekwondo,Summer,JPN,1,1
+35,TKD,Taekwondo,Summer,KAZ,1,1
+35,TKD,Taekwondo,Summer,KOR,12,31
+35,TKD,Taekwondo,Summer,MEX,5,10
+35,TKD,Taekwondo,Summer,NGR,1,1
+35,TKD,Taekwondo,Summer,NOR,2,4
+35,TKD,Taekwondo,Summer,RUS,1,2
+35,TKD,Taekwondo,Summer,THA,2,3
+35,TKD,Taekwondo,Summer,TPE,7,12
+35,TKD,Taekwondo,Summer,TUR,4,6
+35,TKD,Taekwondo,Summer,USA,6,12
+35,TKD,Taekwondo,Summer,VEN,2,2
+35,TKD,Taekwondo,Summer,VIE,1,2
+38,TRI,Triathlon,Summer,AUS,4,8
+38,TRI,Triathlon,Summer,AUT,1,3
+38,TRI,Triathlon,Summer,CAN,2,5
+38,TRI,Triathlon,Summer,CZR,1,1
+38,TRI,Triathlon,Summer,GER,2,5
+38,TRI,Triathlon,Summer,NZL,3,6
+38,TRI,Triathlon,Summer,POR,1,2
+38,TRI,Triathlon,Summer,SUI,3,5
+38,TRI,Triathlon,Summer,USA,1,1
+39,TUG,Tug Of War,Summer,BEL,8,8
+39,TUG,Tug Of War,Summer,DEN,3,9
+39,TUG,Tug Of War,Summer,DEU,8,24
+39,TUG,Tug Of War,Summer,FRA,6,12
+39,TUG,Tug Of War,Summer,GBR,40,88
+39,TUG,Tug Of War,Summer,GRE,8,16
+39,TUG,Tug Of War,Summer,NED,8,16
+39,TUG,Tug Of War,Summer,SWE,19,41
+39,TUG,Tug Of War,Summer,USA,15,30
+40,VOL,Volleyball,Summer,ARG,12,12
+40,VOL,Volleyball,Summer,AUS,4,8
+40,VOL,Volleyball,Summer,BRA,101,214
+40,VOL,Volleyball,Summer,BUL,22,34
+40,VOL,Volleyball,Summer,CAN,2,2
+40,VOL,Volleyball,Summer,CHN,63,125
+40,VOL,Volleyball,Summer,CUB,58,126
+40,VOL,Volleyball,Summer,CZE,24,36
+40,VOL,Volleyball,Summer,ESP,2,4
+40,VOL,Volleyball,Summer,GDR,24,48
+40,VOL,Volleyball,Summer,GER,2,2
+40,VOL,Volleyball,Summer,ITA,49,73
+40,VOL,Volleyball,Summer,JPN,92,196
+40,VOL,Volleyball,Summer,KOR,12,12
+40,VOL,Volleyball,Summer,NED,24,60
+40,VOL,Volleyball,Summer,PER,12,24
+40,VOL,Volleyball,Summer,POL,34,58
+40,VOL,Volleyball,Summer,PRK,11,11
+40,VOL,Volleyball,Summer,ROM,10,10
+40,VOL,Volleyball,Summer,RUS,61,98
+40,VOL,Volleyball,Summer,SUI,2,2
+40,VOL,Volleyball,Summer,URS,149,368
+40,VOL,Volleyball,Summer,USA,98,216
+40,VOL,Volleyball,Summer,YUF,24,48
+42,WEI,Weightlifting,Summer,ARG,2,3
+42,WEI,Weightlifting,Summer,ARM,4,4
+42,WEI,Weightlifting,Summer,AUS,4,7
+42,WEI,Weightlifting,Summer,AUT,11,24
+42,WEI,Weightlifting,Summer,AZE,1,1
+42,WEI,Weightlifting,Summer,BEL,4,8
+42,WEI,Weightlifting,Summer,BLR,8,13
+42,WEI,Weightlifting,Summer,BUL,36,76
+42,WEI,Weightlifting,Summer,CAN,2,4
+42,WEI,Weightlifting,Summer,CHN,43,102
+42,WEI,Weightlifting,Summer,COL,3,6
+42,WEI,Weightlifting,Summer,CRO,2,4
+42,WEI,Weightlifting,Summer,CUB,4,9
+42,WEI,Weightlifting,Summer,CZE,8,16
+42,WEI,Weightlifting,Summer,DEN,3,7
+42,WEI,Weightlifting,Summer,DEU,4,4
+42,WEI,Weightlifting,Summer,EGY,9,21
+42,WEI,Weightlifting,Summer,EST,7,12
+42,WEI,Weightlifting,Summer,FIN,3,5
+42,WEI,Weightlifting,Summer,FRA,16,37
+42,WEI,Weightlifting,Summer,FRG,7,13
+42,WEI,Weightlifting,Summer,GBR,7,12
+42,WEI,Weightlifting,Summer,GDR,11,17
+42,WEI,Weightlifting,Summer,GEO,2,4
+42,WEI,Weightlifting,Summer,GER,20,39
+42,WEI,Weightlifting,Summer,GRE,17,36
+42,WEI,Weightlifting,Summer,HUN,21,34
+42,WEI,Weightlifting,Summer,INA,6,8
+42,WEI,Weightlifting,Summer,IND,1,1
+42,WEI,Weightlifting,Summer,IRI,12,23
+42,WEI,Weightlifting,Summer,IRQ,1,1
+42,WEI,Weightlifting,Summer,ITA,5,7
+42,WEI,Weightlifting,Summer,JPN,12,18
+42,WEI,Weightlifting,Summer,KAZ,5,11
+42,WEI,Weightlifting,Summer,KIT,10,23
+42,WEI,Weightlifting,Summer,KOR,11,21
+42,WEI,Weightlifting,Summer,LAT,2,3
+42,WEI,Weightlifting,Summer,LIB,1,2
+42,WEI,Weightlifting,Summer,LUX,1,2
+42,WEI,Weightlifting,Summer,MEX,1,3
+42,WEI,Weightlifting,Summer,NED,3,3
+42,WEI,Weightlifting,Summer,NGR,1,2
+42,WEI,Weightlifting,Summer,NOR,1,3
+42,WEI,Weightlifting,Summer,POL,30,44
+42,WEI,Weightlifting,Summer,PRK,9,15
+42,WEI,Weightlifting,Summer,QAT,1,1
+42,WEI,Weightlifting,Summer,ROM,11,21
+42,WEI,Weightlifting,Summer,RUS,21,35
+42,WEI,Weightlifting,Summer,SIN,1,2
+42,WEI,Weightlifting,Summer,SUI,4,6
+42,WEI,Weightlifting,Summer,SWE,4,4
+42,WEI,Weightlifting,Summer,THA,6,12
+42,WEI,Weightlifting,Summer,TPE,5,6
+42,WEI,Weightlifting,Summer,TRI,3,4
+42,WEI,Weightlifting,Summer,TUR,10,27
+42,WEI,Weightlifting,Summer,UKR,6,12
+42,WEI,Weightlifting,Summer,URS,71,184
+42,WEI,Weightlifting,Summer,USA,43,91
+42,WEI,Weightlifting,Summer,VEN,1,1
+42,WEI,Weightlifting,Summer,VIE,1,2
+41,WPO,Water Polo,Summer,AUS,26,52
+41,WPO,Water Polo,Summer,BEL,51,84
+41,WPO,Water Polo,Summer,CRO,13,26
+41,WPO,Water Polo,Summer,ESP,25,63
+41,WPO,Water Polo,Summer,FRA,30,44
+41,WPO,Water Polo,Summer,FRG,12,12
+41,WPO,Water Polo,Summer,GBR,29,87
+41,WPO,Water Polo,Summer,GER,27,62
+41,WPO,Water Polo,Summer,GRE,13,26
+41,WPO,Water Polo,Summer,HUN,171,413
+41,WPO,Water Polo,Summer,ITA,81,184
+41,WPO,Water Polo,Summer,NED,33,59
+41,WPO,Water Polo,Summer,RUS,39,52
+41,WPO,Water Polo,Summer,SRB,13,13
+41,WPO,Water Polo,Summer,SWE,24,31
+41,WPO,Water Polo,Summer,URS,91,157
+41,WPO,Water Polo,Summer,USA,128,216
+41,WPO,Water Polo,Summer,YUF,26,39
+41,WPO,Water Polo,Summer,YUG,75,187
+43,WRE,Wrestling,Summer,ARM,4,7
+43,WRE,Wrestling,Summer,AUS,3,4
+43,WRE,Wrestling,Summer,AUT,6,10
+43,WRE,Wrestling,Summer,AZE,7,14
+43,WRE,Wrestling,Summer,BEL,4,7
+43,WRE,Wrestling,Summer,BLR,8,11
+43,WRE,Wrestling,Summer,BUL,67,130
+43,WRE,Wrestling,Summer,CAN,14,24
+43,WRE,Wrestling,Summer,CHN,7,13
+43,WRE,Wrestling,Summer,COL,1,1
+43,WRE,Wrestling,Summer,CUB,17,34
+43,WRE,Wrestling,Summer,CZE,14,23
+43,WRE,Wrestling,Summer,DEN,13,20
+43,WRE,Wrestling,Summer,DEU,2,5
+43,WRE,Wrestling,Summer,EGY,6,12
+43,WRE,Wrestling,Summer,EST,10,21
+43,WRE,Wrestling,Summer,FIN,85,168
+43,WRE,Wrestling,Summer,FRA,16,28
+43,WRE,Wrestling,Summer,FRG,9,15
+43,WRE,Wrestling,Summer,GBR,17,27
+43,WRE,Wrestling,Summer,GDR,7,14
+43,WRE,Wrestling,Summer,GEO,9,14
+43,WRE,Wrestling,Summer,GER,31,55
+43,WRE,Wrestling,Summer,GRE,11,16
+43,WRE,Wrestling,Summer,HUN,52,105
+43,WRE,Wrestling,Summer,IND,2,2
+43,WRE,Wrestling,Summer,IRI,31,53
+43,WRE,Wrestling,Summer,IRN,1,1
+43,WRE,Wrestling,Summer,ITA,13,26
+43,WRE,Wrestling,Summer,JPN,56,121
+43,WRE,Wrestling,Summer,KAZ,11,17
+43,WRE,Wrestling,Summer,KGZ,2,3
+43,WRE,Wrestling,Summer,KIT,7,12
+43,WRE,Wrestling,Summer,KOR,34,65
+43,WRE,Wrestling,Summer,LAT,1,2
+43,WRE,Wrestling,Summer,LIB,3,4
+43,WRE,Wrestling,Summer,LTU,1,1
+43,WRE,Wrestling,Summer,MDA,1,1
+43,WRE,Wrestling,Summer,MEX,1,2
+43,WRE,Wrestling,Summer,MGL,8,12
+43,WRE,Wrestling,Summer,MKD,1,1
+43,WRE,Wrestling,Summer,NOR,5,11
+43,WRE,Wrestling,Summer,PAK,1,1
+43,WRE,Wrestling,Summer,POL,23,41
+43,WRE,Wrestling,Summer,PRK,9,17
+43,WRE,Wrestling,Summer,ROM,32,54
+43,WRE,Wrestling,Summer,RUS,40,93
+43,WRE,Wrestling,Summer,SUI,14,26
+43,WRE,Wrestling,Summer,SVK,1,1
+43,WRE,Wrestling,Summer,SWE,81,164
+43,WRE,Wrestling,Summer,SYR,1,2
+43,WRE,Wrestling,Summer,TJK,1,2
+43,WRE,Wrestling,Summer,TUR,57,129
+43,WRE,Wrestling,Summer,UKR,13,23
+43,WRE,Wrestling,Summer,URS,132,304
+43,WRE,Wrestling,Summer,USA,125,268
+43,WRE,Wrestling,Summer,UZB,6,15
+43,WRE,Wrestling,Summer,YUG,16,30
+28,YAT,Sailing,Summer,AHO,1,2
+28,YAT,Sailing,Summer,ARG,17,27
+28,YAT,Sailing,Summer,AUS,38,78
+28,YAT,Sailing,Summer,AUT,10,25
+28,YAT,Sailing,Summer,BAH,4,8
+28,YAT,Sailing,Summer,BEL,18,34
+28,YAT,Sailing,Summer,BRA,28,52
+28,YAT,Sailing,Summer,CAN,25,35
+28,YAT,Sailing,Summer,CHN,4,8
+28,YAT,Sailing,Summer,CUB,2,4
+28,YAT,Sailing,Summer,CZR,1,2
+28,YAT,Sailing,Summer,DEN,60,131
+28,YAT,Sailing,Summer,DEU,9,22
+28,YAT,Sailing,Summer,ESP,29,77
+28,YAT,Sailing,Summer,EST,6,6
+28,YAT,Sailing,Summer,FIN,32,45
+28,YAT,Sailing,Summer,FRA,100,193
+28,YAT,Sailing,Summer,FRG,14,26
+28,YAT,Sailing,Summer,GBR,132,308
+28,YAT,Sailing,Summer,GDR,15,28
+28,YAT,Sailing,Summer,GER,30,50
+28,YAT,Sailing,Summer,GRE,14,28
+28,YAT,Sailing,Summer,HKG,1,3
+28,YAT,Sailing,Summer,HUN,2,2
+28,YAT,Sailing,Summer,IRL,2,4
+28,YAT,Sailing,Summer,ISR,3,5
+28,YAT,Sailing,Summer,ISV,1,2
+28,YAT,Sailing,Summer,ITA,20,30
+28,YAT,Sailing,Summer,JPN,4,6
+28,YAT,Sailing,Summer,KIT,6,18
+28,YAT,Sailing,Summer,LTU,1,2
+28,YAT,Sailing,Summer,NED,34,66
+28,YAT,Sailing,Summer,NOR,125,324
+28,YAT,Sailing,Summer,NZL,22,49
+28,YAT,Sailing,Summer,POL,2,4
+28,YAT,Sailing,Summer,POR,8,12
+28,YAT,Sailing,Summer,RUS,9,12
+28,YAT,Sailing,Summer,SLO,2,3
+28,YAT,Sailing,Summer,SUI,12,24
+28,YAT,Sailing,Summer,SWE,108,215
+28,YAT,Sailing,Summer,UKR,11,20
+28,YAT,Sailing,Summer,URS,20,43
+28,YAT,Sailing,Summer,USA,136,294

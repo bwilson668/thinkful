@@ -1,0 +1,1439 @@
+olympic_id,year,season,host_city,host_nation,country,olympic_medals,olympic_medals_score
+1,1896,Summer,Athens,Greece,AUS,2,6
+1,1896,Summer,Athens,Greece,AUT,5,10
+1,1896,Summer,Athens,Greece,DEN,6,10
+1,1896,Summer,Athens,Greece,DEU,14,91
+1,1896,Summer,Athens,Greece,FRA,11,25
+1,1896,Summer,Athens,Greece,GBR,7,14
+1,1896,Summer,Athens,Greece,GRE,45,93
+1,1896,Summer,Athens,Greece,HUN,7,12
+1,1896,Summer,Athens,Greece,INT,3,12
+1,1896,Summer,Athens,Greece,SUI,3,7
+1,1896,Summer,Athens,Greece,USA,19,49
+10,1932,Summer,Los Angeles,USA,ARG,4,11
+10,1932,Summer,Los Angeles,USA,AUS,5,12
+10,1932,Summer,Los Angeles,USA,AUT,5,8
+10,1932,Summer,Los Angeles,USA,BEL,1,1
+10,1932,Summer,Los Angeles,USA,BIN,1,45
+10,1932,Summer,Los Angeles,USA,CAN,16,56
+10,1932,Summer,Los Angeles,USA,CZE,6,11
+10,1932,Summer,Los Angeles,USA,DEN,8,18
+10,1932,Summer,Los Angeles,USA,ESP,1,1
+10,1932,Summer,Los Angeles,USA,FIN,25,46
+10,1932,Summer,Los Angeles,USA,FRA,20,100
+10,1932,Summer,Los Angeles,USA,GBR,17,65
+10,1932,Summer,Los Angeles,USA,GER,23,89
+10,1932,Summer,Los Angeles,USA,HUN,16,78
+10,1932,Summer,Los Angeles,USA,IRL,2,6
+10,1932,Summer,Los Angeles,USA,JPN,18,68
+10,1932,Summer,Los Angeles,USA,KIT,36,152
+10,1932,Summer,Los Angeles,USA,LAT,1,2
+10,1932,Summer,Los Angeles,USA,MEX,2,4
+10,1932,Summer,Los Angeles,USA,NED,8,27
+10,1932,Summer,Los Angeles,USA,NZL,1,4
+10,1932,Summer,Los Angeles,USA,PHI,3,3
+10,1932,Summer,Los Angeles,USA,POL,9,32
+10,1932,Summer,Los Angeles,USA,SAF,5,9
+10,1932,Summer,Los Angeles,USA,SUI,1,2
+10,1932,Summer,Los Angeles,USA,SWE,24,65
+10,1932,Summer,Los Angeles,USA,URU,1,1
+10,1932,Summer,Los Angeles,USA,USA,110,388
+11,1936,Summer,Berlin,Germany,ARG,7,23
+11,1936,Summer,Berlin,Germany,AUS,1,1
+11,1936,Summer,Berlin,Germany,AUT,18,110
+11,1936,Summer,Berlin,Germany,BEL,3,13
+11,1936,Summer,Berlin,Germany,BIN,1,57
+11,1936,Summer,Berlin,Germany,CAN,9,36
+11,1936,Summer,Berlin,Germany,CZE,9,40
+11,1936,Summer,Berlin,Germany,DEN,5,9
+11,1936,Summer,Berlin,Germany,EGY,5,10
+11,1936,Summer,Berlin,Germany,EST,7,13
+11,1936,Summer,Berlin,Germany,FIN,20,47
+11,1936,Summer,Berlin,Germany,FRA,18,80
+11,1936,Summer,Berlin,Germany,GBR,14,76
+11,1936,Summer,Berlin,Germany,GER,99,470
+11,1936,Summer,Berlin,Germany,HUN,16,92
+11,1936,Summer,Berlin,Germany,JPN,20,45
+11,1936,Summer,Berlin,Germany,KIT,27,184
+11,1936,Summer,Berlin,Germany,LAT,2,3
+11,1936,Summer,Berlin,Germany,MEX,3,16
+11,1936,Summer,Berlin,Germany,NED,17,62
+11,1936,Summer,Berlin,Germany,NOR,6,42
+11,1936,Summer,Berlin,Germany,NZL,1,3
+11,1936,Summer,Berlin,Germany,PHI,1,1
+11,1936,Summer,Berlin,Germany,POL,9,18
+11,1936,Summer,Berlin,Germany,POR,1,3
+11,1936,Summer,Berlin,Germany,ROM,1,2
+11,1936,Summer,Berlin,Germany,SAF,1,2
+11,1936,Summer,Berlin,Germany,SUI,18,78
+11,1936,Summer,Berlin,Germany,SWE,21,60
+11,1936,Summer,Berlin,Germany,TUR,2,4
+11,1936,Summer,Berlin,Germany,USA,57,222
+11,1936,Summer,Berlin,Germany,YUG,1,2
+12,1948,Summer,London,UK,ARG,7,24
+12,1948,Summer,London,UK,AUS,14,30
+12,1948,Summer,London,UK,AUT,8,14
+12,1948,Summer,London,UK,BEL,7,24
+12,1948,Summer,London,UK,BRA,1,10
+12,1948,Summer,London,UK,CAN,4,9
+12,1948,Summer,London,UK,CUB,1,4
+12,1948,Summer,London,UK,CZE,11,51
+12,1948,Summer,London,UK,DEN,22,80
+12,1948,Summer,London,UK,EGY,5,11
+12,1948,Summer,London,UK,ESP,1,6
+12,1948,Summer,London,UK,FIN,22,69
+12,1948,Summer,London,UK,FRA,32,145
+12,1948,Summer,London,UK,GBR,26,113
+12,1948,Summer,London,UK,HUN,27,111
+12,1948,Summer,London,UK,IND,2,62
+12,1948,Summer,London,UK,IRI,1,1
+12,1948,Summer,London,UK,IRL,1,1
+12,1948,Summer,London,UK,ITA,31,141
+12,1948,Summer,London,UK,JAM,3,7
+12,1948,Summer,London,UK,KOR,2,2
+12,1948,Summer,London,UK,MEX,5,18
+12,1948,Summer,London,UK,NED,16,60
+12,1948,Summer,London,UK,NOR,7,28
+12,1948,Summer,London,UK,PAN,2,2
+12,1948,Summer,London,UK,PER,1,3
+12,1948,Summer,London,UK,POL,2,4
+12,1948,Summer,London,UK,POR,2,7
+12,1948,Summer,London,UK,PUR,1,1
+12,1948,Summer,London,UK,SAF,6,12
+12,1948,Summer,London,UK,SRI,1,2
+12,1948,Summer,London,UK,SUI,22,68
+12,1948,Summer,London,UK,SWE,46,150
+12,1948,Summer,London,UK,TRI,1,2
+12,1948,Summer,London,UK,TUR,12,28
+12,1948,Summer,London,UK,URU,2,4
+12,1948,Summer,London,UK,USA,84,344
+12,1948,Summer,London,UK,YUG,2,32
+13,1952,Summer,Helsinki,Finland,ARG,5,12
+13,1952,Summer,Helsinki,Finland,AUS,11,36
+13,1952,Summer,Helsinki,Finland,AUT,2,4
+13,1952,Summer,Helsinki,Finland,BEL,4,18
+13,1952,Summer,Helsinki,Finland,BRA,3,5
+13,1952,Summer,Helsinki,Finland,BUL,1,1
+13,1952,Summer,Helsinki,Finland,CAN,3,9
+13,1952,Summer,Helsinki,Finland,CHI,2,8
+13,1952,Summer,Helsinki,Finland,CZE,12,50
+13,1952,Summer,Helsinki,Finland,DEN,6,16
+13,1952,Summer,Helsinki,Finland,EGY,1,1
+13,1952,Summer,Helsinki,Finland,ESP,1,2
+13,1952,Summer,Helsinki,Finland,FIN,22,59
+13,1952,Summer,Helsinki,Finland,FRA,18,76
+13,1952,Summer,Helsinki,Finland,GBR,11,39
+13,1952,Summer,Helsinki,Finland,GER,24,54
+13,1952,Summer,Helsinki,Finland,HUN,42,222
+13,1952,Summer,Helsinki,Finland,IND,2,46
+13,1952,Summer,Helsinki,Finland,IRI,7,10
+13,1952,Summer,Helsinki,Finland,IRL,1,2
+13,1952,Summer,Helsinki,Finland,ITA,21,108
+13,1952,Summer,Helsinki,Finland,JAM,5,21
+13,1952,Summer,Helsinki,Finland,JPN,8,23
+13,1952,Summer,Helsinki,Finland,KOR,2,2
+13,1952,Summer,Helsinki,Finland,LIB,2,3
+13,1952,Summer,Helsinki,Finland,LUX,1,3
+13,1952,Summer,Helsinki,Finland,MEX,1,2
+13,1952,Summer,Helsinki,Finland,NED,5,36
+13,1952,Summer,Helsinki,Finland,NOR,5,31
+13,1952,Summer,Helsinki,Finland,NZL,3,5
+13,1952,Summer,Helsinki,Finland,POL,4,8
+13,1952,Summer,Helsinki,Finland,POR,1,2
+13,1952,Summer,Helsinki,Finland,ROM,4,7
+13,1952,Summer,Helsinki,Finland,SAF,10,26
+13,1952,Summer,Helsinki,Finland,SUI,14,56
+13,1952,Summer,Helsinki,Finland,SWE,35,140
+13,1952,Summer,Helsinki,Finland,TRI,2,2
+13,1952,Summer,Helsinki,Finland,TUR,3,7
+13,1952,Summer,Helsinki,Finland,URS,69,251
+13,1952,Summer,Helsinki,Finland,URU,2,14
+13,1952,Summer,Helsinki,Finland,USA,74,308
+13,1952,Summer,Helsinki,Finland,VEN,1,1
+13,1952,Summer,Helsinki,Finland,YUG,3,52
+14,1956,Summer,Melbourne,Australia,ARG,2,3
+14,1956,Summer,Melbourne,Australia,AUS,35,119
+14,1956,Summer,Melbourne,Australia,AUT,2,4
+14,1956,Summer,Melbourne,Australia,BAH,1,2
+14,1956,Summer,Melbourne,Australia,BEL,2,4
+14,1956,Summer,Melbourne,Australia,BRA,1,3
+14,1956,Summer,Melbourne,Australia,BUL,5,23
+14,1956,Summer,Melbourne,Australia,CAN,6,38
+14,1956,Summer,Melbourne,Australia,CHI,4,6
+14,1956,Summer,Melbourne,Australia,CZE,6,14
+14,1956,Summer,Melbourne,Australia,DEN,4,12
+14,1956,Summer,Melbourne,Australia,FIN,15,33
+14,1956,Summer,Melbourne,Australia,FRA,14,57
+14,1956,Summer,Melbourne,Australia,GBR,24,76
+14,1956,Summer,Melbourne,Australia,GER,26,89
+14,1956,Summer,Melbourne,Australia,GRE,1,1
+14,1956,Summer,Melbourne,Australia,HUN,26,144
+14,1956,Summer,Melbourne,Australia,IND,1,51
+14,1956,Summer,Melbourne,Australia,IRI,5,11
+14,1956,Summer,Melbourne,Australia,IRL,5,8
+14,1956,Summer,Melbourne,Australia,ISL,1,2
+14,1956,Summer,Melbourne,Australia,ITA,24,107
+14,1956,Summer,Melbourne,Australia,JPN,17,47
+14,1956,Summer,Melbourne,Australia,KOR,2,3
+14,1956,Summer,Melbourne,Australia,MEX,2,4
+14,1956,Summer,Melbourne,Australia,NOR,3,5
+14,1956,Summer,Melbourne,Australia,NZL,2,9
+14,1956,Summer,Melbourne,Australia,PAK,1,28
+14,1956,Summer,Melbourne,Australia,POL,8,30
+14,1956,Summer,Melbourne,Australia,ROM,13,34
+14,1956,Summer,Melbourne,Australia,SAF,4,7
+14,1956,Summer,Melbourne,Australia,SUI,1,3
+14,1956,Summer,Melbourne,Australia,SWE,19,76
+14,1956,Summer,Melbourne,Australia,TUR,7,15
+14,1956,Summer,Melbourne,Australia,URS,97,351
+14,1956,Summer,Melbourne,Australia,URU,1,12
+14,1956,Summer,Melbourne,Australia,USA,72,277
+14,1956,Summer,Melbourne,Australia,YUG,3,46
+15,1960,Summer,Rome,Italy,ARG,2,7
+15,1960,Summer,Rome,Italy,AUS,22,73
+15,1960,Summer,Rome,Italy,AUT,2,7
+15,1960,Summer,Rome,Italy,BEL,4,6
+15,1960,Summer,Rome,Italy,BRA,2,13
+15,1960,Summer,Rome,Italy,BUL,7,12
+15,1960,Summer,Rome,Italy,BWI,2,5
+15,1960,Summer,Rome,Italy,CAN,1,18
+15,1960,Summer,Rome,Italy,CZE,8,37
+15,1960,Summer,Rome,Italy,DEN,6,44
+15,1960,Summer,Rome,Italy,EGY,2,3
+15,1960,Summer,Rome,Italy,ESP,1,14
+15,1960,Summer,Rome,Italy,ETH,1,3
+15,1960,Summer,Rome,Italy,FIN,5,9
+15,1960,Summer,Rome,Italy,FRA,5,17
+15,1960,Summer,Rome,Italy,GBR,20,43
+15,1960,Summer,Rome,Italy,GER,42,190
+15,1960,Summer,Rome,Italy,GHA,1,2
+15,1960,Summer,Rome,Italy,GRE,1,9
+15,1960,Summer,Rome,Italy,HUN,21,108
+15,1960,Summer,Rome,Italy,IND,1,26
+15,1960,Summer,Rome,Italy,IRI,4,5
+15,1960,Summer,Rome,Italy,IRQ,1,1
+15,1960,Summer,Rome,Italy,ITA,36,178
+15,1960,Summer,Rome,Italy,JPN,18,57
+15,1960,Summer,Rome,Italy,MAR,1,2
+15,1960,Summer,Rome,Italy,MEX,1,1
+15,1960,Summer,Rome,Italy,NED,3,4
+15,1960,Summer,Rome,Italy,NOR,1,6
+15,1960,Summer,Rome,Italy,NZL,3,7
+15,1960,Summer,Rome,Italy,PAK,2,43
+15,1960,Summer,Rome,Italy,POL,21,49
+15,1960,Summer,Rome,Italy,POR,1,4
+15,1960,Summer,Rome,Italy,ROM,10,22
+15,1960,Summer,Rome,Italy,SAF,3,4
+15,1960,Summer,Rome,Italy,SIN,1,2
+15,1960,Summer,Rome,Italy,SUI,6,16
+15,1960,Summer,Rome,Italy,SWE,6,13
+15,1960,Summer,Rome,Italy,TPE,1,2
+15,1960,Summer,Rome,Italy,TUR,9,25
+15,1960,Summer,Rome,Italy,URS,103,354
+15,1960,Summer,Rome,Italy,USA,71,271
+15,1960,Summer,Rome,Italy,VEN,1,1
+15,1960,Summer,Rome,Italy,YUG,2,50
+16,1964,Summer,Tokyo,Japan,ARG,1,2
+16,1964,Summer,Tokyo,Japan,AUS,18,63
+16,1964,Summer,Tokyo,Japan,BAH,1,6
+16,1964,Summer,Tokyo,Japan,BEL,3,7
+16,1964,Summer,Tokyo,Japan,BRA,1,12
+16,1964,Summer,Tokyo,Japan,BUL,10,21
+16,1964,Summer,Tokyo,Japan,CAN,4,11
+16,1964,Summer,Tokyo,Japan,CUB,1,2
+16,1964,Summer,Tokyo,Japan,CZE,14,103
+16,1964,Summer,Tokyo,Japan,DEN,6,27
+16,1964,Summer,Tokyo,Japan,ETH,1,3
+16,1964,Summer,Tokyo,Japan,FIN,5,11
+16,1964,Summer,Tokyo,Japan,FRA,15,46
+16,1964,Summer,Tokyo,Japan,GBR,18,57
+16,1964,Summer,Tokyo,Japan,GER,50,203
+16,1964,Summer,Tokyo,Japan,GHA,1,1
+16,1964,Summer,Tokyo,Japan,HUN,22,147
+16,1964,Summer,Tokyo,Japan,IND,1,48
+16,1964,Summer,Tokyo,Japan,IRI,2,2
+16,1964,Summer,Tokyo,Japan,IRL,1,1
+16,1964,Summer,Tokyo,Japan,ITA,27,104
+16,1964,Summer,Tokyo,Japan,JPN,29,133
+16,1964,Summer,Tokyo,Japan,KEN,1,1
+16,1964,Summer,Tokyo,Japan,KOR,3,5
+16,1964,Summer,Tokyo,Japan,MEX,1,1
+16,1964,Summer,Tokyo,Japan,NED,10,49
+16,1964,Summer,Tokyo,Japan,NGR,1,1
+16,1964,Summer,Tokyo,Japan,NZL,5,14
+16,1964,Summer,Tokyo,Japan,PAK,1,32
+16,1964,Summer,Tokyo,Japan,PHI,1,2
+16,1964,Summer,Tokyo,Japan,POL,22,79
+16,1964,Summer,Tokyo,Japan,ROM,12,24
+16,1964,Summer,Tokyo,Japan,SUI,4,12
+16,1964,Summer,Tokyo,Japan,SWE,8,25
+16,1964,Summer,Tokyo,Japan,TRI,3,7
+16,1964,Summer,Tokyo,Japan,TUN,2,3
+16,1964,Summer,Tokyo,Japan,TUR,6,13
+16,1964,Summer,Tokyo,Japan,URS,92,359
+16,1964,Summer,Tokyo,Japan,URU,1,1
+16,1964,Summer,Tokyo,Japan,USA,90,341
+16,1964,Summer,Tokyo,Japan,YUG,5,30
+17,1968,Summer,Mexico City,Mexico,ARG,2,2
+17,1968,Summer,Mexico City,Mexico,AUS,17,94
+17,1968,Summer,Mexico City,Mexico,AUT,4,7
+17,1968,Summer,Mexico City,Mexico,BEL,2,4
+17,1968,Summer,Mexico City,Mexico,BRA,3,5
+17,1968,Summer,Mexico City,Mexico,BUL,9,51
+17,1968,Summer,Mexico City,Mexico,CAN,5,19
+17,1968,Summer,Mexico City,Mexico,CMR,1,2
+17,1968,Summer,Mexico City,Mexico,CUB,4,20
+17,1968,Summer,Mexico City,Mexico,CZE,13,50
+17,1968,Summer,Mexico City,Mexico,DEN,8,30
+17,1968,Summer,Mexico City,Mexico,ETH,2,5
+17,1968,Summer,Mexico City,Mexico,FIN,4,8
+17,1968,Summer,Mexico City,Mexico,FRA,15,56
+17,1968,Summer,Mexico City,Mexico,FRG,26,96
+17,1968,Summer,Mexico City,Mexico,GBR,13,42
+17,1968,Summer,Mexico City,Mexico,GDR,25,96
+17,1968,Summer,Mexico City,Mexico,GRE,1,1
+17,1968,Summer,Mexico City,Mexico,HUN,32,165
+17,1968,Summer,Mexico City,Mexico,IND,1,16
+17,1968,Summer,Mexico City,Mexico,IRI,5,10
+17,1968,Summer,Mexico City,Mexico,ITA,15,49
+17,1968,Summer,Mexico City,Mexico,JAM,1,2
+17,1968,Summer,Mexico City,Mexico,JPN,25,120
+17,1968,Summer,Mexico City,Mexico,KEN,9,25
+17,1968,Summer,Mexico City,Mexico,KOR,2,3
+17,1968,Summer,Mexico City,Mexico,MEX,9,18
+17,1968,Summer,Mexico City,Mexico,MGL,4,5
+17,1968,Summer,Mexico City,Mexico,NED,7,33
+17,1968,Summer,Mexico City,Mexico,NOR,2,16
+17,1968,Summer,Mexico City,Mexico,NZL,3,17
+17,1968,Summer,Mexico City,Mexico,PAK,1,39
+17,1968,Summer,Mexico City,Mexico,POL,18,50
+17,1968,Summer,Mexico City,Mexico,ROM,15,41
+17,1968,Summer,Mexico City,Mexico,SUI,5,16
+17,1968,Summer,Mexico City,Mexico,SWE,4,21
+17,1968,Summer,Mexico City,Mexico,TPE,1,1
+17,1968,Summer,Mexico City,Mexico,TUN,2,4
+17,1968,Summer,Mexico City,Mexico,TUR,2,6
+17,1968,Summer,Mexico City,Mexico,UGA,2,3
+17,1968,Summer,Mexico City,Mexico,URS,90,378
+17,1968,Summer,Mexico City,Mexico,USA,107,346
+17,1968,Summer,Mexico City,Mexico,VEN,1,3
+17,1968,Summer,Mexico City,Mexico,YUG,8,69
+18,1972,Summer,Munchen,Germany,ARG,1,2
+18,1972,Summer,Munchen,Germany,AUS,17,49
+18,1972,Summer,Munchen,Germany,AUT,3,4
+18,1972,Summer,Munchen,Germany,BEL,2,4
+18,1972,Summer,Munchen,Germany,BRA,2,2
+18,1972,Summer,Munchen,Germany,BUL,21,44
+18,1972,Summer,Munchen,Germany,CAN,5,12
+18,1972,Summer,Munchen,Germany,COL,3,4
+18,1972,Summer,Munchen,Germany,CUB,8,29
+18,1972,Summer,Munchen,Germany,CZE,8,54
+18,1972,Summer,Munchen,Germany,DEN,1,3
+18,1972,Summer,Munchen,Germany,ESP,1,1
+18,1972,Summer,Munchen,Germany,ETH,2,2
+18,1972,Summer,Munchen,Germany,FIN,8,17
+18,1972,Summer,Munchen,Germany,FRA,13,32
+18,1972,Summer,Munchen,Germany,FRG,40,199
+18,1972,Summer,Munchen,Germany,GBR,17,53
+18,1972,Summer,Munchen,Germany,GDR,66,270
+18,1972,Summer,Munchen,Germany,GHA,1,1
+18,1972,Summer,Munchen,Germany,GRE,2,4
+18,1972,Summer,Munchen,Germany,HUN,34,147
+18,1972,Summer,Munchen,Germany,IND,1,14
+18,1972,Summer,Munchen,Germany,IRI,3,5
+18,1972,Summer,Munchen,Germany,ITA,18,46
+18,1972,Summer,Munchen,Germany,JAM,1,1
+18,1972,Summer,Munchen,Germany,JPN,29,133
+18,1972,Summer,Munchen,Germany,KEN,9,25
+18,1972,Summer,Munchen,Germany,KOR,1,2
+18,1972,Summer,Munchen,Germany,LIB,1,2
+18,1972,Summer,Munchen,Germany,MEX,1,2
+18,1972,Summer,Munchen,Germany,MGL,1,2
+18,1972,Summer,Munchen,Germany,NED,5,13
+18,1972,Summer,Munchen,Germany,NGR,1,1
+18,1972,Summer,Munchen,Germany,NIG,1,1
+18,1972,Summer,Munchen,Germany,NOR,4,14
+18,1972,Summer,Munchen,Germany,NZL,3,36
+18,1972,Summer,Munchen,Germany,PAK,1,30
+18,1972,Summer,Munchen,Germany,POL,21,108
+18,1972,Summer,Munchen,Germany,PRK,5,18
+18,1972,Summer,Munchen,Germany,ROM,16,56
+18,1972,Summer,Munchen,Germany,SUI,3,16
+18,1972,Summer,Munchen,Germany,SWE,16,40
+18,1972,Summer,Munchen,Germany,TUN,1,2
+18,1972,Summer,Munchen,Germany,TUR,1,2
+18,1972,Summer,Munchen,Germany,UGA,2,5
+18,1972,Summer,Munchen,Germany,URS,99,474
+18,1972,Summer,Munchen,Germany,USA,94,320
+18,1972,Summer,Munchen,Germany,YUG,5,49
+19,1976,Summer,Montreal,Canada,AUS,5,38
+19,1976,Summer,Montreal,Canada,AUT,1,1
+19,1976,Summer,Montreal,Canada,BEL,6,12
+19,1976,Summer,Montreal,Canada,BER,1,1
+19,1976,Summer,Montreal,Canada,BRA,2,3
+19,1976,Summer,Montreal,Canada,BUL,22,66
+19,1976,Summer,Montreal,Canada,CAN,11,28
+19,1976,Summer,Montreal,Canada,CUB,13,40
+19,1976,Summer,Montreal,Canada,CZE,8,23
+19,1976,Summer,Montreal,Canada,DEN,3,14
+19,1976,Summer,Montreal,Canada,ESP,2,12
+19,1976,Summer,Montreal,Canada,FIN,6,16
+19,1976,Summer,Montreal,Canada,FRA,9,37
+19,1976,Summer,Montreal,Canada,FRG,39,143
+19,1976,Summer,Montreal,Canada,GBR,13,59
+19,1976,Summer,Montreal,Canada,GDR,90,441
+19,1976,Summer,Montreal,Canada,HUN,22,88
+19,1976,Summer,Montreal,Canada,IRI,2,3
+19,1976,Summer,Montreal,Canada,ITA,15,61
+19,1976,Summer,Montreal,Canada,JAM,2,5
+19,1976,Summer,Montreal,Canada,JPN,25,97
+19,1976,Summer,Montreal,Canada,KOR,6,20
+19,1976,Summer,Montreal,Canada,MEX,2,4
+19,1976,Summer,Montreal,Canada,MGL,1,2
+19,1976,Summer,Montreal,Canada,NED,5,17
+19,1976,Summer,Montreal,Canada,NOR,2,14
+19,1976,Summer,Montreal,Canada,NZL,4,56
+19,1976,Summer,Montreal,Canada,PAK,1,17
+19,1976,Summer,Montreal,Canada,POL,25,137
+19,1976,Summer,Montreal,Canada,POR,2,4
+19,1976,Summer,Montreal,Canada,PRK,2,5
+19,1976,Summer,Montreal,Canada,PUR,1,1
+19,1976,Summer,Montreal,Canada,ROM,27,90
+19,1976,Summer,Montreal,Canada,SUI,4,15
+19,1976,Summer,Montreal,Canada,SWE,5,29
+19,1976,Summer,Montreal,Canada,THA,1,1
+19,1976,Summer,Montreal,Canada,TRI,1,3
+19,1976,Summer,Montreal,Canada,URS,124,603
+19,1976,Summer,Montreal,Canada,USA,94,337
+19,1976,Summer,Montreal,Canada,VEN,1,2
+19,1976,Summer,Montreal,Canada,YUG,8,37
+2,1900,Summer,Paris,France,AUS,6,12
+2,1900,Summer,Paris,France,AUT,6,9
+2,1900,Summer,Paris,France,BEL,16,71
+2,1900,Summer,Paris,France,BIN,2,4
+2,1900,Summer,Paris,France,BOH,3,4
+2,1900,Summer,Paris,France,CAN,2,4
+2,1900,Summer,Paris,France,CUB,2,5
+2,1900,Summer,Paris,France,DEN,7,20
+2,1900,Summer,Paris,France,DEU,8,95
+2,1900,Summer,Paris,France,ESP,1,6
+2,1900,Summer,Paris,France,FRA,110,460
+2,1900,Summer,Paris,France,GBR,35,213
+2,1900,Summer,Paris,France,HUN,5,9
+2,1900,Summer,Paris,France,INT,5,35
+2,1900,Summer,Paris,France,KIT,4,10
+2,1900,Summer,Paris,France,MEX,1,4
+2,1900,Summer,Paris,France,NED,5,34
+2,1900,Summer,Paris,France,NOR,5,15
+2,1900,Summer,Paris,France,SUI,9,57
+2,1900,Summer,Paris,France,SWE,2,10
+2,1900,Summer,Paris,France,USA,48,124
+20,1980,Summer,Moscow,Russia,AUS,9,24
+20,1980,Summer,Moscow,Russia,AUT,4,10
+20,1980,Summer,Moscow,Russia,BEL,1,3
+20,1980,Summer,Moscow,Russia,BRA,4,17
+20,1980,Summer,Moscow,Russia,BUL,41,149
+20,1980,Summer,Moscow,Russia,CUB,19,43
+20,1980,Summer,Moscow,Russia,CZE,14,103
+20,1980,Summer,Moscow,Russia,DEN,5,18
+20,1980,Summer,Moscow,Russia,ESP,6,47
+20,1980,Summer,Moscow,Russia,ETH,4,8
+20,1980,Summer,Moscow,Russia,FIN,8,16
+20,1980,Summer,Moscow,Russia,FRA,14,70
+20,1980,Summer,Moscow,Russia,GBR,21,73
+20,1980,Summer,Moscow,Russia,GDR,126,571
+20,1980,Summer,Moscow,Russia,GRE,3,7
+20,1980,Summer,Moscow,Russia,GUY,1,1
+20,1980,Summer,Moscow,Russia,HUN,31,91
+20,1980,Summer,Moscow,Russia,IND,1,48
+20,1980,Summer,Moscow,Russia,IRL,2,5
+20,1980,Summer,Moscow,Russia,ITA,15,72
+20,1980,Summer,Moscow,Russia,JAM,3,3
+20,1980,Summer,Moscow,Russia,LIB,1,1
+20,1980,Summer,Moscow,Russia,MEX,4,11
+20,1980,Summer,Moscow,Russia,MGL,4,6
+20,1980,Summer,Moscow,Russia,NED,3,7
+20,1980,Summer,Moscow,Russia,POL,30,77
+20,1980,Summer,Moscow,Russia,PRK,5,8
+20,1980,Summer,Moscow,Russia,ROM,25,94
+20,1980,Summer,Moscow,Russia,SUI,2,6
+20,1980,Summer,Moscow,Russia,SWE,12,30
+20,1980,Summer,Moscow,Russia,TAN,2,4
+20,1980,Summer,Moscow,Russia,UGA,1,2
+20,1980,Summer,Moscow,Russia,URS,193,911
+20,1980,Summer,Moscow,Russia,VEN,1,2
+20,1980,Summer,Moscow,Russia,YUG,9,108
+20,1980,Summer,Moscow,Russia,ZIM,1,45
+21,1984,Summer,Los Angeles,USA,ALG,2,2
+21,1984,Summer,Los Angeles,USA,AUS,23,76
+21,1984,Summer,Los Angeles,USA,AUT,3,6
+21,1984,Summer,Los Angeles,USA,BEL,4,9
+21,1984,Summer,Los Angeles,USA,BRA,8,69
+21,1984,Summer,Los Angeles,USA,CAN,46,161
+21,1984,Summer,Los Angeles,USA,CHN,32,141
+21,1984,Summer,Los Angeles,USA,CIV,1,2
+21,1984,Summer,Los Angeles,USA,CMR,1,1
+21,1984,Summer,Los Angeles,USA,COL,1,2
+21,1984,Summer,Los Angeles,USA,DEN,6,16
+21,1984,Summer,Los Angeles,USA,DOM,1,1
+21,1984,Summer,Los Angeles,USA,EGY,1,2
+21,1984,Summer,Los Angeles,USA,ESP,5,37
+21,1984,Summer,Los Angeles,USA,FIN,12,22
+21,1984,Summer,Los Angeles,USA,FRA,28,123
+21,1984,Summer,Los Angeles,USA,FRG,59,289
+21,1984,Summer,Los Angeles,USA,GBR,37,110
+21,1984,Summer,Los Angeles,USA,GRE,2,3
+21,1984,Summer,Los Angeles,USA,IRL,1,2
+21,1984,Summer,Los Angeles,USA,ISL,1,1
+21,1984,Summer,Los Angeles,USA,ITA,32,128
+21,1984,Summer,Los Angeles,USA,JAM,3,10
+21,1984,Summer,Los Angeles,USA,JPN,31,77
+21,1984,Summer,Los Angeles,USA,KEN,3,5
+21,1984,Summer,Los Angeles,USA,KOR,19,81
+21,1984,Summer,Los Angeles,USA,MAR,2,6
+21,1984,Summer,Los Angeles,USA,MEX,6,13
+21,1984,Summer,Los Angeles,USA,NED,13,86
+21,1984,Summer,Los Angeles,USA,NGR,2,6
+21,1984,Summer,Los Angeles,USA,NOR,3,5
+21,1984,Summer,Los Angeles,USA,NZL,11,56
+21,1984,Summer,Los Angeles,USA,PAK,1,45
+21,1984,Summer,Los Angeles,USA,PER,1,2
+21,1984,Summer,Los Angeles,USA,POR,3,5
+21,1984,Summer,Los Angeles,USA,PUR,2,3
+21,1984,Summer,Los Angeles,USA,ROM,52,217
+21,1984,Summer,Los Angeles,USA,SUI,8,22
+21,1984,Summer,Los Angeles,USA,SUR,1,1
+21,1984,Summer,Los Angeles,USA,SWE,19,56
+21,1984,Summer,Los Angeles,USA,SYR,1,2
+21,1984,Summer,Los Angeles,USA,THA,1,2
+21,1984,Summer,Los Angeles,USA,TPE,1,1
+21,1984,Summer,Los Angeles,USA,TUR,3,3
+21,1984,Summer,Los Angeles,USA,USA,173,781
+21,1984,Summer,Los Angeles,USA,VEN,3,3
+21,1984,Summer,Los Angeles,USA,YUG,18,189
+21,1984,Summer,Los Angeles,USA,ZAM,1,1
+22,1988,Summer,Seoul,South Korea,AHO,1,2
+22,1988,Summer,Seoul,South Korea,ARG,2,14
+22,1988,Summer,Seoul,South Korea,AUS,14,77
+22,1988,Summer,Seoul,South Korea,AUT,1,3
+22,1988,Summer,Seoul,South Korea,BEL,2,2
+22,1988,Summer,Seoul,South Korea,BRA,6,42
+22,1988,Summer,Seoul,South Korea,BUL,35,75
+22,1988,Summer,Seoul,South Korea,CAN,10,34
+22,1988,Summer,Seoul,South Korea,CHI,1,2
+22,1988,Summer,Seoul,South Korea,CHN,28,80
+22,1988,Summer,Seoul,South Korea,COL,1,1
+22,1988,Summer,Seoul,South Korea,CRC,1,2
+22,1988,Summer,Seoul,South Korea,CZE,8,20
+22,1988,Summer,Seoul,South Korea,DEN,4,14
+22,1988,Summer,Seoul,South Korea,DJI,1,1
+22,1988,Summer,Seoul,South Korea,ESP,4,9
+22,1988,Summer,Seoul,South Korea,FIN,4,7
+22,1988,Summer,Seoul,South Korea,FRA,16,57
+22,1988,Summer,Seoul,South Korea,FRG,40,212
+22,1988,Summer,Seoul,South Korea,GBR,24,113
+22,1988,Summer,Seoul,South Korea,GDR,102,378
+22,1988,Summer,Seoul,South Korea,GRE,1,1
+22,1988,Summer,Seoul,South Korea,HUN,23,93
+22,1988,Summer,Seoul,South Korea,INA,1,6
+22,1988,Summer,Seoul,South Korea,IRI,1,2
+22,1988,Summer,Seoul,South Korea,ISV,1,2
+22,1988,Summer,Seoul,South Korea,ITA,14,61
+22,1988,Summer,Seoul,South Korea,JAM,2,12
+22,1988,Summer,Seoul,South Korea,JPN,14,31
+22,1988,Summer,Seoul,South Korea,KEN,9,21
+22,1988,Summer,Seoul,South Korea,KOR,33,173
+22,1988,Summer,Seoul,South Korea,MAR,3,5
+22,1988,Summer,Seoul,South Korea,MEX,2,2
+22,1988,Summer,Seoul,South Korea,MGL,1,1
+22,1988,Summer,Seoul,South Korea,NED,9,55
+22,1988,Summer,Seoul,South Korea,NOR,5,48
+22,1988,Summer,Seoul,South Korea,NZL,13,36
+22,1988,Summer,Seoul,South Korea,PAK,1,1
+22,1988,Summer,Seoul,South Korea,PER,1,24
+22,1988,Summer,Seoul,South Korea,PHI,1,1
+22,1988,Summer,Seoul,South Korea,POL,16,34
+22,1988,Summer,Seoul,South Korea,POR,1,3
+22,1988,Summer,Seoul,South Korea,ROM,24,88
+22,1988,Summer,Seoul,South Korea,SEN,1,2
+22,1988,Summer,Seoul,South Korea,SUI,4,14
+22,1988,Summer,Seoul,South Korea,SUR,1,3
+22,1988,Summer,Seoul,South Korea,SWE,10,21
+22,1988,Summer,Seoul,South Korea,THA,1,1
+22,1988,Summer,Seoul,South Korea,TUR,2,5
+22,1988,Summer,Seoul,South Korea,URS,131,627
+22,1988,Summer,Seoul,South Korea,USA,94,409
+22,1988,Summer,Seoul,South Korea,YUG,12,120
+23,1992,Summer,Barcelona,Spain,ALG,2,4
+23,1992,Summer,Barcelona,Spain,ARG,1,2
+23,1992,Summer,Barcelona,Spain,AUS,27,109
+23,1992,Summer,Barcelona,Spain,AUT,2,10
+23,1992,Summer,Barcelona,Spain,BAH,1,1
+23,1992,Summer,Barcelona,Spain,BEL,3,4
+23,1992,Summer,Barcelona,Spain,BRA,2,38
+23,1992,Summer,Barcelona,Spain,BUL,16,30
+23,1992,Summer,Barcelona,Spain,CAN,18,102
+23,1992,Summer,Barcelona,Spain,CHN,52,163
+23,1992,Summer,Barcelona,Spain,COL,1,1
+23,1992,Summer,Barcelona,Spain,CRO,3,27
+23,1992,Summer,Barcelona,Spain,CUB,31,166
+23,1992,Summer,Barcelona,Spain,CZR,7,19
+23,1992,Summer,Barcelona,Spain,DEN,6,22
+23,1992,Summer,Barcelona,Spain,ESP,22,190
+23,1992,Summer,Barcelona,Spain,EST,2,5
+23,1992,Summer,Barcelona,Spain,ETH,3,5
+23,1992,Summer,Barcelona,Spain,FIN,5,13
+23,1992,Summer,Barcelona,Spain,FRA,29,80
+23,1992,Summer,Barcelona,Spain,GBR,20,67
+23,1992,Summer,Barcelona,Spain,GER,82,417
+23,1992,Summer,Barcelona,Spain,GHA,1,20
+23,1992,Summer,Barcelona,Spain,GRE,2,6
+23,1992,Summer,Barcelona,Spain,HUN,31,99
+23,1992,Summer,Barcelona,Spain,INA,5,13
+23,1992,Summer,Barcelona,Spain,IRI,3,4
+23,1992,Summer,Barcelona,Spain,IRL,2,5
+23,1992,Summer,Barcelona,Spain,ISR,2,3
+23,1992,Summer,Barcelona,Spain,ITA,19,97
+23,1992,Summer,Barcelona,Spain,JAM,4,7
+23,1992,Summer,Barcelona,Spain,JAP,1,2
+23,1992,Summer,Barcelona,Spain,JPN,21,60
+23,1992,Summer,Barcelona,Spain,KEN,8,16
+23,1992,Summer,Barcelona,Spain,KOR,27,116
+23,1992,Summer,Barcelona,Spain,LAT,3,5
+23,1992,Summer,Barcelona,Spain,LTU,2,15
+23,1992,Summer,Barcelona,Spain,MAR,3,6
+23,1992,Summer,Barcelona,Spain,MAS,1,2
+23,1992,Summer,Barcelona,Spain,MEX,1,2
+23,1992,Summer,Barcelona,Spain,MGL,2,2
+23,1992,Summer,Barcelona,Spain,NAM,2,4
+23,1992,Summer,Barcelona,Spain,NED,15,60
+23,1992,Summer,Barcelona,Spain,NGR,4,16
+23,1992,Summer,Barcelona,Spain,NOR,7,47
+23,1992,Summer,Barcelona,Spain,NZL,10,24
+23,1992,Summer,Barcelona,Spain,PAK,1,16
+23,1992,Summer,Barcelona,Spain,PER,1,2
+23,1992,Summer,Barcelona,Spain,PHI,1,1
+23,1992,Summer,Barcelona,Spain,POL,19,78
+23,1992,Summer,Barcelona,Spain,PRK,9,18
+23,1992,Summer,Barcelona,Spain,PUR,1,1
+23,1992,Summer,Barcelona,Spain,QAT,1,1
+23,1992,Summer,Barcelona,Spain,ROM,18,98
+23,1992,Summer,Barcelona,Spain,RSA,2,6
+23,1992,Summer,Barcelona,Spain,RUS,1,2
+23,1992,Summer,Barcelona,Spain,SLO,2,6
+23,1992,Summer,Barcelona,Spain,SUI,1,3
+23,1992,Summer,Barcelona,Spain,SUR,1,1
+23,1992,Summer,Barcelona,Spain,SWE,12,64
+23,1992,Summer,Barcelona,Spain,THA,1,1
+23,1992,Summer,Barcelona,Spain,TPE,1,40
+23,1992,Summer,Barcelona,Spain,TUR,6,12
+23,1992,Summer,Barcelona,Spain,URS,112,469
+23,1992,Summer,Barcelona,Spain,USA,109,445
+23,1992,Summer,Barcelona,Spain,YUF,3,4
+24,1996,Summer,Atlanta,USA,,1,2
+24,1996,Summer,Atlanta,USA,ALG,3,7
+24,1996,Summer,Atlanta,USA,ARG,3,39
+24,1996,Summer,Atlanta,USA,ARM,2,5
+24,1996,Summer,Atlanta,USA,AUS,41,216
+24,1996,Summer,Atlanta,USA,AUT,3,4
+24,1996,Summer,Atlanta,USA,AZE,1,2
+24,1996,Summer,Atlanta,USA,BAH,1,8
+24,1996,Summer,Atlanta,USA,BDI,1,3
+24,1996,Summer,Atlanta,USA,BEL,6,12
+24,1996,Summer,Atlanta,USA,BLR,15,31
+24,1996,Summer,Atlanta,USA,BRA,15,89
+24,1996,Summer,Atlanta,USA,BUL,15,39
+24,1996,Summer,Atlanta,USA,CAN,22,95
+24,1996,Summer,Atlanta,USA,CHN,48,226
+24,1996,Summer,Atlanta,USA,CRC,1,3
+24,1996,Summer,Atlanta,USA,CRO,2,74
+24,1996,Summer,Atlanta,USA,CUB,25,143
+24,1996,Summer,Atlanta,USA,CZR,11,26
+24,1996,Summer,Atlanta,USA,DEN,6,69
+24,1996,Summer,Atlanta,USA,ECU,1,3
+24,1996,Summer,Atlanta,USA,ESP,17,135
+24,1996,Summer,Atlanta,USA,ETH,3,7
+24,1996,Summer,Atlanta,USA,FIN,4,8
+24,1996,Summer,Atlanta,USA,FRA,37,106
+24,1996,Summer,Atlanta,USA,GBR,15,41
+24,1996,Summer,Atlanta,USA,GEO,2,2
+24,1996,Summer,Atlanta,USA,GER,65,243
+24,1996,Summer,Atlanta,USA,GRE,8,20
+24,1996,Summer,Atlanta,USA,HKG,1,3
+24,1996,Summer,Atlanta,USA,HUN,21,68
+24,1996,Summer,Atlanta,USA,INA,4,11
+24,1996,Summer,Atlanta,USA,IND,1,1
+24,1996,Summer,Atlanta,USA,IRI,3,6
+24,1996,Summer,Atlanta,USA,IRL,4,10
+24,1996,Summer,Atlanta,USA,ISR,1,1
+24,1996,Summer,Atlanta,USA,ITA,35,133
+24,1996,Summer,Atlanta,USA,JAM,6,17
+24,1996,Summer,Atlanta,USA,JPN,14,75
+24,1996,Summer,Atlanta,USA,KAZ,11,21
+24,1996,Summer,Atlanta,USA,KEN,8,14
+24,1996,Summer,Atlanta,USA,KOR,27,135
+24,1996,Summer,Atlanta,USA,LAT,1,2
+24,1996,Summer,Atlanta,USA,LTU,1,11
+24,1996,Summer,Atlanta,USA,MAR,2,2
+24,1996,Summer,Atlanta,USA,MAS,2,5
+24,1996,Summer,Atlanta,USA,MDA,2,5
+24,1996,Summer,Atlanta,USA,MEX,1,1
+24,1996,Summer,Atlanta,USA,MGL,1,1
+24,1996,Summer,Atlanta,USA,MOZ,1,1
+24,1996,Summer,Atlanta,USA,NAM,2,4
+24,1996,Summer,Atlanta,USA,NED,19,156
+24,1996,Summer,Atlanta,USA,NGR,6,68
+24,1996,Summer,Atlanta,USA,NOR,7,29
+24,1996,Summer,Atlanta,USA,NZL,6,17
+24,1996,Summer,Atlanta,USA,PHI,1,2
+24,1996,Summer,Atlanta,USA,POL,17,42
+24,1996,Summer,Atlanta,USA,POR,2,5
+24,1996,Summer,Atlanta,USA,PRK,5,10
+24,1996,Summer,Atlanta,USA,PUR,1,1
+24,1996,Summer,Atlanta,USA,ROM,19,74
+24,1996,Summer,Atlanta,USA,RSA,5,12
+24,1996,Summer,Atlanta,USA,RUS,63,234
+24,1996,Summer,Atlanta,USA,SLO,2,4
+24,1996,Summer,Atlanta,USA,SUI,7,27
+24,1996,Summer,Atlanta,USA,SVK,3,6
+24,1996,Summer,Atlanta,USA,SWE,8,60
+24,1996,Summer,Atlanta,USA,SYR,1,3
+24,1996,Summer,Atlanta,USA,TGA,1,2
+24,1996,Summer,Atlanta,USA,THA,2,4
+24,1996,Summer,Atlanta,USA,TPE,1,2
+24,1996,Summer,Atlanta,USA,TRI,2,2
+24,1996,Summer,Atlanta,USA,TUN,1,1
+24,1996,Summer,Atlanta,USA,TUR,6,15
+24,1996,Summer,Atlanta,USA,UGA,1,1
+24,1996,Summer,Atlanta,USA,UKR,23,59
+24,1996,Summer,Atlanta,USA,USA,102,620
+24,1996,Summer,Atlanta,USA,UZB,2,3
+24,1996,Summer,Atlanta,USA,YUF,4,40
+24,1996,Summer,Atlanta,USA,ZAM,1,2
+25,2000,Summer,Sydney,Australia,ALG,5,8
+25,2000,Summer,Sydney,Australia,ARG,4,37
+25,2000,Summer,Sydney,Australia,ARM,1,1
+25,2000,Summer,Sydney,Australia,AUS,59,374
+25,2000,Summer,Sydney,Australia,AUT,3,11
+25,2000,Summer,Sydney,Australia,AZE,3,7
+25,2000,Summer,Sydney,Australia,BAH,2,15
+25,2000,Summer,Sydney,Australia,BAR,1,1
+25,2000,Summer,Sydney,Australia,BEL,5,10
+25,2000,Summer,Sydney,Australia,BLR,17,36
+25,2000,Summer,Sydney,Australia,BRA,12,58
+25,2000,Summer,Sydney,Australia,BUL,13,29
+25,2000,Summer,Sydney,Australia,CAN,14,44
+25,2000,Summer,Sydney,Australia,CHI,1,18
+25,2000,Summer,Sydney,Australia,CHN,54,189
+25,2000,Summer,Sydney,Australia,CMR,1,54
+25,2000,Summer,Sydney,Australia,COL,1,3
+25,2000,Summer,Sydney,Australia,CRC,2,2
+25,2000,Summer,Sydney,Australia,CRO,2,12
+25,2000,Summer,Sydney,Australia,CUB,29,149
+25,2000,Summer,Sydney,Australia,CZR,8,16
+25,2000,Summer,Sydney,Australia,DEN,6,64
+25,2000,Summer,Sydney,Australia,ESP,11,67
+25,2000,Summer,Sydney,Australia,EST,3,5
+25,2000,Summer,Sydney,Australia,ETH,8,17
+25,2000,Summer,Sydney,Australia,FIN,4,12
+25,2000,Summer,Sydney,Australia,FRA,38,142
+25,2000,Summer,Sydney,Australia,GBR,28,117
+25,2000,Summer,Sydney,Australia,GEO,6,6
+25,2000,Summer,Sydney,Australia,GER,56,203
+25,2000,Summer,Sydney,Australia,GRE,13,33
+25,2000,Summer,Sydney,Australia,HUN,17,127
+25,2000,Summer,Sydney,Australia,INA,6,16
+25,2000,Summer,Sydney,Australia,IND,1,1
+25,2000,Summer,Sydney,Australia,IRI,4,10
+25,2000,Summer,Sydney,Australia,IRL,1,2
+25,2000,Summer,Sydney,Australia,ISL,1,1
+25,2000,Summer,Sydney,Australia,ISR,1,1
+25,2000,Summer,Sydney,Australia,ITA,34,126
+25,2000,Summer,Sydney,Australia,JAM,9,29
+25,2000,Summer,Sydney,Australia,JPN,18,85
+25,2000,Summer,Sydney,Australia,KAZ,7,17
+25,2000,Summer,Sydney,Australia,KEN,7,14
+25,2000,Summer,Sydney,Australia,KGZ,1,1
+25,2000,Summer,Sydney,Australia,KOR,28,123
+25,2000,Summer,Sydney,Australia,KSA,2,3
+25,2000,Summer,Sydney,Australia,KUW,1,1
+25,2000,Summer,Sydney,Australia,LAT,3,6
+25,2000,Summer,Sydney,Australia,LTU,5,21
+25,2000,Summer,Sydney,Australia,MAR,5,6
+25,2000,Summer,Sydney,Australia,MDA,2,3
+25,2000,Summer,Sydney,Australia,MEX,6,10
+25,2000,Summer,Sydney,Australia,MKD,1,1
+25,2000,Summer,Sydney,Australia,MOZ,1,3
+25,2000,Summer,Sydney,Australia,NED,25,160
+25,2000,Summer,Sydney,Australia,NGR,3,12
+25,2000,Summer,Sydney,Australia,NOR,10,90
+25,2000,Summer,Sydney,Australia,NZL,4,6
+25,2000,Summer,Sydney,Australia,POL,14,48
+25,2000,Summer,Sydney,Australia,POR,2,2
+25,2000,Summer,Sydney,Australia,PRK,4,5
+25,2000,Summer,Sydney,Australia,QAT,1,1
+25,2000,Summer,Sydney,Australia,ROM,25,105
+25,2000,Summer,Sydney,Australia,RSA,5,7
+25,2000,Summer,Sydney,Australia,RUS,88,391
+25,2000,Summer,Sydney,Australia,SLO,2,9
+25,2000,Summer,Sydney,Australia,SRI,1,2
+25,2000,Summer,Sydney,Australia,SUI,9,29
+25,2000,Summer,Sydney,Australia,SVK,5,13
+25,2000,Summer,Sydney,Australia,SWE,12,62
+25,2000,Summer,Sydney,Australia,THA,3,5
+25,2000,Summer,Sydney,Australia,TPE,5,6
+25,2000,Summer,Sydney,Australia,TRI,2,3
+25,2000,Summer,Sydney,Australia,TUR,5,11
+25,2000,Summer,Sydney,Australia,UKR,23,61
+25,2000,Summer,Sydney,Australia,URU,1,2
+25,2000,Summer,Sydney,Australia,USA,93,574
+25,2000,Summer,Sydney,Australia,UZB,4,7
+25,2000,Summer,Sydney,Australia,VIE,1,2
+25,2000,Summer,Sydney,Australia,YUF,3,51
+26,2004,Summer,Athens,Greece,ARG,6,105
+26,2004,Summer,Athens,Greece,AUS,49,325
+26,2004,Summer,Athens,Greece,AUT,7,18
+26,2004,Summer,Athens,Greece,AZE,5,7
+26,2004,Summer,Athens,Greece,BAH,2,4
+26,2004,Summer,Athens,Greece,BEL,3,5
+26,2004,Summer,Athens,Greece,BLR,15,27
+26,2004,Summer,Athens,Greece,BRA,10,95
+26,2004,Summer,Athens,Greece,BUL,12,22
+26,2004,Summer,Athens,Greece,CAN,12,33
+26,2004,Summer,Athens,Greece,CHI,3,10
+26,2004,Summer,Athens,Greece,CHN,60,225
+26,2004,Summer,Athens,Greece,CMR,1,3
+26,2004,Summer,Athens,Greece,COL,1,1
+26,2004,Summer,Athens,Greece,CRO,5,54
+26,2004,Summer,Athens,Greece,CUB,27,134
+26,2004,Summer,Athens,Greece,CZR,8,20
+26,2004,Summer,Athens,Greece,DEN,8,67
+26,2004,Summer,Athens,Greece,DOM,1,3
+26,2004,Summer,Athens,Greece,EGY,5,8
+26,2004,Summer,Athens,Greece,ERI,1,1
+26,2004,Summer,Athens,Greece,ESP,19,54
+26,2004,Summer,Athens,Greece,EST,3,4
+26,2004,Summer,Athens,Greece,ETH,7,14
+26,2004,Summer,Athens,Greece,FIN,2,4
+26,2004,Summer,Athens,Greece,FRA,33,105
+26,2004,Summer,Athens,Greece,GBR,30,112
+26,2004,Summer,Athens,Greece,GDR,1,3
+26,2004,Summer,Athens,Greece,GEO,4,10
+26,2004,Summer,Athens,Greece,GER,48,272
+26,2004,Summer,Athens,Greece,GRE,16,65
+26,2004,Summer,Athens,Greece,HKG,1,4
+26,2004,Summer,Athens,Greece,HUN,17,100
+26,2004,Summer,Athens,Greece,INA,4,8
+26,2004,Summer,Athens,Greece,IND,1,2
+26,2004,Summer,Athens,Greece,IRI,6,12
+26,2004,Summer,Athens,Greece,ISR,2,4
+26,2004,Summer,Athens,Greece,ITA,32,193
+26,2004,Summer,Athens,Greece,JAM,5,22
+26,2004,Summer,Athens,Greece,JPN,37,154
+26,2004,Summer,Athens,Greece,KAZ,8,14
+26,2004,Summer,Athens,Greece,KEN,7,13
+26,2004,Summer,Athens,Greece,KOR,30,108
+26,2004,Summer,Athens,Greece,LAT,4,8
+26,2004,Summer,Athens,Greece,LTU,3,7
+26,2004,Summer,Athens,Greece,MAR,3,8
+26,2004,Summer,Athens,Greece,MEX,4,7
+26,2004,Summer,Athens,Greece,MGL,1,1
+26,2004,Summer,Athens,Greece,NED,22,136
+26,2004,Summer,Athens,Greece,NGR,2,8
+26,2004,Summer,Athens,Greece,NOR,6,17
+26,2004,Summer,Athens,Greece,NZL,5,16
+26,2004,Summer,Athens,Greece,PAR,1,34
+26,2004,Summer,Athens,Greece,POL,10,22
+26,2004,Summer,Athens,Greece,POR,3,5
+26,2004,Summer,Athens,Greece,PRK,5,9
+26,2004,Summer,Athens,Greece,ROM,19,90
+26,2004,Summer,Athens,Greece,RSA,6,21
+26,2004,Summer,Athens,Greece,RUS,92,330
+26,2004,Summer,Athens,Greece,SLO,4,7
+26,2004,Summer,Athens,Greece,SUI,5,11
+26,2004,Summer,Athens,Greece,SVK,6,18
+26,2004,Summer,Athens,Greece,SWE,7,27
+26,2004,Summer,Athens,Greece,SYR,1,1
+26,2004,Summer,Athens,Greece,THA,8,15
+26,2004,Summer,Athens,Greece,TPE,5,17
+26,2004,Summer,Athens,Greece,TRI,1,1
+26,2004,Summer,Athens,Greece,TUR,10,19
+26,2004,Summer,Athens,Greece,UAE,1,3
+26,2004,Summer,Athens,Greece,UKR,23,74
+26,2004,Summer,Athens,Greece,USA,103,563
+26,2004,Summer,Athens,Greece,UZB,5,10
+26,2004,Summer,Athens,Greece,VEN,2,2
+26,2004,Summer,Athens,Greece,YUF,1,26
+26,2004,Summer,Athens,Greece,YUG,1,2
+26,2004,Summer,Athens,Greece,ZIM,3,6
+27,1924,Winter,Chamonix,France,AUT,3,11
+27,1924,Winter,Chamonix,France,BEL,1,5
+27,1924,Winter,Chamonix,France,CAN,1,27
+27,1924,Winter,Chamonix,France,FIN,10,23
+27,1924,Winter,Chamonix,France,FRA,1,2
+27,1924,Winter,Chamonix,France,GBR,3,19
+27,1924,Winter,Chamonix,France,NOR,18,32
+27,1924,Winter,Chamonix,France,SUI,2,13
+27,1924,Winter,Chamonix,France,SWE,1,3
+27,1924,Winter,Chamonix,France,USA,4,24
+28,1928,Winter,St. Moritz,Switzerland,AUT,4,10
+28,1928,Winter,St. Moritz,Switzerland,BEL,1,1
+28,1928,Winter,St. Moritz,Switzerland,CAN,1,36
+28,1928,Winter,St. Moritz,Switzerland,CZE,1,1
+28,1928,Winter,St. Moritz,Switzerland,FIN,4,9
+28,1928,Winter,St. Moritz,Switzerland,FRA,1,6
+28,1928,Winter,St. Moritz,Switzerland,GBR,1,1
+28,1928,Winter,St. Moritz,Switzerland,GER,1,5
+28,1928,Winter,St. Moritz,Switzerland,NOR,15,31
+28,1928,Winter,St. Moritz,Switzerland,SUI,1,12
+28,1928,Winter,St. Moritz,Switzerland,SWE,5,33
+28,1928,Winter,St. Moritz,Switzerland,USA,6,32
+29,1932,Winter,Lake Placid,USA,AUT,2,5
+29,1932,Winter,Lake Placid,USA,CAN,7,49
+29,1932,Winter,Lake Placid,USA,FIN,3,6
+29,1932,Winter,Lake Placid,USA,FRA,1,6
+29,1932,Winter,Lake Placid,USA,GER,2,14
+29,1932,Winter,Lake Placid,USA,HUN,1,2
+29,1932,Winter,Lake Placid,USA,NOR,10,20
+29,1932,Winter,Lake Placid,USA,SUI,1,4
+29,1932,Winter,Lake Placid,USA,SWE,3,7
+29,1932,Winter,Lake Placid,USA,USA,12,75
+3,1904,Summer,St. Louis,USA,AUT,1,1
+3,1904,Summer,St. Louis,USA,CAN,6,105
+3,1904,Summer,St. Louis,USA,CUB,9,19
+3,1904,Summer,St. Louis,USA,DEU,13,25
+3,1904,Summer,St. Louis,USA,GBR,2,5
+3,1904,Summer,St. Louis,USA,GRE,2,4
+3,1904,Summer,St. Louis,USA,HUN,4,9
+3,1904,Summer,St. Louis,USA,INT,2,19
+3,1904,Summer,St. Louis,USA,SUI,2,4
+3,1904,Summer,St. Louis,USA,USA,234,799
+30,1936,Winter,Garmisch-Partenkirchen,Germany,AUT,4,9
+30,1936,Winter,Garmisch-Partenkirchen,Germany,CAN,1,26
+30,1936,Winter,Garmisch-Partenkirchen,Germany,FIN,6,19
+30,1936,Winter,Garmisch-Partenkirchen,Germany,FRA,1,1
+30,1936,Winter,Garmisch-Partenkirchen,Germany,GBR,3,42
+30,1936,Winter,Garmisch-Partenkirchen,Germany,GER,6,18
+30,1936,Winter,Garmisch-Partenkirchen,Germany,HUN,1,2
+30,1936,Winter,Garmisch-Partenkirchen,Germany,NOR,15,40
+30,1936,Winter,Garmisch-Partenkirchen,Germany,SUI,3,24
+30,1936,Winter,Garmisch-Partenkirchen,Germany,SWE,7,16
+30,1936,Winter,Garmisch-Partenkirchen,Germany,USA,4,20
+31,1948,Winter,St. Moritz,Switzerland,AUT,8,13
+31,1948,Winter,St. Moritz,Switzerland,BEL,2,14
+31,1948,Winter,St. Moritz,Switzerland,CAN,3,41
+31,1948,Winter,St. Moritz,Switzerland,CZE,1,32
+31,1948,Winter,St. Moritz,Switzerland,FIN,6,17
+31,1948,Winter,St. Moritz,Switzerland,FRA,5,10
+31,1948,Winter,St. Moritz,Switzerland,GBR,2,2
+31,1948,Winter,St. Moritz,Switzerland,HUN,1,4
+31,1948,Winter,St. Moritz,Switzerland,ITA,1,3
+31,1948,Winter,St. Moritz,Switzerland,NOR,10,24
+31,1948,Winter,St. Moritz,Switzerland,SUI,9,41
+31,1948,Winter,St. Moritz,Switzerland,SWE,10,30
+31,1948,Winter,St. Moritz,Switzerland,USA,8,32
+32,1952,Winter,Oslo,Norway,AUT,8,16
+32,1952,Winter,Oslo,Norway,CAN,2,49
+32,1952,Winter,Oslo,Norway,FIN,9,28
+32,1952,Winter,Oslo,Norway,FRA,1,1
+32,1952,Winter,Oslo,Norway,FRG,2,18
+32,1952,Winter,Oslo,Norway,GBR,1,3
+32,1952,Winter,Oslo,Norway,GER,5,12
+32,1952,Winter,Oslo,Norway,HUN,1,2
+32,1952,Winter,Oslo,Norway,ITA,2,4
+32,1952,Winter,Oslo,Norway,NED,3,6
+32,1952,Winter,Oslo,Norway,NOR,16,39
+32,1952,Winter,Oslo,Norway,SUI,2,6
+32,1952,Winter,Oslo,Norway,SWE,4,23
+32,1952,Winter,Oslo,Norway,USA,11,63
+33,1956,Winter,"Cortina d'Ampezzo",Italy,AUT,11,25
+33,1956,Winter,"Cortina d'Ampezzo",Italy,CAN,3,22
+33,1956,Winter,"Cortina d'Ampezzo",Italy,FIN,7,28
+33,1956,Winter,"Cortina d'Ampezzo",Italy,GER,2,4
+33,1956,Winter,"Cortina d'Ampezzo",Italy,HUN,1,2
+33,1956,Winter,"Cortina d'Ampezzo",Italy,ITA,3,18
+33,1956,Winter,"Cortina d'Ampezzo",Italy,JPN,1,2
+33,1956,Winter,"Cortina d'Ampezzo",Italy,NOR,4,9
+33,1956,Winter,"Cortina d'Ampezzo",Italy,POL,1,1
+33,1956,Winter,"Cortina d'Ampezzo",Italy,SUI,6,24
+33,1956,Winter,"Cortina d'Ampezzo",Italy,SWE,10,23
+33,1956,Winter,"Cortina d'Ampezzo",Italy,URS,15,94
+33,1956,Winter,"Cortina d'Ampezzo",Italy,USA,7,49
+34,1960,Winter,Squaw Valley,USA,AUT,6,10
+34,1960,Winter,Squaw Valley,USA,CAN,4,44
+34,1960,Winter,Squaw Valley,USA,CZE,1,2
+34,1960,Winter,Squaw Valley,USA,FIN,8,26
+34,1960,Winter,Squaw Valley,USA,FRA,3,5
+34,1960,Winter,Squaw Valley,USA,GER,8,21
+34,1960,Winter,Squaw Valley,USA,ITA,1,1
+34,1960,Winter,Squaw Valley,USA,NED,2,3
+34,1960,Winter,Squaw Valley,USA,NOR,6,21
+34,1960,Winter,Squaw Valley,USA,POL,2,3
+34,1960,Winter,Squaw Valley,USA,SUI,2,6
+34,1960,Winter,Squaw Valley,USA,SWE,7,21
+34,1960,Winter,Squaw Valley,USA,URS,21,63
+34,1960,Winter,Squaw Valley,USA,USA,10,69
+35,1964,Winter,Innsbruck,Austria,AUT,12,36
+35,1964,Winter,Innsbruck,Austria,CAN,3,15
+35,1964,Winter,Innsbruck,Austria,CZE,2,19
+35,1964,Winter,Innsbruck,Austria,FIN,10,28
+35,1964,Winter,Innsbruck,Austria,FRA,7,17
+35,1964,Winter,Innsbruck,Austria,GBR,1,6
+35,1964,Winter,Innsbruck,Austria,GER,9,20
+35,1964,Winter,Innsbruck,Austria,ITA,4,12
+35,1964,Winter,Innsbruck,Austria,NED,2,5
+35,1964,Winter,Innsbruck,Austria,NOR,15,27
+35,1964,Winter,Innsbruck,Austria,PRK,1,2
+35,1964,Winter,Innsbruck,Austria,SWE,7,59
+35,1964,Winter,Innsbruck,Austria,URS,24,115
+35,1964,Winter,Innsbruck,Austria,USA,6,10
+36,1968,Winter,Grenoble,France,AUT,11,29
+36,1968,Winter,Grenoble,France,CAN,3,23
+36,1968,Winter,Grenoble,France,CZE,4,42
+36,1968,Winter,Grenoble,France,FIN,5,12
+36,1968,Winter,Grenoble,France,FRA,9,20
+36,1968,Winter,Grenoble,France,FRG,7,17
+36,1968,Winter,Grenoble,France,GDR,5,12
+36,1968,Winter,Grenoble,France,ITA,4,24
+36,1968,Winter,Grenoble,France,NED,9,18
+36,1968,Winter,Grenoble,France,NOR,14,53
+36,1968,Winter,Grenoble,France,ROM,1,2
+36,1968,Winter,Grenoble,France,SUI,6,11
+36,1968,Winter,Grenoble,France,SWE,8,29
+36,1968,Winter,Grenoble,France,URS,13,95
+36,1968,Winter,Grenoble,France,USA,5,14
+37,1972,Winter,Sapporo,Japan,AUT,5,9
+37,1972,Winter,Sapporo,Japan,CAN,1,2
+37,1972,Winter,Sapporo,Japan,CZE,3,22
+37,1972,Winter,Sapporo,Japan,ESP,1,3
+37,1972,Winter,Sapporo,Japan,FIN,5,19
+37,1972,Winter,Sapporo,Japan,FRA,3,4
+37,1972,Winter,Sapporo,Japan,FRG,5,20
+37,1972,Winter,Sapporo,Japan,GDR,14,33
+37,1972,Winter,Sapporo,Japan,ITA,5,20
+37,1972,Winter,Sapporo,Japan,JPN,3,6
+37,1972,Winter,Sapporo,Japan,NED,9,20
+37,1972,Winter,Sapporo,Japan,NOR,12,29
+37,1972,Winter,Sapporo,Japan,POL,1,3
+37,1972,Winter,Sapporo,Japan,SUI,10,34
+37,1972,Winter,Sapporo,Japan,SWE,4,7
+37,1972,Winter,Sapporo,Japan,URS,16,123
+37,1972,Winter,Sapporo,Japan,USA,7,47
+38,1976,Winter,Innsbruck,Austria,AUT,6,13
+38,1976,Winter,Innsbruck,Austria,CAN,3,6
+38,1976,Winter,Innsbruck,Austria,CZE,1,36
+38,1976,Winter,Innsbruck,Austria,FIN,7,36
+38,1976,Winter,Innsbruck,Austria,FRA,1,1
+38,1976,Winter,Innsbruck,Austria,FRG,10,43
+38,1976,Winter,Innsbruck,Austria,GBR,1,3
+38,1976,Winter,Innsbruck,Austria,GDR,19,62
+38,1976,Winter,Innsbruck,Austria,ITA,4,8
+38,1976,Winter,Innsbruck,Austria,LIE,2,2
+38,1976,Winter,Innsbruck,Austria,NED,6,10
+38,1976,Winter,Innsbruck,Austria,NOR,7,22
+38,1976,Winter,Innsbruck,Austria,SUI,5,17
+38,1976,Winter,Innsbruck,Austria,SWE,2,2
+38,1976,Winter,Innsbruck,Austria,URS,27,137
+38,1976,Winter,Innsbruck,Austria,USA,10,20
+39,1980,Winter,Lake Placid,USA,AUT,7,16
+39,1980,Winter,Lake Placid,USA,BUL,1,1
+39,1980,Winter,Lake Placid,USA,CAN,2,3
+39,1980,Winter,Lake Placid,USA,CZE,1,1
+39,1980,Winter,Lake Placid,USA,FIN,9,18
+39,1980,Winter,Lake Placid,USA,FRA,1,1
+39,1980,Winter,Lake Placid,USA,FRG,5,10
+39,1980,Winter,Lake Placid,USA,GBR,1,3
+39,1980,Winter,Lake Placid,USA,GDR,23,82
+39,1980,Winter,Lake Placid,USA,HUN,1,4
+39,1980,Winter,Lake Placid,USA,ITA,2,6
+39,1980,Winter,Lake Placid,USA,JPN,1,2
+39,1980,Winter,Lake Placid,USA,LIE,4,10
+39,1980,Winter,Lake Placid,USA,NED,4,8
+39,1980,Winter,Lake Placid,USA,NOR,10,24
+39,1980,Winter,Lake Placid,USA,SUI,5,17
+39,1980,Winter,Lake Placid,USA,SWE,4,29
+39,1980,Winter,Lake Placid,USA,URS,22,119
+39,1980,Winter,Lake Placid,USA,USA,12,85
+4,1906,Summer,Athens,Greece,AUS,3,3
+4,1906,Summer,Athens,Greece,AUT,9,18
+4,1906,Summer,Athens,Greece,BEL,7,18
+4,1906,Summer,Athens,Greece,BOH,2,3
+4,1906,Summer,Athens,Greece,CAN,2,5
+4,1906,Summer,Athens,Greece,DEN,6,81
+4,1906,Summer,Athens,Greece,DEU,14,68
+4,1906,Summer,Athens,Greece,FIN,4,9
+4,1906,Summer,Athens,Greece,FRA,40,114
+4,1906,Summer,Athens,Greece,GBR,24,63
+4,1906,Summer,Athens,Greece,GRE,35,198
+4,1906,Summer,Athens,Greece,HUN,10,28
+4,1906,Summer,Athens,Greece,INT,1,22
+4,1906,Summer,Athens,Greece,KIT,16,107
+4,1906,Summer,Athens,Greece,NED,3,7
+4,1906,Summer,Athens,Greece,NOR,7,82
+4,1906,Summer,Athens,Greece,SUI,15,43
+4,1906,Summer,Athens,Greece,SWE,14,30
+4,1906,Summer,Athens,Greece,USA,23,54
+40,1984,Winter,Sarajevo,Yugoslavia,AUT,1,1
+40,1984,Winter,Sarajevo,Yugoslavia,CAN,4,9
+40,1984,Winter,Sarajevo,Yugoslavia,CZE,6,52
+40,1984,Winter,Sarajevo,Yugoslavia,FIN,12,28
+40,1984,Winter,Sarajevo,Yugoslavia,FRA,3,4
+40,1984,Winter,Sarajevo,Yugoslavia,FRG,4,15
+40,1984,Winter,Sarajevo,Yugoslavia,GBR,1,6
+40,1984,Winter,Sarajevo,Yugoslavia,GDR,24,72
+40,1984,Winter,Sarajevo,Yugoslavia,ITA,2,6
+40,1984,Winter,Sarajevo,Yugoslavia,JPN,1,2
+40,1984,Winter,Sarajevo,Yugoslavia,LIE,2,2
+40,1984,Winter,Sarajevo,Yugoslavia,NOR,9,32
+40,1984,Winter,Sarajevo,Yugoslavia,SUI,5,14
+40,1984,Winter,Sarajevo,Yugoslavia,SWE,8,46
+40,1984,Winter,Sarajevo,Yugoslavia,URS,25,129
+40,1984,Winter,Sarajevo,Yugoslavia,USA,8,22
+40,1984,Winter,Sarajevo,Yugoslavia,YUG,1,2
+41,1988,Winter,Calgary,Canada,AUT,10,23
+41,1988,Winter,Calgary,Canada,CAN,5,8
+41,1988,Winter,Calgary,Canada,CZE,3,7
+41,1988,Winter,Calgary,Canada,FIN,7,68
+41,1988,Winter,Calgary,Canada,FRA,2,4
+41,1988,Winter,Calgary,Canada,FRG,8,29
+41,1988,Winter,Calgary,Canada,GDR,25,67
+41,1988,Winter,Calgary,Canada,ITA,5,13
+41,1988,Winter,Calgary,Canada,JPN,1,1
+41,1988,Winter,Calgary,Canada,LIE,1,1
+41,1988,Winter,Calgary,Canada,NED,7,15
+41,1988,Winter,Calgary,Canada,NOR,5,18
+41,1988,Winter,Calgary,Canada,SUI,15,43
+41,1988,Winter,Calgary,Canada,SWE,6,45
+41,1988,Winter,Calgary,Canada,URS,28,165
+41,1988,Winter,Calgary,Canada,USA,6,12
+41,1988,Winter,Calgary,Canada,YUG,3,9
+42,1992,Winter,Albertville,France,AUT,21,57
+42,1992,Winter,Albertville,France,CAN,7,72
+42,1992,Winter,Albertville,France,CHN,3,6
+42,1992,Winter,Albertville,France,CZR,3,27
+42,1992,Winter,Albertville,France,ESP,1,1
+42,1992,Winter,Albertville,France,FIN,7,23
+42,1992,Winter,Albertville,France,FRA,9,28
+42,1992,Winter,Albertville,France,GER,26,83
+42,1992,Winter,Albertville,France,ITA,14,36
+42,1992,Winter,Albertville,France,JPN,7,20
+42,1992,Winter,Albertville,France,KOR,4,18
+42,1992,Winter,Albertville,France,LUX,2,4
+42,1992,Winter,Albertville,France,NED,4,7
+42,1992,Winter,Albertville,France,NOR,20,61
+42,1992,Winter,Albertville,France,NZL,1,2
+42,1992,Winter,Albertville,France,PRK,1,1
+42,1992,Winter,Albertville,France,SUI,3,11
+42,1992,Winter,Albertville,France,SWE,4,9
+42,1992,Winter,Albertville,France,URS,23,139
+42,1992,Winter,Albertville,France,USA,11,31
+43,1994,Winter,Lillehammer,Norway,AUS,1,4
+43,1994,Winter,Lillehammer,Norway,AUT,9,19
+43,1994,Winter,Lillehammer,Norway,BLR,2,4
+43,1994,Winter,Lillehammer,Norway,CAN,13,72
+43,1994,Winter,Lillehammer,Norway,CHN,3,4
+43,1994,Winter,Lillehammer,Norway,FIN,6,31
+43,1994,Winter,Lillehammer,Norway,FRA,5,12
+43,1994,Winter,Lillehammer,Norway,GBR,2,3
+43,1994,Winter,Lillehammer,Norway,GER,24,86
+43,1994,Winter,Lillehammer,Norway,ITA,20,66
+43,1994,Winter,Lillehammer,Norway,JPN,5,21
+43,1994,Winter,Lillehammer,Norway,KAZ,3,7
+43,1994,Winter,Lillehammer,Norway,KOR,6,24
+43,1994,Winter,Lillehammer,Norway,NED,4,5
+43,1994,Winter,Lillehammer,Norway,NOR,26,73
+43,1994,Winter,Lillehammer,Norway,RUS,23,87
+43,1994,Winter,Lillehammer,Norway,SLO,3,3
+43,1994,Winter,Lillehammer,Norway,SUI,9,32
+43,1994,Winter,Lillehammer,Norway,SWE,3,74
+43,1994,Winter,Lillehammer,Norway,UKR,2,4
+43,1994,Winter,Lillehammer,Norway,USA,13,39
+43,1994,Winter,Lillehammer,Norway,UZB,1,3
+44,1998,Winter,Nagano,Japan,AUS,1,1
+44,1998,Winter,Nagano,Japan,AUT,17,31
+44,1998,Winter,Nagano,Japan,BEL,1,1
+44,1998,Winter,Nagano,Japan,BLR,2,2
+44,1998,Winter,Nagano,Japan,BUL,1,3
+44,1998,Winter,Nagano,Japan,CAN,15,105
+44,1998,Winter,Nagano,Japan,CHN,8,23
+44,1998,Winter,Nagano,Japan,CZR,3,75
+44,1998,Winter,Nagano,Japan,DEN,1,10
+44,1998,Winter,Nagano,Japan,FIN,12,70
+44,1998,Winter,Nagano,Japan,FRA,8,20
+44,1998,Winter,Nagano,Japan,GBR,1,4
+44,1998,Winter,Nagano,Japan,GER,29,100
+44,1998,Winter,Nagano,Japan,ITA,10,32
+44,1998,Winter,Nagano,Japan,JPN,10,30
+44,1998,Winter,Nagano,Japan,KAZ,2,2
+44,1998,Winter,Nagano,Japan,KOR,6,28
+44,1998,Winter,Nagano,Japan,NED,11,25
+44,1998,Winter,Nagano,Japan,NOR,25,92
+44,1998,Winter,Nagano,Japan,RUS,18,116
+44,1998,Winter,Nagano,Japan,SUI,7,31
+44,1998,Winter,Nagano,Japan,SWE,3,9
+44,1998,Winter,Nagano,Japan,UKR,1,2
+44,1998,Winter,Nagano,Japan,USA,13,88
+45,2002,Winter,Salt Lake City,USA,AUS,2,6
+45,2002,Winter,Salt Lake City,USA,AUT,17,30
+45,2002,Winter,Salt Lake City,USA,BLR,1,1
+45,2002,Winter,Salt Lake City,USA,BUL,3,4
+45,2002,Winter,Salt Lake City,USA,CAN,17,184
+45,2002,Winter,Salt Lake City,USA,CHN,8,24
+45,2002,Winter,Salt Lake City,USA,CRO,4,11
+45,2002,Winter,Salt Lake City,USA,CZR,3,7
+45,2002,Winter,Salt Lake City,USA,EST,3,6
+45,2002,Winter,Salt Lake City,USA,FIN,7,32
+45,2002,Winter,Salt Lake City,USA,FRA,11,30
+45,2002,Winter,Salt Lake City,USA,GBR,2,16
+45,2002,Winter,Salt Lake City,USA,GER,36,136
+45,2002,Winter,Salt Lake City,USA,ITA,12,37
+45,2002,Winter,Salt Lake City,USA,JPN,2,3
+45,2002,Winter,Salt Lake City,USA,KOR,4,19
+45,2002,Winter,Salt Lake City,USA,NED,8,19
+45,2002,Winter,Salt Lake City,USA,NOR,24,98
+45,2002,Winter,Salt Lake City,USA,POL,2,3
+45,2002,Winter,Salt Lake City,USA,RUS,14,58
+45,2002,Winter,Salt Lake City,USA,SLO,1,4
+45,2002,Winter,Salt Lake City,USA,SUI,11,37
+45,2002,Winter,Salt Lake City,USA,SWE,7,28
+45,2002,Winter,Salt Lake City,USA,USA,34,164
+46,2006,Winter,Turin,Italy,AUS,2,4
+46,2006,Winter,Turin,Italy,AUT,23,69
+46,2006,Winter,Turin,Italy,BLR,1,2
+46,2006,Winter,Turin,Italy,BUL,1,2
+46,2006,Winter,Turin,Italy,CAN,24,151
+46,2006,Winter,Turin,Italy,CHN,11,22
+46,2006,Winter,Turin,Italy,CRO,3,7
+46,2006,Winter,Turin,Italy,CZR,4,32
+46,2006,Winter,Turin,Italy,EST,3,9
+46,2006,Winter,Turin,Italy,FIN,9,77
+46,2006,Winter,Turin,Italy,FRA,9,20
+46,2006,Winter,Turin,Italy,GBR,1,2
+46,2006,Winter,Turin,Italy,GER,29,125
+46,2006,Winter,Turin,Italy,ITA,11,47
+46,2006,Winter,Turin,Italy,JPN,1,3
+46,2006,Winter,Turin,Italy,KOR,11,44
+46,2006,Winter,Turin,Italy,LAT,1,1
+46,2006,Winter,Turin,Italy,NED,9,21
+46,2006,Winter,Turin,Italy,NOR,19,36
+46,2006,Winter,Turin,Italy,POL,2,3
+46,2006,Winter,Turin,Italy,RUS,23,88
+46,2006,Winter,Turin,Italy,SUI,14,40
+46,2006,Winter,Turin,Italy,SVK,1,2
+46,2006,Winter,Turin,Italy,SWE,14,158
+46,2006,Winter,Turin,Italy,UKR,2,3
+46,2006,Winter,Turin,Italy,USA,25,82
+47,2008,Summer,Beijing,China,AFG,1,1
+47,2008,Summer,Beijing,China,ALG,2,3
+47,2008,Summer,Beijing,China,ARG,5,78
+47,2008,Summer,Beijing,China,ARM,6,6
+47,2008,Summer,Beijing,China,AUS,46,253
+47,2008,Summer,Beijing,China,AUT,3,4
+47,2008,Summer,Beijing,China,AZE,8,12
+47,2008,Summer,Beijing,China,BAH,2,13
+47,2008,Summer,Beijing,China,BEL,2,11
+47,2008,Summer,Beijing,China,BLR,19,65
+47,2008,Summer,Beijing,China,BRA,14,133
+47,2008,Summer,Beijing,China,BRN,1,3
+47,2008,Summer,Beijing,China,BUL,5,8
+47,2008,Summer,Beijing,China,CAN,18,69
+47,2008,Summer,Beijing,China,CHI,1,2
+47,2008,Summer,Beijing,China,CHN,95,382
+47,2008,Summer,Beijing,China,CMR,1,3
+47,2008,Summer,Beijing,China,COL,2,3
+47,2008,Summer,Beijing,China,CRO,5,7
+47,2008,Summer,Beijing,China,CUB,25,86
+47,2008,Summer,Beijing,China,CZR,6,17
+47,2008,Summer,Beijing,China,DEN,7,38
+47,2008,Summer,Beijing,China,DOM,2,5
+47,2008,Summer,Beijing,China,ECU,1,2
+47,2008,Summer,Beijing,China,EGY,1,1
+47,2008,Summer,Beijing,China,ESP,18,133
+47,2008,Summer,Beijing,China,EST,2,7
+47,2008,Summer,Beijing,China,ETH,7,16
+47,2008,Summer,Beijing,China,FIN,4,9
+47,2008,Summer,Beijing,China,FRA,40,148
+47,2008,Summer,Beijing,China,GBR,46,156
+47,2008,Summer,Beijing,China,GEO,6,12
+47,2008,Summer,Beijing,China,GER,41,201
+47,2008,Summer,Beijing,China,GRE,4,10
+47,2008,Summer,Beijing,China,HUN,10,67
+47,2008,Summer,Beijing,China,ICE,1,28
+47,2008,Summer,Beijing,China,INA,5,13
+47,2008,Summer,Beijing,China,IND,3,5
+47,2008,Summer,Beijing,China,IRL,3,4
+47,2008,Summer,Beijing,China,IRN,2,4
+47,2008,Summer,Beijing,China,ISR,1,1
+47,2008,Summer,Beijing,China,ITA,28,74
+47,2008,Summer,Beijing,China,JAM,10,42
+47,2008,Summer,Beijing,China,JAP,1,4
+47,2008,Summer,Beijing,China,JPN,24,104
+47,2008,Summer,Beijing,China,KAZ,12,20
+47,2008,Summer,Beijing,China,KEN,14,29
+47,2008,Summer,Beijing,China,KGZ,2,3
+47,2008,Summer,Beijing,China,KOR,29,168
+47,2008,Summer,Beijing,China,LAT,3,6
+47,2008,Summer,Beijing,China,LTU,5,7
+47,2008,Summer,Beijing,China,MAR,2,3
+47,2008,Summer,Beijing,China,MAS,1,2
+47,2008,Summer,Beijing,China,MDA,1,1
+47,2008,Summer,Beijing,China,MEX,3,8
+47,2008,Summer,Beijing,China,MGL,4,10
+47,2008,Summer,Beijing,China,MRI,1,1
+47,2008,Summer,Beijing,China,NED,15,157
+47,2008,Summer,Beijing,China,NGR,4,43
+47,2008,Summer,Beijing,China,NOR,9,59
+47,2008,Summer,Beijing,China,NZL,9,28
+47,2008,Summer,Beijing,China,PAN,1,3
+47,2008,Summer,Beijing,China,POL,10,45
+47,2008,Summer,Beijing,China,POR,2,5
+47,2008,Summer,Beijing,China,PRK,6,11
+47,2008,Summer,Beijing,China,ROM,8,32
+47,2008,Summer,Beijing,China,RSA,1,2
+47,2008,Summer,Beijing,China,RUS,72,277
+47,2008,Summer,Beijing,China,SIN,1,6
+47,2008,Summer,Beijing,China,SLO,6,17
+47,2008,Summer,Beijing,China,SRB,3,16
+47,2008,Summer,Beijing,China,SUD,1,2
+47,2008,Summer,Beijing,China,SUI,7,17
+47,2008,Summer,Beijing,China,SVK,5,15
+47,2008,Summer,Beijing,China,SWE,4,10
+47,2008,Summer,Beijing,China,THA,4,10
+47,2008,Summer,Beijing,China,TJK,2,3
+47,2008,Summer,Beijing,China,TOG,1,1
+47,2008,Summer,Beijing,China,TPE,4,4
+47,2008,Summer,Beijing,China,TRI,2,12
+47,2008,Summer,Beijing,China,TUN,1,3
+47,2008,Summer,Beijing,China,TUR,8,14
+47,2008,Summer,Beijing,China,UKR,28,58
+47,2008,Summer,Beijing,China,USA,110,679
+47,2008,Summer,Beijing,China,UZB,6,10
+47,2008,Summer,Beijing,China,VEN,1,1
+47,2008,Summer,Beijing,China,VIE,1,2
+47,2008,Summer,Beijing,China,ZIM,4,9
+5,1908,Summer,London,UK,ANZ,5,51
+5,1908,Summer,London,UK,AUT,1,1
+5,1908,Summer,London,UK,BEL,8,59
+5,1908,Summer,London,UK,BOH,2,6
+5,1908,Summer,London,UK,CAN,16,88
+5,1908,Summer,London,UK,DEN,5,31
+5,1908,Summer,London,UK,DEU,11,32
+5,1908,Summer,London,UK,FIN,5,33
+5,1908,Summer,London,UK,FRA,19,67
+5,1908,Summer,London,UK,GBR,137,772
+5,1908,Summer,London,UK,GRE,3,6
+5,1908,Summer,London,UK,HUN,9,40
+5,1908,Summer,London,UK,KIT,5,18
+5,1908,Summer,London,UK,NED,2,16
+5,1908,Summer,London,UK,NOR,8,88
+5,1908,Summer,London,UK,RUS,2,4
+5,1908,Summer,London,UK,SAF,2,5
+5,1908,Summer,London,UK,SWE,22,192
+5,1908,Summer,London,UK,USA,46,145
+6,1912,Summer,Stockholm,Sweden,ANZ,7,22
+6,1912,Summer,Stockholm,Sweden,AUT,4,25
+6,1912,Summer,Stockholm,Sweden,BEL,6,40
+6,1912,Summer,Stockholm,Sweden,CAN,8,16
+6,1912,Summer,Stockholm,Sweden,DEN,12,145
+6,1912,Summer,Stockholm,Sweden,DEU,25,88
+6,1912,Summer,Stockholm,Sweden,EST,1,1
+6,1912,Summer,Stockholm,Sweden,FIN,26,120
+6,1912,Summer,Stockholm,Sweden,FRA,16,58
+6,1912,Summer,Stockholm,Sweden,GBR,41,311
+6,1912,Summer,Stockholm,Sweden,GRE,2,4
+6,1912,Summer,Stockholm,Sweden,HUN,8,67
+6,1912,Summer,Stockholm,Sweden,KIT,8,70
+6,1912,Summer,Stockholm,Sweden,NED,3,26
+6,1912,Summer,Stockholm,Sweden,NOR,9,161
+6,1912,Summer,Stockholm,Sweden,RUS,4,17
+6,1912,Summer,Stockholm,Sweden,SAF,6,19
+6,1912,Summer,Stockholm,Sweden,SUI,1,6
+6,1912,Summer,Stockholm,Sweden,SWE,65,397
+6,1912,Summer,Stockholm,Sweden,USA,63,212
+7,1920,Summer,Atwerp,Belgium,AUS,3,11
+7,1920,Summer,Atwerp,Belgium,BEL,42,367
+7,1920,Summer,Atwerp,Belgium,BRA,3,10
+7,1920,Summer,Atwerp,Belgium,CAN,9,17
+7,1920,Summer,Atwerp,Belgium,CZE,1,2
+7,1920,Summer,Atwerp,Belgium,DEN,14,166
+7,1920,Summer,Atwerp,Belgium,ESP,2,46
+7,1920,Summer,Atwerp,Belgium,EST,3,7
+7,1920,Summer,Atwerp,Belgium,FIN,33,93
+7,1920,Summer,Atwerp,Belgium,FRA,41,238
+7,1920,Summer,Atwerp,Belgium,GBR,42,247
+7,1920,Summer,Atwerp,Belgium,GRE,1,10
+7,1920,Summer,Atwerp,Belgium,JPN,2,6
+7,1920,Summer,Atwerp,Belgium,KIT,25,226
+7,1920,Summer,Atwerp,Belgium,LUX,1,2
+7,1920,Summer,Atwerp,Belgium,NED,11,90
+7,1920,Summer,Atwerp,Belgium,NOR,29,302
+7,1920,Summer,Atwerp,Belgium,NZL,1,1
+7,1920,Summer,Atwerp,Belgium,SAF,10,39
+7,1920,Summer,Atwerp,Belgium,SUI,11,43
+7,1920,Summer,Atwerp,Belgium,SWE,60,279
+7,1920,Summer,Atwerp,Belgium,USA,92,429
+8,1924,Summer,Paris,France,ARG,6,23
+8,1924,Summer,Paris,France,AUS,6,19
+8,1924,Summer,Paris,France,AUT,4,7
+8,1924,Summer,Paris,France,BEL,13,73
+8,1924,Summer,Paris,France,CAN,4,35
+8,1924,Summer,Paris,France,CZE,10,16
+8,1924,Summer,Paris,France,DEN,11,27
+8,1924,Summer,Paris,France,EST,6,9
+8,1924,Summer,Paris,France,FIN,37,93
+8,1924,Summer,Paris,France,FRA,40,229
+8,1924,Summer,Paris,France,GBR,36,121
+8,1924,Summer,Paris,France,GRE,1,3
+8,1924,Summer,Paris,France,HAI,1,5
+8,1924,Summer,Paris,France,HUN,10,38
+8,1924,Summer,Paris,France,IRL,2,3
+8,1924,Summer,Paris,France,JPN,1,1
+8,1924,Summer,Paris,France,KIT,16,105
+8,1924,Summer,Paris,France,LUX,2,5
+8,1924,Summer,Paris,France,MON,1,1
+8,1924,Summer,Paris,France,NED,11,41
+8,1924,Summer,Paris,France,NOR,10,55
+8,1924,Summer,Paris,France,NZL,1,1
+8,1924,Summer,Paris,France,POL,2,9
+8,1924,Summer,Paris,France,POR,1,3
+8,1924,Summer,Paris,France,ROM,1,16
+8,1924,Summer,Paris,France,SAF,3,6
+8,1924,Summer,Paris,France,SUI,25,108
+8,1924,Summer,Paris,France,SWE,29,100
+8,1924,Summer,Paris,France,URU,1,45
+8,1924,Summer,Paris,France,USA,99,397
+8,1924,Summer,Paris,France,YUG,2,6
+9,1928,Summer,Amsterdam,Netherlands,ARG,7,50
+9,1928,Summer,Amsterdam,Netherlands,AUS,4,8
+9,1928,Summer,Amsterdam,Netherlands,AUT,4,11
+9,1928,Summer,Amsterdam,Netherlands,BEL,3,6
+9,1928,Summer,Amsterdam,Netherlands,BIN,1,42
+9,1928,Summer,Amsterdam,Netherlands,CAN,15,52
+9,1928,Summer,Amsterdam,Netherlands,CHI,1,2
+9,1928,Summer,Amsterdam,Netherlands,CZE,9,32
+9,1928,Summer,Amsterdam,Netherlands,DEN,9,29
+9,1928,Summer,Amsterdam,Netherlands,EGY,4,9
+9,1928,Summer,Amsterdam,Netherlands,ESP,1,9
+9,1928,Summer,Amsterdam,Netherlands,EST,5,13
+9,1928,Summer,Amsterdam,Netherlands,FIN,25,49
+9,1928,Summer,Amsterdam,Netherlands,FRA,25,98
+9,1928,Summer,Amsterdam,Netherlands,GBR,22,97
+9,1928,Summer,Amsterdam,Netherlands,GER,39,134
+9,1928,Summer,Amsterdam,Netherlands,HAI,1,2
+9,1928,Summer,Amsterdam,Netherlands,HUN,10,52
+9,1928,Summer,Amsterdam,Netherlands,IRL,1,3
+9,1928,Summer,Amsterdam,Netherlands,JPN,5,17
+9,1928,Summer,Amsterdam,Netherlands,KIT,20,142
+9,1928,Summer,Amsterdam,Netherlands,LUX,1,3
+9,1928,Summer,Amsterdam,Netherlands,NED,22,130
+9,1928,Summer,Amsterdam,Netherlands,NOR,4,21
+9,1928,Summer,Amsterdam,Netherlands,NZL,1,3
+9,1928,Summer,Amsterdam,Netherlands,PHI,1,1
+9,1928,Summer,Amsterdam,Netherlands,POL,7,27
+9,1928,Summer,Amsterdam,Netherlands,POR,1,6
+9,1928,Summer,Amsterdam,Netherlands,SAF,3,8
+9,1928,Summer,Amsterdam,Netherlands,SUI,16,72
+9,1928,Summer,Amsterdam,Netherlands,SWE,25,58
+9,1928,Summer,Amsterdam,Netherlands,URU,1,51
+9,1928,Summer,Amsterdam,Netherlands,USA,56,194
+9,1928,Summer,Amsterdam,Netherlands,YUG,5,15
