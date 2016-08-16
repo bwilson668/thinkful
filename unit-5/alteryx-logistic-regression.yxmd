@@ -1,0 +1,2269 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="10.5">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="234" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>flat-medals-by-country-by-olympics.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="olympic_id" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="year" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="host_nation" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="AFG" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="AFG_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="AHO" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="AHO_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ALG" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ALG_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ANZ" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ANZ_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ARG" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ARG_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ARM" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ARM_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="AUS" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="AUS_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="AUT" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="AUT_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="AZE" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="AZE_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="BAH" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="BAH_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="BAR" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="BAR_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="BDI" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="BDI_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="BEL" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="BEL_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="BER" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="BER_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="BIN" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="BIN_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="BLR" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="BLR_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="BOH" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="BOH_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="BRA" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="BRA_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="BRN" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="BRN_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="BUL" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="BUL_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="BWI" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="BWI_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="CAN" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="CAN_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="CHI" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="CHI_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="CHN" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="CHN_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="CIV" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="CIV_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="CMR" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="CMR_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="COL" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="COL_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="CRC" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="CRC_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="CRO" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="CRO_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="CUB" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="CUB_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="CZE" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="CZE_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="CZR" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="CZR_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="DEN" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="DEN_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="DEU" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="DEU_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="DJI" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="DJI_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="DOM" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="DOM_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ECU" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ECU_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="EGY" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="EGY_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ERI" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ERI_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ESP" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ESP_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="EST" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="EST_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ETH" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ETH_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="FIN" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="FIN_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="FRA" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="FRA_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="FRG" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="FRG_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="GBR" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="GBR_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="GDR" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="GDR_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="GEO" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="GEO_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="GER" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="GER_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="GHA" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="GHA_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="GRE" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="GRE_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="GUY" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="GUY_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="HAI" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="HAI_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="HKG" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="HKG_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="HUN" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="HUN_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ICE" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ICE_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="INA" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="INA_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="IND" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="IND_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="INT" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="INT_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="IRI" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="IRI_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="IRL" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="IRL_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="IRN" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="IRN_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="IRQ" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="IRQ_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ISL" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ISL_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ISR" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ISR_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ISV" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ISV_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ITA" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ITA_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="JAM" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="JAM_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="JAP" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="JAP_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="JPN" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="JPN_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="KAZ" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="KAZ_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="KEN" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="KEN_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="KGZ" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="KGZ_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="KIT" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="KIT_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="KOR" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="KOR_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="KSA" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="KSA_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="KUW" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="KUW_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="LAT" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="LAT_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="LIB" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="LIB_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="LTU" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="LTU_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="LUX" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="LUX_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="MAR" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="MAR_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="MAS" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="MAS_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="MDA" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="MDA_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="MEX" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="MEX_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="MGL" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="MGL_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="MKD" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="MKD_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="MON" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="MON_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="MOZ" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="MOZ_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="MRI" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="MRI_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="NAM" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="NAM_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="NED" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="NED_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="NGR" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="NGR_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="NIG" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="NIG_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="NOR" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="NOR_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="NZL" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="NZL_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="PAK" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="PAK_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="PAN" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="PAN_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="PAR" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="PAR_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="PER" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="PER_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="PHI" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="PHI_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="POL" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="POL_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="POR" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="POR_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="PRK" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="PRK_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="PUR" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="PUR_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="QAT" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="QAT_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ROM" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ROM_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="RSA" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="RSA_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="RUS" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="RUS_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="SAF" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="SAF_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="SEN" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="SEN_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="SIN" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="SIN_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="SLO" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="SLO_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="SRB" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="SRB_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="SRI" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="SRI_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="SUD" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="SUD_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="SUI" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="SUI_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="SUR" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="SUR_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="SVK" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="SVK_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="SWE" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="SWE_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="SYR" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="SYR_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="TAN" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="TAN_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="TGA" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="TGA_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="THA" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="THA_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="TJK" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="TJK_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="TOG" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="TOG_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="TPE" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="TPE_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="TRI" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="TRI_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="TUN" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="TUN_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="TUR" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="TUR_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="UAE" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="UAE_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="UGA" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="UGA_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="UKR" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="UKR_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="URS" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="URS_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="URU" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="URU_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="USA" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="USA_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="UZB" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="UZB_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="VEN" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="VEN_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="VIE" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="VIE_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="YUF" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="YUF_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="YUG" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="YUG_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ZAM" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ZAM_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ZIM" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="ZIM_prev" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings>
+        <Position x="186" y="690" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Model Name">usa_linear</Value>
+          <Value name="Y Var">USA</Value>
+          <Value name="X Vars">USA_prev + num_of_events</Value>
+          <Value name="Omit Constant">False</Value>
+          <Value name="Use Weights">False</Value>
+          <Value name="Weight Vec">year</Value>
+          <Value name="graph.resolution">1x</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\Linear_Regression.yxmc" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="234" y="390" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <SelectFields>
+            <SelectField field="olympic_id" selected="True" type="Int64" size="8" />
+            <SelectField field="year" selected="True" type="Int64" size="8" />
+            <SelectField field="host_nation" selected="True" />
+            <SelectField field="AFG" selected="True" type="Int64" size="8" />
+            <SelectField field="AFG_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="AHO" selected="True" type="Int64" size="8" />
+            <SelectField field="AHO_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="ALG" selected="True" type="Int64" size="8" />
+            <SelectField field="ALG_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="ANZ" selected="True" type="Int64" size="8" />
+            <SelectField field="ANZ_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="ARG" selected="True" type="Int64" size="8" />
+            <SelectField field="ARG_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="ARM" selected="True" type="Int64" size="8" />
+            <SelectField field="ARM_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="AUS" selected="True" type="Int64" size="8" />
+            <SelectField field="AUS_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="AUT" selected="True" type="Int64" size="8" />
+            <SelectField field="AUT_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="AZE" selected="True" type="Int64" size="8" />
+            <SelectField field="AZE_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="BAH" selected="True" type="Int64" size="8" />
+            <SelectField field="BAH_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="BAR" selected="True" type="Int64" size="8" />
+            <SelectField field="BAR_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="BDI" selected="True" type="Int64" size="8" />
+            <SelectField field="BDI_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="BEL" selected="True" type="Int64" size="8" />
+            <SelectField field="BEL_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="BER" selected="True" type="Int64" size="8" />
+            <SelectField field="BER_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="BIN" selected="True" type="Int64" size="8" />
+            <SelectField field="BIN_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="BLR" selected="True" type="Int64" size="8" />
+            <SelectField field="BLR_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="BOH" selected="True" type="Int64" size="8" />
+            <SelectField field="BOH_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="BRA" selected="True" type="Int64" size="8" />
+            <SelectField field="BRA_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="BRN" selected="True" type="Int64" size="8" />
+            <SelectField field="BRN_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="BUL" selected="True" type="Int64" size="8" />
+            <SelectField field="BUL_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="BWI" selected="True" type="Int64" size="8" />
+            <SelectField field="BWI_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="CAN" selected="True" type="Int64" size="8" />
+            <SelectField field="CAN_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="CHI" selected="True" type="Int64" size="8" />
+            <SelectField field="CHI_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="CHN" selected="True" type="Int64" size="8" />
+            <SelectField field="CHN_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="CIV" selected="True" type="Int64" size="8" />
+            <SelectField field="CIV_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="CMR" selected="True" type="Int64" size="8" />
+            <SelectField field="CMR_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="COL" selected="True" type="Int64" size="8" />
+            <SelectField field="COL_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="CRC" selected="True" type="Int64" size="8" />
+            <SelectField field="CRC_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="CRO" selected="True" type="Int64" size="8" />
+            <SelectField field="CRO_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="CUB" selected="True" type="Int64" size="8" />
+            <SelectField field="CUB_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="CZE" selected="True" type="Int64" size="8" />
+            <SelectField field="CZE_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="CZR" selected="True" type="Int64" size="8" />
+            <SelectField field="CZR_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="DEN" selected="True" type="Int64" size="8" />
+            <SelectField field="DEN_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="DEU" selected="True" type="Int64" size="8" />
+            <SelectField field="DEU_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="DJI" selected="True" type="Int64" size="8" />
+            <SelectField field="DJI_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="DOM" selected="True" type="Int64" size="8" />
+            <SelectField field="DOM_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="ECU" selected="True" type="Int64" size="8" />
+            <SelectField field="ECU_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="EGY" selected="True" type="Int64" size="8" />
+            <SelectField field="EGY_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="ERI" selected="True" type="Int64" size="8" />
+            <SelectField field="ERI_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="ESP" selected="True" type="Int64" size="8" />
+            <SelectField field="ESP_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="EST" selected="True" type="Int64" size="8" />
+            <SelectField field="EST_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="ETH" selected="True" type="Int64" size="8" />
+            <SelectField field="ETH_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="FIN" selected="True" type="Int64" size="8" />
+            <SelectField field="FIN_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="FRA" selected="True" type="Int64" size="8" />
+            <SelectField field="FRA_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="FRG" selected="True" type="Int64" size="8" />
+            <SelectField field="FRG_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="GBR" selected="True" type="Int64" size="8" />
+            <SelectField field="GBR_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="GDR" selected="True" type="Int64" size="8" />
+            <SelectField field="GDR_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="GEO" selected="True" type="Int64" size="8" />
+            <SelectField field="GEO_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="GER" selected="True" type="Int64" size="8" />
+            <SelectField field="GER_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="GHA" selected="True" type="Int64" size="8" />
+            <SelectField field="GHA_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="GRE" selected="True" type="Int64" size="8" />
+            <SelectField field="GRE_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="GUY" selected="True" type="Int64" size="8" />
+            <SelectField field="GUY_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="HAI" selected="True" type="Int64" size="8" />
+            <SelectField field="HAI_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="HKG" selected="True" type="Int64" size="8" />
+            <SelectField field="HKG_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="HUN" selected="True" type="Int64" size="8" />
+            <SelectField field="HUN_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="ICE" selected="True" type="Int64" size="8" />
+            <SelectField field="ICE_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="INA" selected="True" type="Int64" size="8" />
+            <SelectField field="INA_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="IND" selected="True" type="Int64" size="8" />
+            <SelectField field="IND_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="INT" selected="True" type="Int64" size="8" />
+            <SelectField field="INT_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="IRI" selected="True" type="Int64" size="8" />
+            <SelectField field="IRI_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="IRL" selected="True" type="Int64" size="8" />
+            <SelectField field="IRL_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="IRN" selected="True" type="Int64" size="8" />
+            <SelectField field="IRN_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="IRQ" selected="True" type="Int64" size="8" />
+            <SelectField field="IRQ_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="ISL" selected="True" type="Int64" size="8" />
+            <SelectField field="ISL_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="ISR" selected="True" type="Int64" size="8" />
+            <SelectField field="ISR_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="ISV" selected="True" type="Int64" size="8" />
+            <SelectField field="ISV_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="ITA" selected="True" type="Int64" size="8" />
+            <SelectField field="ITA_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="JAM" selected="True" type="Int64" size="8" />
+            <SelectField field="JAM_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="JAP" selected="True" type="Int64" size="8" />
+            <SelectField field="JAP_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="JPN" selected="True" type="Int64" size="8" />
+            <SelectField field="JPN_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="KAZ" selected="True" type="Int64" size="8" />
+            <SelectField field="KAZ_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="KEN" selected="True" type="Int64" size="8" />
+            <SelectField field="KEN_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="KGZ" selected="True" type="Int64" size="8" />
+            <SelectField field="KGZ_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="KIT" selected="True" type="Int64" size="8" />
+            <SelectField field="KIT_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="KOR" selected="True" type="Int64" size="8" />
+            <SelectField field="KOR_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="KSA" selected="True" type="Int64" size="8" />
+            <SelectField field="KSA_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="KUW" selected="True" type="Int64" size="8" />
+            <SelectField field="KUW_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="LAT" selected="True" type="Int64" size="8" />
+            <SelectField field="LAT_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="LIB" selected="True" type="Int64" size="8" />
+            <SelectField field="LIB_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="LTU" selected="True" type="Int64" size="8" />
+            <SelectField field="LTU_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="LUX" selected="True" type="Int64" size="8" />
+            <SelectField field="LUX_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="MAR" selected="True" type="Int64" size="8" />
+            <SelectField field="MAR_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="MAS" selected="True" type="Int64" size="8" />
+            <SelectField field="MAS_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="MDA" selected="True" type="Int64" size="8" />
+            <SelectField field="MDA_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="MEX" selected="True" type="Int64" size="8" />
+            <SelectField field="MEX_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="MGL" selected="True" type="Int64" size="8" />
+            <SelectField field="MGL_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="MKD" selected="True" type="Int64" size="8" />
+            <SelectField field="MKD_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="MON" selected="True" type="Int64" size="8" />
+            <SelectField field="MON_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="MOZ" selected="True" type="Int64" size="8" />
+            <SelectField field="MOZ_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="MRI" selected="True" type="Int64" size="8" />
+            <SelectField field="MRI_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="NAM" selected="True" type="Int64" size="8" />
+            <SelectField field="NAM_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="NED" selected="True" type="Int64" size="8" />
+            <SelectField field="NED_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="NGR" selected="True" type="Int64" size="8" />
+            <SelectField field="NGR_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="NIG" selected="True" type="Int64" size="8" />
+            <SelectField field="NIG_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="NOR" selected="True" type="Int64" size="8" />
+            <SelectField field="NOR_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="NZL" selected="True" type="Int64" size="8" />
+            <SelectField field="NZL_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="PAK" selected="True" type="Int64" size="8" />
+            <SelectField field="PAK_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="PAN" selected="True" type="Int64" size="8" />
+            <SelectField field="PAN_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="PAR" selected="True" type="Int64" size="8" />
+            <SelectField field="PAR_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="PER" selected="True" type="Int64" size="8" />
+            <SelectField field="PER_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="PHI" selected="True" type="Int64" size="8" />
+            <SelectField field="PHI_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="POL" selected="True" type="Int64" size="8" />
+            <SelectField field="POL_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="POR" selected="True" type="Int64" size="8" />
+            <SelectField field="POR_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="PRK" selected="True" type="Int64" size="8" />
+            <SelectField field="PRK_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="PUR" selected="True" type="Int64" size="8" />
+            <SelectField field="PUR_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="QAT" selected="True" type="Int64" size="8" />
+            <SelectField field="QAT_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="ROM" selected="True" type="Int64" size="8" />
+            <SelectField field="ROM_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="RSA" selected="True" type="Int64" size="8" />
+            <SelectField field="RSA_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="RUS" selected="True" type="Int64" size="8" />
+            <SelectField field="RUS_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="SAF" selected="True" type="Int64" size="8" />
+            <SelectField field="SAF_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="SEN" selected="True" type="Int64" size="8" />
+            <SelectField field="SEN_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="SIN" selected="True" type="Int64" size="8" />
+            <SelectField field="SIN_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="SLO" selected="True" type="Int64" size="8" />
+            <SelectField field="SLO_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="SRB" selected="True" type="Int64" size="8" />
+            <SelectField field="SRB_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="SRI" selected="True" type="Int64" size="8" />
+            <SelectField field="SRI_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="SUD" selected="True" type="Int64" size="8" />
+            <SelectField field="SUD_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="SUI" selected="True" type="Int64" size="8" />
+            <SelectField field="SUI_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="SUR" selected="True" type="Int64" size="8" />
+            <SelectField field="SUR_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="SVK" selected="True" type="Int64" size="8" />
+            <SelectField field="SVK_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="SWE" selected="True" type="Int64" size="8" />
+            <SelectField field="SWE_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="SYR" selected="True" type="Int64" size="8" />
+            <SelectField field="SYR_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="TAN" selected="True" type="Int64" size="8" />
+            <SelectField field="TAN_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="TGA" selected="True" type="Int64" size="8" />
+            <SelectField field="TGA_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="THA" selected="True" type="Int64" size="8" />
+            <SelectField field="THA_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="TJK" selected="True" type="Int64" size="8" />
+            <SelectField field="TJK_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="TOG" selected="True" type="Int64" size="8" />
+            <SelectField field="TOG_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="TPE" selected="True" type="Int64" size="8" />
+            <SelectField field="TPE_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="TRI" selected="True" type="Int64" size="8" />
+            <SelectField field="TRI_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="TUN" selected="True" type="Int64" size="8" />
+            <SelectField field="TUN_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="TUR" selected="True" type="Int64" size="8" />
+            <SelectField field="TUR_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="UAE" selected="True" type="Int64" size="8" />
+            <SelectField field="UAE_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="UGA" selected="True" type="Int64" size="8" />
+            <SelectField field="UGA_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="UKR" selected="True" type="Int64" size="8" />
+            <SelectField field="UKR_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="URS" selected="True" type="Int64" size="8" />
+            <SelectField field="URS_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="URU" selected="True" type="Int64" size="8" />
+            <SelectField field="URU_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="USA" selected="True" type="Int64" size="8" />
+            <SelectField field="USA_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="UZB" selected="True" type="Int64" size="8" />
+            <SelectField field="UZB_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="VEN" selected="True" type="Int64" size="8" />
+            <SelectField field="VEN_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="VIE" selected="True" type="Int64" size="8" />
+            <SelectField field="VIE_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="YUF" selected="True" type="Int64" size="8" />
+            <SelectField field="YUF_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="YUG" selected="True" type="Int64" size="8" />
+            <SelectField field="YUG_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="ZAM" selected="True" type="Int64" size="8" />
+            <SelectField field="ZAM_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="ZIM" selected="True" type="Int64" size="8" />
+            <SelectField field="ZIM_prev" selected="True" type="Int64" size="8" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="126" y="798" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\703054~1\AppData\Local\Temp\Engine_10332_bd4fb91cb9ab46ee82037ab485f85c4d_\Engine_8992_50ac949caac941359ce2188dce217e26_.yxdb</TempFile>
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="126" y="918" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\703054~1\AppData\Local\Temp\Engine_10332_bd4fb91cb9ab46ee82037ab485f85c4d_\Engine_8992_b69182a1cec843e49956214dff9f9eda_.yxdb</TempFile>
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings>
+        <Position x="186" y="918" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="score field">usa_medals</Value>
+          <Value name="is oversampled">False</Value>
+          <Value name="oversampled value" />
+          <Value name="original percent">2.0</Value>
+          <Value name="log y">False</Value>
+          <Value name="prediction.interval">False</Value>
+          <Value name="interval.level">95</Value>
+          <Value name="append.xdf">False</Value>
+          <Value name="num.records">256000</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="olympic_id" source="R-DATA:" type="Double" />
+            <Field name="year" source="R-DATA:" type="Double" />
+            <Field name="host_nation" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="AFG" source="R-DATA:" type="Double" />
+            <Field name="AFG_prev" source="R-DATA:" type="Double" />
+            <Field name="AHO" source="R-DATA:" type="Double" />
+            <Field name="AHO_prev" source="R-DATA:" type="Double" />
+            <Field name="ALG" source="R-DATA:" type="Double" />
+            <Field name="ALG_prev" source="R-DATA:" type="Double" />
+            <Field name="ANZ" source="R-DATA:" type="Double" />
+            <Field name="ANZ_prev" source="R-DATA:" type="Double" />
+            <Field name="ARG" source="R-DATA:" type="Double" />
+            <Field name="ARG_prev" source="R-DATA:" type="Double" />
+            <Field name="ARM" source="R-DATA:" type="Double" />
+            <Field name="ARM_prev" source="R-DATA:" type="Double" />
+            <Field name="AUS" source="R-DATA:" type="Double" />
+            <Field name="AUS_prev" source="R-DATA:" type="Double" />
+            <Field name="AUT" source="R-DATA:" type="Double" />
+            <Field name="AUT_prev" source="R-DATA:" type="Double" />
+            <Field name="AZE" source="R-DATA:" type="Double" />
+            <Field name="AZE_prev" source="R-DATA:" type="Double" />
+            <Field name="BAH" source="R-DATA:" type="Double" />
+            <Field name="BAH_prev" source="R-DATA:" type="Double" />
+            <Field name="BAR" source="R-DATA:" type="Double" />
+            <Field name="BAR_prev" source="R-DATA:" type="Double" />
+            <Field name="BDI" source="R-DATA:" type="Double" />
+            <Field name="BDI_prev" source="R-DATA:" type="Double" />
+            <Field name="BEL" source="R-DATA:" type="Double" />
+            <Field name="BEL_prev" source="R-DATA:" type="Double" />
+            <Field name="BER" source="R-DATA:" type="Double" />
+            <Field name="BER_prev" source="R-DATA:" type="Double" />
+            <Field name="BIN" source="R-DATA:" type="Double" />
+            <Field name="BIN_prev" source="R-DATA:" type="Double" />
+            <Field name="BLR" source="R-DATA:" type="Double" />
+            <Field name="BLR_prev" source="R-DATA:" type="Double" />
+            <Field name="BOH" source="R-DATA:" type="Double" />
+            <Field name="BOH_prev" source="R-DATA:" type="Double" />
+            <Field name="BRA" source="R-DATA:" type="Double" />
+            <Field name="BRA_prev" source="R-DATA:" type="Double" />
+            <Field name="BRN" source="R-DATA:" type="Double" />
+            <Field name="BRN_prev" source="R-DATA:" type="Double" />
+            <Field name="BUL" source="R-DATA:" type="Double" />
+            <Field name="BUL_prev" source="R-DATA:" type="Double" />
+            <Field name="BWI" source="R-DATA:" type="Double" />
+            <Field name="BWI_prev" source="R-DATA:" type="Double" />
+            <Field name="CAN" source="R-DATA:" type="Double" />
+            <Field name="CAN_prev" source="R-DATA:" type="Double" />
+            <Field name="CHI" source="R-DATA:" type="Double" />
+            <Field name="CHI_prev" source="R-DATA:" type="Double" />
+            <Field name="CHN" source="R-DATA:" type="Double" />
+            <Field name="CHN_prev" source="R-DATA:" type="Double" />
+            <Field name="CIV" source="R-DATA:" type="Double" />
+            <Field name="CIV_prev" source="R-DATA:" type="Double" />
+            <Field name="CMR" source="R-DATA:" type="Double" />
+            <Field name="CMR_prev" source="R-DATA:" type="Double" />
+            <Field name="COL" source="R-DATA:" type="Double" />
+            <Field name="COL_prev" source="R-DATA:" type="Double" />
+            <Field name="CRC" source="R-DATA:" type="Double" />
+            <Field name="CRC_prev" source="R-DATA:" type="Double" />
+            <Field name="CRO" source="R-DATA:" type="Double" />
+            <Field name="CRO_prev" source="R-DATA:" type="Double" />
+            <Field name="CUB" source="R-DATA:" type="Double" />
+            <Field name="CUB_prev" source="R-DATA:" type="Double" />
+            <Field name="CZE" source="R-DATA:" type="Double" />
+            <Field name="CZE_prev" source="R-DATA:" type="Double" />
+            <Field name="CZR" source="R-DATA:" type="Double" />
+            <Field name="CZR_prev" source="R-DATA:" type="Double" />
+            <Field name="DEN" source="R-DATA:" type="Double" />
+            <Field name="DEN_prev" source="R-DATA:" type="Double" />
+            <Field name="DEU" source="R-DATA:" type="Double" />
+            <Field name="DEU_prev" source="R-DATA:" type="Double" />
+            <Field name="DJI" source="R-DATA:" type="Double" />
+            <Field name="DJI_prev" source="R-DATA:" type="Double" />
+            <Field name="DOM" source="R-DATA:" type="Double" />
+            <Field name="DOM_prev" source="R-DATA:" type="Double" />
+            <Field name="ECU" source="R-DATA:" type="Double" />
+            <Field name="ECU_prev" source="R-DATA:" type="Double" />
+            <Field name="EGY" source="R-DATA:" type="Double" />
+            <Field name="EGY_prev" source="R-DATA:" type="Double" />
+            <Field name="ERI" source="R-DATA:" type="Double" />
+            <Field name="ERI_prev" source="R-DATA:" type="Double" />
+            <Field name="ESP" source="R-DATA:" type="Double" />
+            <Field name="ESP_prev" source="R-DATA:" type="Double" />
+            <Field name="EST" source="R-DATA:" type="Double" />
+            <Field name="EST_prev" source="R-DATA:" type="Double" />
+            <Field name="ETH" source="R-DATA:" type="Double" />
+            <Field name="ETH_prev" source="R-DATA:" type="Double" />
+            <Field name="FIN" source="R-DATA:" type="Double" />
+            <Field name="FIN_prev" source="R-DATA:" type="Double" />
+            <Field name="FRA" source="R-DATA:" type="Double" />
+            <Field name="FRA_prev" source="R-DATA:" type="Double" />
+            <Field name="FRG" source="R-DATA:" type="Double" />
+            <Field name="FRG_prev" source="R-DATA:" type="Double" />
+            <Field name="GBR" source="R-DATA:" type="Double" />
+            <Field name="GBR_prev" source="R-DATA:" type="Double" />
+            <Field name="GDR" source="R-DATA:" type="Double" />
+            <Field name="GDR_prev" source="R-DATA:" type="Double" />
+            <Field name="GEO" source="R-DATA:" type="Double" />
+            <Field name="GEO_prev" source="R-DATA:" type="Double" />
+            <Field name="GER" source="R-DATA:" type="Double" />
+            <Field name="GER_prev" source="R-DATA:" type="Double" />
+            <Field name="GHA" source="R-DATA:" type="Double" />
+            <Field name="GHA_prev" source="R-DATA:" type="Double" />
+            <Field name="GRE" source="R-DATA:" type="Double" />
+            <Field name="GRE_prev" source="R-DATA:" type="Double" />
+            <Field name="GUY" source="R-DATA:" type="Double" />
+            <Field name="GUY_prev" source="R-DATA:" type="Double" />
+            <Field name="HAI" source="R-DATA:" type="Double" />
+            <Field name="HAI_prev" source="R-DATA:" type="Double" />
+            <Field name="HKG" source="R-DATA:" type="Double" />
+            <Field name="HKG_prev" source="R-DATA:" type="Double" />
+            <Field name="HUN" source="R-DATA:" type="Double" />
+            <Field name="HUN_prev" source="R-DATA:" type="Double" />
+            <Field name="ICE" source="R-DATA:" type="Double" />
+            <Field name="ICE_prev" source="R-DATA:" type="Double" />
+            <Field name="INA" source="R-DATA:" type="Double" />
+            <Field name="INA_prev" source="R-DATA:" type="Double" />
+            <Field name="IND" source="R-DATA:" type="Double" />
+            <Field name="IND_prev" source="R-DATA:" type="Double" />
+            <Field name="INT" source="R-DATA:" type="Double" />
+            <Field name="INT_prev" source="R-DATA:" type="Double" />
+            <Field name="IRI" source="R-DATA:" type="Double" />
+            <Field name="IRI_prev" source="R-DATA:" type="Double" />
+            <Field name="IRL" source="R-DATA:" type="Double" />
+            <Field name="IRL_prev" source="R-DATA:" type="Double" />
+            <Field name="IRN" source="R-DATA:" type="Double" />
+            <Field name="IRN_prev" source="R-DATA:" type="Double" />
+            <Field name="IRQ" source="R-DATA:" type="Double" />
+            <Field name="IRQ_prev" source="R-DATA:" type="Double" />
+            <Field name="ISL" source="R-DATA:" type="Double" />
+            <Field name="ISL_prev" source="R-DATA:" type="Double" />
+            <Field name="ISR" source="R-DATA:" type="Double" />
+            <Field name="ISR_prev" source="R-DATA:" type="Double" />
+            <Field name="ISV" source="R-DATA:" type="Double" />
+            <Field name="ISV_prev" source="R-DATA:" type="Double" />
+            <Field name="ITA" source="R-DATA:" type="Double" />
+            <Field name="ITA_prev" source="R-DATA:" type="Double" />
+            <Field name="JAM" source="R-DATA:" type="Double" />
+            <Field name="JAM_prev" source="R-DATA:" type="Double" />
+            <Field name="JAP" source="R-DATA:" type="Double" />
+            <Field name="JAP_prev" source="R-DATA:" type="Double" />
+            <Field name="JPN" source="R-DATA:" type="Double" />
+            <Field name="JPN_prev" source="R-DATA:" type="Double" />
+            <Field name="KAZ" source="R-DATA:" type="Double" />
+            <Field name="KAZ_prev" source="R-DATA:" type="Double" />
+            <Field name="KEN" source="R-DATA:" type="Double" />
+            <Field name="KEN_prev" source="R-DATA:" type="Double" />
+            <Field name="KGZ" source="R-DATA:" type="Double" />
+            <Field name="KGZ_prev" source="R-DATA:" type="Double" />
+            <Field name="KIT" source="R-DATA:" type="Double" />
+            <Field name="KIT_prev" source="R-DATA:" type="Double" />
+            <Field name="KOR" source="R-DATA:" type="Double" />
+            <Field name="KOR_prev" source="R-DATA:" type="Double" />
+            <Field name="KSA" source="R-DATA:" type="Double" />
+            <Field name="KSA_prev" source="R-DATA:" type="Double" />
+            <Field name="KUW" source="R-DATA:" type="Double" />
+            <Field name="KUW_prev" source="R-DATA:" type="Double" />
+            <Field name="LAT" source="R-DATA:" type="Double" />
+            <Field name="LAT_prev" source="R-DATA:" type="Double" />
+            <Field name="LIB" source="R-DATA:" type="Double" />
+            <Field name="LIB_prev" source="R-DATA:" type="Double" />
+            <Field name="LTU" source="R-DATA:" type="Double" />
+            <Field name="LTU_prev" source="R-DATA:" type="Double" />
+            <Field name="LUX" source="R-DATA:" type="Double" />
+            <Field name="LUX_prev" source="R-DATA:" type="Double" />
+            <Field name="MAR" source="R-DATA:" type="Double" />
+            <Field name="MAR_prev" source="R-DATA:" type="Double" />
+            <Field name="MAS" source="R-DATA:" type="Double" />
+            <Field name="MAS_prev" source="R-DATA:" type="Double" />
+            <Field name="MDA" source="R-DATA:" type="Double" />
+            <Field name="MDA_prev" source="R-DATA:" type="Double" />
+            <Field name="MEX" source="R-DATA:" type="Double" />
+            <Field name="MEX_prev" source="R-DATA:" type="Double" />
+            <Field name="MGL" source="R-DATA:" type="Double" />
+            <Field name="MGL_prev" source="R-DATA:" type="Double" />
+            <Field name="MKD" source="R-DATA:" type="Double" />
+            <Field name="MKD_prev" source="R-DATA:" type="Double" />
+            <Field name="MON" source="R-DATA:" type="Double" />
+            <Field name="MON_prev" source="R-DATA:" type="Double" />
+            <Field name="MOZ" source="R-DATA:" type="Double" />
+            <Field name="MOZ_prev" source="R-DATA:" type="Double" />
+            <Field name="MRI" source="R-DATA:" type="Double" />
+            <Field name="MRI_prev" source="R-DATA:" type="Double" />
+            <Field name="NAM" source="R-DATA:" type="Double" />
+            <Field name="NAM_prev" source="R-DATA:" type="Double" />
+            <Field name="NED" source="R-DATA:" type="Double" />
+            <Field name="NED_prev" source="R-DATA:" type="Double" />
+            <Field name="NGR" source="R-DATA:" type="Double" />
+            <Field name="NGR_prev" source="R-DATA:" type="Double" />
+            <Field name="NIG" source="R-DATA:" type="Double" />
+            <Field name="NIG_prev" source="R-DATA:" type="Double" />
+            <Field name="NOR" source="R-DATA:" type="Double" />
+            <Field name="NOR_prev" source="R-DATA:" type="Double" />
+            <Field name="NZL" source="R-DATA:" type="Double" />
+            <Field name="NZL_prev" source="R-DATA:" type="Double" />
+            <Field name="PAK" source="R-DATA:" type="Double" />
+            <Field name="PAK_prev" source="R-DATA:" type="Double" />
+            <Field name="PAN" source="R-DATA:" type="Double" />
+            <Field name="PAN_prev" source="R-DATA:" type="Double" />
+            <Field name="PAR" source="R-DATA:" type="Double" />
+            <Field name="PAR_prev" source="R-DATA:" type="Double" />
+            <Field name="PER" source="R-DATA:" type="Double" />
+            <Field name="PER_prev" source="R-DATA:" type="Double" />
+            <Field name="PHI" source="R-DATA:" type="Double" />
+            <Field name="PHI_prev" source="R-DATA:" type="Double" />
+            <Field name="POL" source="R-DATA:" type="Double" />
+            <Field name="POL_prev" source="R-DATA:" type="Double" />
+            <Field name="POR" source="R-DATA:" type="Double" />
+            <Field name="POR_prev" source="R-DATA:" type="Double" />
+            <Field name="PRK" source="R-DATA:" type="Double" />
+            <Field name="PRK_prev" source="R-DATA:" type="Double" />
+            <Field name="PUR" source="R-DATA:" type="Double" />
+            <Field name="PUR_prev" source="R-DATA:" type="Double" />
+            <Field name="QAT" source="R-DATA:" type="Double" />
+            <Field name="QAT_prev" source="R-DATA:" type="Double" />
+            <Field name="ROM" source="R-DATA:" type="Double" />
+            <Field name="ROM_prev" source="R-DATA:" type="Double" />
+            <Field name="RSA" source="R-DATA:" type="Double" />
+            <Field name="RSA_prev" source="R-DATA:" type="Double" />
+            <Field name="RUS" source="R-DATA:" type="Double" />
+            <Field name="RUS_prev" source="R-DATA:" type="Double" />
+            <Field name="SAF" source="R-DATA:" type="Double" />
+            <Field name="SAF_prev" source="R-DATA:" type="Double" />
+            <Field name="SEN" source="R-DATA:" type="Double" />
+            <Field name="SEN_prev" source="R-DATA:" type="Double" />
+            <Field name="SIN" source="R-DATA:" type="Double" />
+            <Field name="SIN_prev" source="R-DATA:" type="Double" />
+            <Field name="SLO" source="R-DATA:" type="Double" />
+            <Field name="SLO_prev" source="R-DATA:" type="Double" />
+            <Field name="SRB" source="R-DATA:" type="Double" />
+            <Field name="SRB_prev" source="R-DATA:" type="Double" />
+            <Field name="SRI" source="R-DATA:" type="Double" />
+            <Field name="SRI_prev" source="R-DATA:" type="Double" />
+            <Field name="SUD" source="R-DATA:" type="Double" />
+            <Field name="SUD_prev" source="R-DATA:" type="Double" />
+            <Field name="SUI" source="R-DATA:" type="Double" />
+            <Field name="SUI_prev" source="R-DATA:" type="Double" />
+            <Field name="SUR" source="R-DATA:" type="Double" />
+            <Field name="SUR_prev" source="R-DATA:" type="Double" />
+            <Field name="SVK" source="R-DATA:" type="Double" />
+            <Field name="SVK_prev" source="R-DATA:" type="Double" />
+            <Field name="SWE" source="R-DATA:" type="Double" />
+            <Field name="SWE_prev" source="R-DATA:" type="Double" />
+            <Field name="SYR" source="R-DATA:" type="Double" />
+            <Field name="SYR_prev" source="R-DATA:" type="Double" />
+            <Field name="TAN" source="R-DATA:" type="Double" />
+            <Field name="TAN_prev" source="R-DATA:" type="Double" />
+            <Field name="TGA" source="R-DATA:" type="Double" />
+            <Field name="TGA_prev" source="R-DATA:" type="Double" />
+            <Field name="THA" source="R-DATA:" type="Double" />
+            <Field name="THA_prev" source="R-DATA:" type="Double" />
+            <Field name="TJK" source="R-DATA:" type="Double" />
+            <Field name="TJK_prev" source="R-DATA:" type="Double" />
+            <Field name="TOG" source="R-DATA:" type="Double" />
+            <Field name="TOG_prev" source="R-DATA:" type="Double" />
+            <Field name="TPE" source="R-DATA:" type="Double" />
+            <Field name="TPE_prev" source="R-DATA:" type="Double" />
+            <Field name="TRI" source="R-DATA:" type="Double" />
+            <Field name="TRI_prev" source="R-DATA:" type="Double" />
+            <Field name="TUN" source="R-DATA:" type="Double" />
+            <Field name="TUN_prev" source="R-DATA:" type="Double" />
+            <Field name="TUR" source="R-DATA:" type="Double" />
+            <Field name="TUR_prev" source="R-DATA:" type="Double" />
+            <Field name="UAE" source="R-DATA:" type="Double" />
+            <Field name="UAE_prev" source="R-DATA:" type="Double" />
+            <Field name="UGA" source="R-DATA:" type="Double" />
+            <Field name="UGA_prev" source="R-DATA:" type="Double" />
+            <Field name="UKR" source="R-DATA:" type="Double" />
+            <Field name="UKR_prev" source="R-DATA:" type="Double" />
+            <Field name="URS" source="R-DATA:" type="Double" />
+            <Field name="URS_prev" source="R-DATA:" type="Double" />
+            <Field name="URU" source="R-DATA:" type="Double" />
+            <Field name="URU_prev" source="R-DATA:" type="Double" />
+            <Field name="USA" source="R-DATA:" type="Double" />
+            <Field name="USA_prev" source="R-DATA:" type="Double" />
+            <Field name="UZB" source="R-DATA:" type="Double" />
+            <Field name="UZB_prev" source="R-DATA:" type="Double" />
+            <Field name="VEN" source="R-DATA:" type="Double" />
+            <Field name="VEN_prev" source="R-DATA:" type="Double" />
+            <Field name="VIE" source="R-DATA:" type="Double" />
+            <Field name="VIE_prev" source="R-DATA:" type="Double" />
+            <Field name="YUF" source="R-DATA:" type="Double" />
+            <Field name="YUF_prev" source="R-DATA:" type="Double" />
+            <Field name="YUG" source="R-DATA:" type="Double" />
+            <Field name="YUG_prev" source="R-DATA:" type="Double" />
+            <Field name="ZAM" source="R-DATA:" type="Double" />
+            <Field name="ZAM_prev" source="R-DATA:" type="Double" />
+            <Field name="ZIM" source="R-DATA:" type="Double" />
+            <Field name="ZIM_prev" source="R-DATA:" type="Double" />
+            <Field name="num_of_events" source="R-DATA:" type="Double" />
+            <Field name="usa_medals" source="R-DATA:" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\Score.yxmc" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="126" y="1026" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\703054~1\AppData\Local\Temp\Engine_10332_bd4fb91cb9ab46ee82037ab485f85c4d_\Engine_8992_3cad8dc00a57434eb4b10d1cd4c5442f_.yxdb</TempFile>
+          <Layout>
+            <View1>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings>
+        <Position x="186" y="1110" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Model Name">gbr_linear</Value>
+          <Value name="Y Var">GBR</Value>
+          <Value name="X Vars">GBR_prev + num_of_events</Value>
+          <Value name="Omit Constant">False</Value>
+          <Value name="Use Weights">False</Value>
+          <Value name="Weight Vec">year</Value>
+          <Value name="graph.resolution">1x</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\Linear_Regression.yxmc" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="126" y="1218" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\703054~1\AppData\Local\Temp\Engine_10332_bd4fb91cb9ab46ee82037ab485f85c4d_\Engine_8992_9e6b1a5ce01f48178385506035efb36d_.yxdb</TempFile>
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="126" y="1338" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\703054~1\AppData\Local\Temp\Engine_10332_bd4fb91cb9ab46ee82037ab485f85c4d_\Engine_8992_6c06e787d8214e2e8a92499f744d8845_.yxdb</TempFile>
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings>
+        <Position x="186" y="1338" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="score field">gbr_medals</Value>
+          <Value name="is oversampled">False</Value>
+          <Value name="oversampled value" />
+          <Value name="original percent">2.0</Value>
+          <Value name="log y">False</Value>
+          <Value name="prediction.interval">False</Value>
+          <Value name="interval.level">95</Value>
+          <Value name="append.xdf">False</Value>
+          <Value name="num.records">256000</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="olympic_id" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="year" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="host_nation" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="V_String" />
+            <Field name="AFG" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="AFG_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="AHO" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="AHO_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ALG" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ALG_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ANZ" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ANZ_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ARG" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ARG_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ARM" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ARM_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="AUS" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="AUS_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="AUT" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="AUT_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="AZE" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="AZE_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="BAH" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="BAH_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="BAR" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="BAR_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="BDI" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="BDI_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="BEL" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="BEL_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="BER" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="BER_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="BIN" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="BIN_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="BLR" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="BLR_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="BOH" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="BOH_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="BRA" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="BRA_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="BRN" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="BRN_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="BUL" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="BUL_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="BWI" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="BWI_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="CAN" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="CAN_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="CHI" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="CHI_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="CHN" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="CHN_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="CIV" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="CIV_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="CMR" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="CMR_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="COL" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="COL_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="CRC" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="CRC_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="CRO" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="CRO_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="CUB" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="CUB_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="CZE" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="CZE_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="CZR" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="CZR_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="DEN" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="DEN_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="DEU" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="DEU_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="DJI" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="DJI_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="DOM" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="DOM_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ECU" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ECU_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="EGY" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="EGY_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ERI" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ERI_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ESP" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ESP_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="EST" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="EST_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ETH" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ETH_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="FIN" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="FIN_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="FRA" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="FRA_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="FRG" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="FRG_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="GBR" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="GBR_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="GDR" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="GDR_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="GEO" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="GEO_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="GER" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="GER_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="GHA" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="GHA_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="GRE" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="GRE_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="GUY" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="GUY_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="HAI" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="HAI_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="HKG" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="HKG_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="HUN" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="HUN_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ICE" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ICE_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="INA" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="INA_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="IND" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="IND_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="INT" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="INT_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="IRI" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="IRI_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="IRL" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="IRL_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="IRN" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="IRN_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="IRQ" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="IRQ_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ISL" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ISL_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ISR" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ISR_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ISV" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ISV_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ITA" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ITA_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="JAM" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="JAM_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="JAP" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="JAP_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="JPN" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="JPN_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="KAZ" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="KAZ_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="KEN" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="KEN_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="KGZ" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="KGZ_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="KIT" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="KIT_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="KOR" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="KOR_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="KSA" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="KSA_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="KUW" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="KUW_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="LAT" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="LAT_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="LIB" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="LIB_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="LTU" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="LTU_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="LUX" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="LUX_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="MAR" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="MAR_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="MAS" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="MAS_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="MDA" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="MDA_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="MEX" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="MEX_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="MGL" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="MGL_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="MKD" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="MKD_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="MON" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="MON_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="MOZ" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="MOZ_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="MRI" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="MRI_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="NAM" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="NAM_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="NED" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="NED_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="NGR" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="NGR_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="NIG" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="NIG_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="NOR" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="NOR_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="NZL" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="NZL_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="PAK" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="PAK_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="PAN" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="PAN_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="PAR" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="PAR_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="PER" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="PER_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="PHI" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="PHI_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="POL" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="POL_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="POR" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="POR_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="PRK" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="PRK_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="PUR" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="PUR_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="QAT" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="QAT_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ROM" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ROM_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="RSA" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="RSA_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="RUS" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="RUS_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="SAF" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="SAF_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="SEN" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="SEN_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="SIN" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="SIN_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="SLO" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="SLO_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="SRB" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="SRB_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="SRI" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="SRI_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="SUD" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="SUD_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="SUI" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="SUI_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="SUR" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="SUR_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="SVK" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="SVK_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="SWE" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="SWE_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="SYR" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="SYR_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="TAN" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="TAN_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="TGA" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="TGA_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="THA" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="THA_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="TJK" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="TJK_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="TOG" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="TOG_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="TPE" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="TPE_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="TRI" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="TRI_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="TUN" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="TUN_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="TUR" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="TUR_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="UAE" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="UAE_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="UGA" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="UGA_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="UKR" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="UKR_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="URS" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="URS_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="URU" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="URU_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="USA" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="USA_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="UZB" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="UZB_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="VEN" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="VEN_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="VIE" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="VIE_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="YUF" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="YUF_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="YUG" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="YUG_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ZAM" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ZAM_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ZIM" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="ZIM_prev" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\flat-medals-by-country-by-olympics.csv" type="Double" />
+            <Field name="gbr_medals" source="R-DATA:" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\Score.yxmc" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="126" y="1446" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\703054~1\AppData\Local\Temp\Engine_10332_bd4fb91cb9ab46ee82037ab485f85c4d_\Engine_8992_743cbf920fb14e5081012e9af3519a84_.yxdb</TempFile>
+          <Layout>
+            <View1>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings>
+        <Position x="186" y="1218" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="New Model">gbr_stepwise</Value>
+          <Value name="both">False</Value>
+          <Value name="backward">True</Value>
+          <Value name="AIC">True</Value>
+          <Value name="BIC">False</Value>
+          <Value name="graph.resolution">1x</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\Stepwise.yxmc" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="414" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\703054135\Dropbox\bootcamp\unit-5\data\olympic-results.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>olympic-results.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="olympic_id" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\olympic-results.csv" type="V_String" />
+            <Field name="sport_key" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\olympic-results.csv" type="V_String" />
+            <Field name="event" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\olympic-results.csv" type="V_String" />
+            <Field name="athlete" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\olympic-results.csv" type="V_String" />
+            <Field name="country" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\olympic-results.csv" type="V_String" />
+            <Field name="result" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\olympic-results.csv" type="V_String" />
+            <Field name="medal" size="254" source="File: C:\Users\703054135\Dropbox\bootcamp\unit-5\data\olympic-results.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="414" y="390" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <SelectFields>
+            <SelectField field="olympic_id" selected="True" type="Int64" size="8" />
+            <SelectField field="sport_key" selected="True" type="Int64" size="8" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="20">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="414" y="486" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="olympic_id" action="GroupBy" rename="olympic_id" />
+            <SummarizeField field="event" action="CountDistinct" rename="num_of_events" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="21">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="414" y="582" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\703054~1\AppData\Local\Temp\Engine_10332_bd4fb91cb9ab46ee82037ab485f85c4d_\Engine_8992_70b9c3ee142d461fbf93ba6a05e452c3_.yxdb</TempFile>
+          <Layout>
+            <View1>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="22">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="246" y="582" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="olympic_id" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="olympic_id" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <SelectFields>
+                <SelectField field="Right_olympic_id" selected="False" rename="Right_olympic_id" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="23">
+      <GuiSettings>
+        <Position x="186" y="1554" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Model Name">aus_linear</Value>
+          <Value name="Y Var">AUS</Value>
+          <Value name="X Vars">AUS_prev + num_of_events</Value>
+          <Value name="Omit Constant">False</Value>
+          <Value name="Use Weights">False</Value>
+          <Value name="Weight Vec">year</Value>
+          <Value name="graph.resolution">1x</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\Linear_Regression.yxmc" />
+    </Node>
+    <Node ToolID="24">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="126" y="1662" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\703054~1\AppData\Local\Temp\Engine_10332_bd4fb91cb9ab46ee82037ab485f85c4d_\Engine_8992_37eca44c0dcb42b0a87b20d6eabb03e9_.yxdb</TempFile>
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="25">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="126" y="1782" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\703054~1\AppData\Local\Temp\Engine_10332_bd4fb91cb9ab46ee82037ab485f85c4d_\Engine_8992_65ab21ea111f442b96db241ac717c812_.yxdb</TempFile>
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="26">
+      <GuiSettings>
+        <Position x="186" y="1782" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="score field">aus_medals</Value>
+          <Value name="is oversampled">False</Value>
+          <Value name="oversampled value" />
+          <Value name="original percent">2.0</Value>
+          <Value name="log y">False</Value>
+          <Value name="prediction.interval">False</Value>
+          <Value name="interval.level">95</Value>
+          <Value name="append.xdf">False</Value>
+          <Value name="num.records">256000</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="olympic_id" source="R-DATA:" type="Double" />
+            <Field name="year" source="R-DATA:" type="Double" />
+            <Field name="host_nation" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="AFG" source="R-DATA:" type="Double" />
+            <Field name="AFG_prev" source="R-DATA:" type="Double" />
+            <Field name="AHO" source="R-DATA:" type="Double" />
+            <Field name="AHO_prev" source="R-DATA:" type="Double" />
+            <Field name="ALG" source="R-DATA:" type="Double" />
+            <Field name="ALG_prev" source="R-DATA:" type="Double" />
+            <Field name="ANZ" source="R-DATA:" type="Double" />
+            <Field name="ANZ_prev" source="R-DATA:" type="Double" />
+            <Field name="ARG" source="R-DATA:" type="Double" />
+            <Field name="ARG_prev" source="R-DATA:" type="Double" />
+            <Field name="ARM" source="R-DATA:" type="Double" />
+            <Field name="ARM_prev" source="R-DATA:" type="Double" />
+            <Field name="AUS" source="R-DATA:" type="Double" />
+            <Field name="AUS_prev" source="R-DATA:" type="Double" />
+            <Field name="AUT" source="R-DATA:" type="Double" />
+            <Field name="AUT_prev" source="R-DATA:" type="Double" />
+            <Field name="AZE" source="R-DATA:" type="Double" />
+            <Field name="AZE_prev" source="R-DATA:" type="Double" />
+            <Field name="BAH" source="R-DATA:" type="Double" />
+            <Field name="BAH_prev" source="R-DATA:" type="Double" />
+            <Field name="BAR" source="R-DATA:" type="Double" />
+            <Field name="BAR_prev" source="R-DATA:" type="Double" />
+            <Field name="BDI" source="R-DATA:" type="Double" />
+            <Field name="BDI_prev" source="R-DATA:" type="Double" />
+            <Field name="BEL" source="R-DATA:" type="Double" />
+            <Field name="BEL_prev" source="R-DATA:" type="Double" />
+            <Field name="BER" source="R-DATA:" type="Double" />
+            <Field name="BER_prev" source="R-DATA:" type="Double" />
+            <Field name="BIN" source="R-DATA:" type="Double" />
+            <Field name="BIN_prev" source="R-DATA:" type="Double" />
+            <Field name="BLR" source="R-DATA:" type="Double" />
+            <Field name="BLR_prev" source="R-DATA:" type="Double" />
+            <Field name="BOH" source="R-DATA:" type="Double" />
+            <Field name="BOH_prev" source="R-DATA:" type="Double" />
+            <Field name="BRA" source="R-DATA:" type="Double" />
+            <Field name="BRA_prev" source="R-DATA:" type="Double" />
+            <Field name="BRN" source="R-DATA:" type="Double" />
+            <Field name="BRN_prev" source="R-DATA:" type="Double" />
+            <Field name="BUL" source="R-DATA:" type="Double" />
+            <Field name="BUL_prev" source="R-DATA:" type="Double" />
+            <Field name="BWI" source="R-DATA:" type="Double" />
+            <Field name="BWI_prev" source="R-DATA:" type="Double" />
+            <Field name="CAN" source="R-DATA:" type="Double" />
+            <Field name="CAN_prev" source="R-DATA:" type="Double" />
+            <Field name="CHI" source="R-DATA:" type="Double" />
+            <Field name="CHI_prev" source="R-DATA:" type="Double" />
+            <Field name="CHN" source="R-DATA:" type="Double" />
+            <Field name="CHN_prev" source="R-DATA:" type="Double" />
+            <Field name="CIV" source="R-DATA:" type="Double" />
+            <Field name="CIV_prev" source="R-DATA:" type="Double" />
+            <Field name="CMR" source="R-DATA:" type="Double" />
+            <Field name="CMR_prev" source="R-DATA:" type="Double" />
+            <Field name="COL" source="R-DATA:" type="Double" />
+            <Field name="COL_prev" source="R-DATA:" type="Double" />
+            <Field name="CRC" source="R-DATA:" type="Double" />
+            <Field name="CRC_prev" source="R-DATA:" type="Double" />
+            <Field name="CRO" source="R-DATA:" type="Double" />
+            <Field name="CRO_prev" source="R-DATA:" type="Double" />
+            <Field name="CUB" source="R-DATA:" type="Double" />
+            <Field name="CUB_prev" source="R-DATA:" type="Double" />
+            <Field name="CZE" source="R-DATA:" type="Double" />
+            <Field name="CZE_prev" source="R-DATA:" type="Double" />
+            <Field name="CZR" source="R-DATA:" type="Double" />
+            <Field name="CZR_prev" source="R-DATA:" type="Double" />
+            <Field name="DEN" source="R-DATA:" type="Double" />
+            <Field name="DEN_prev" source="R-DATA:" type="Double" />
+            <Field name="DEU" source="R-DATA:" type="Double" />
+            <Field name="DEU_prev" source="R-DATA:" type="Double" />
+            <Field name="DJI" source="R-DATA:" type="Double" />
+            <Field name="DJI_prev" source="R-DATA:" type="Double" />
+            <Field name="DOM" source="R-DATA:" type="Double" />
+            <Field name="DOM_prev" source="R-DATA:" type="Double" />
+            <Field name="ECU" source="R-DATA:" type="Double" />
+            <Field name="ECU_prev" source="R-DATA:" type="Double" />
+            <Field name="EGY" source="R-DATA:" type="Double" />
+            <Field name="EGY_prev" source="R-DATA:" type="Double" />
+            <Field name="ERI" source="R-DATA:" type="Double" />
+            <Field name="ERI_prev" source="R-DATA:" type="Double" />
+            <Field name="ESP" source="R-DATA:" type="Double" />
+            <Field name="ESP_prev" source="R-DATA:" type="Double" />
+            <Field name="EST" source="R-DATA:" type="Double" />
+            <Field name="EST_prev" source="R-DATA:" type="Double" />
+            <Field name="ETH" source="R-DATA:" type="Double" />
+            <Field name="ETH_prev" source="R-DATA:" type="Double" />
+            <Field name="FIN" source="R-DATA:" type="Double" />
+            <Field name="FIN_prev" source="R-DATA:" type="Double" />
+            <Field name="FRA" source="R-DATA:" type="Double" />
+            <Field name="FRA_prev" source="R-DATA:" type="Double" />
+            <Field name="FRG" source="R-DATA:" type="Double" />
+            <Field name="FRG_prev" source="R-DATA:" type="Double" />
+            <Field name="GBR" source="R-DATA:" type="Double" />
+            <Field name="GBR_prev" source="R-DATA:" type="Double" />
+            <Field name="GDR" source="R-DATA:" type="Double" />
+            <Field name="GDR_prev" source="R-DATA:" type="Double" />
+            <Field name="GEO" source="R-DATA:" type="Double" />
+            <Field name="GEO_prev" source="R-DATA:" type="Double" />
+            <Field name="GER" source="R-DATA:" type="Double" />
+            <Field name="GER_prev" source="R-DATA:" type="Double" />
+            <Field name="GHA" source="R-DATA:" type="Double" />
+            <Field name="GHA_prev" source="R-DATA:" type="Double" />
+            <Field name="GRE" source="R-DATA:" type="Double" />
+            <Field name="GRE_prev" source="R-DATA:" type="Double" />
+            <Field name="GUY" source="R-DATA:" type="Double" />
+            <Field name="GUY_prev" source="R-DATA:" type="Double" />
+            <Field name="HAI" source="R-DATA:" type="Double" />
+            <Field name="HAI_prev" source="R-DATA:" type="Double" />
+            <Field name="HKG" source="R-DATA:" type="Double" />
+            <Field name="HKG_prev" source="R-DATA:" type="Double" />
+            <Field name="HUN" source="R-DATA:" type="Double" />
+            <Field name="HUN_prev" source="R-DATA:" type="Double" />
+            <Field name="ICE" source="R-DATA:" type="Double" />
+            <Field name="ICE_prev" source="R-DATA:" type="Double" />
+            <Field name="INA" source="R-DATA:" type="Double" />
+            <Field name="INA_prev" source="R-DATA:" type="Double" />
+            <Field name="IND" source="R-DATA:" type="Double" />
+            <Field name="IND_prev" source="R-DATA:" type="Double" />
+            <Field name="INT" source="R-DATA:" type="Double" />
+            <Field name="INT_prev" source="R-DATA:" type="Double" />
+            <Field name="IRI" source="R-DATA:" type="Double" />
+            <Field name="IRI_prev" source="R-DATA:" type="Double" />
+            <Field name="IRL" source="R-DATA:" type="Double" />
+            <Field name="IRL_prev" source="R-DATA:" type="Double" />
+            <Field name="IRN" source="R-DATA:" type="Double" />
+            <Field name="IRN_prev" source="R-DATA:" type="Double" />
+            <Field name="IRQ" source="R-DATA:" type="Double" />
+            <Field name="IRQ_prev" source="R-DATA:" type="Double" />
+            <Field name="ISL" source="R-DATA:" type="Double" />
+            <Field name="ISL_prev" source="R-DATA:" type="Double" />
+            <Field name="ISR" source="R-DATA:" type="Double" />
+            <Field name="ISR_prev" source="R-DATA:" type="Double" />
+            <Field name="ISV" source="R-DATA:" type="Double" />
+            <Field name="ISV_prev" source="R-DATA:" type="Double" />
+            <Field name="ITA" source="R-DATA:" type="Double" />
+            <Field name="ITA_prev" source="R-DATA:" type="Double" />
+            <Field name="JAM" source="R-DATA:" type="Double" />
+            <Field name="JAM_prev" source="R-DATA:" type="Double" />
+            <Field name="JAP" source="R-DATA:" type="Double" />
+            <Field name="JAP_prev" source="R-DATA:" type="Double" />
+            <Field name="JPN" source="R-DATA:" type="Double" />
+            <Field name="JPN_prev" source="R-DATA:" type="Double" />
+            <Field name="KAZ" source="R-DATA:" type="Double" />
+            <Field name="KAZ_prev" source="R-DATA:" type="Double" />
+            <Field name="KEN" source="R-DATA:" type="Double" />
+            <Field name="KEN_prev" source="R-DATA:" type="Double" />
+            <Field name="KGZ" source="R-DATA:" type="Double" />
+            <Field name="KGZ_prev" source="R-DATA:" type="Double" />
+            <Field name="KIT" source="R-DATA:" type="Double" />
+            <Field name="KIT_prev" source="R-DATA:" type="Double" />
+            <Field name="KOR" source="R-DATA:" type="Double" />
+            <Field name="KOR_prev" source="R-DATA:" type="Double" />
+            <Field name="KSA" source="R-DATA:" type="Double" />
+            <Field name="KSA_prev" source="R-DATA:" type="Double" />
+            <Field name="KUW" source="R-DATA:" type="Double" />
+            <Field name="KUW_prev" source="R-DATA:" type="Double" />
+            <Field name="LAT" source="R-DATA:" type="Double" />
+            <Field name="LAT_prev" source="R-DATA:" type="Double" />
+            <Field name="LIB" source="R-DATA:" type="Double" />
+            <Field name="LIB_prev" source="R-DATA:" type="Double" />
+            <Field name="LTU" source="R-DATA:" type="Double" />
+            <Field name="LTU_prev" source="R-DATA:" type="Double" />
+            <Field name="LUX" source="R-DATA:" type="Double" />
+            <Field name="LUX_prev" source="R-DATA:" type="Double" />
+            <Field name="MAR" source="R-DATA:" type="Double" />
+            <Field name="MAR_prev" source="R-DATA:" type="Double" />
+            <Field name="MAS" source="R-DATA:" type="Double" />
+            <Field name="MAS_prev" source="R-DATA:" type="Double" />
+            <Field name="MDA" source="R-DATA:" type="Double" />
+            <Field name="MDA_prev" source="R-DATA:" type="Double" />
+            <Field name="MEX" source="R-DATA:" type="Double" />
+            <Field name="MEX_prev" source="R-DATA:" type="Double" />
+            <Field name="MGL" source="R-DATA:" type="Double" />
+            <Field name="MGL_prev" source="R-DATA:" type="Double" />
+            <Field name="MKD" source="R-DATA:" type="Double" />
+            <Field name="MKD_prev" source="R-DATA:" type="Double" />
+            <Field name="MON" source="R-DATA:" type="Double" />
+            <Field name="MON_prev" source="R-DATA:" type="Double" />
+            <Field name="MOZ" source="R-DATA:" type="Double" />
+            <Field name="MOZ_prev" source="R-DATA:" type="Double" />
+            <Field name="MRI" source="R-DATA:" type="Double" />
+            <Field name="MRI_prev" source="R-DATA:" type="Double" />
+            <Field name="NAM" source="R-DATA:" type="Double" />
+            <Field name="NAM_prev" source="R-DATA:" type="Double" />
+            <Field name="NED" source="R-DATA:" type="Double" />
+            <Field name="NED_prev" source="R-DATA:" type="Double" />
+            <Field name="NGR" source="R-DATA:" type="Double" />
+            <Field name="NGR_prev" source="R-DATA:" type="Double" />
+            <Field name="NIG" source="R-DATA:" type="Double" />
+            <Field name="NIG_prev" source="R-DATA:" type="Double" />
+            <Field name="NOR" source="R-DATA:" type="Double" />
+            <Field name="NOR_prev" source="R-DATA:" type="Double" />
+            <Field name="NZL" source="R-DATA:" type="Double" />
+            <Field name="NZL_prev" source="R-DATA:" type="Double" />
+            <Field name="PAK" source="R-DATA:" type="Double" />
+            <Field name="PAK_prev" source="R-DATA:" type="Double" />
+            <Field name="PAN" source="R-DATA:" type="Double" />
+            <Field name="PAN_prev" source="R-DATA:" type="Double" />
+            <Field name="PAR" source="R-DATA:" type="Double" />
+            <Field name="PAR_prev" source="R-DATA:" type="Double" />
+            <Field name="PER" source="R-DATA:" type="Double" />
+            <Field name="PER_prev" source="R-DATA:" type="Double" />
+            <Field name="PHI" source="R-DATA:" type="Double" />
+            <Field name="PHI_prev" source="R-DATA:" type="Double" />
+            <Field name="POL" source="R-DATA:" type="Double" />
+            <Field name="POL_prev" source="R-DATA:" type="Double" />
+            <Field name="POR" source="R-DATA:" type="Double" />
+            <Field name="POR_prev" source="R-DATA:" type="Double" />
+            <Field name="PRK" source="R-DATA:" type="Double" />
+            <Field name="PRK_prev" source="R-DATA:" type="Double" />
+            <Field name="PUR" source="R-DATA:" type="Double" />
+            <Field name="PUR_prev" source="R-DATA:" type="Double" />
+            <Field name="QAT" source="R-DATA:" type="Double" />
+            <Field name="QAT_prev" source="R-DATA:" type="Double" />
+            <Field name="ROM" source="R-DATA:" type="Double" />
+            <Field name="ROM_prev" source="R-DATA:" type="Double" />
+            <Field name="RSA" source="R-DATA:" type="Double" />
+            <Field name="RSA_prev" source="R-DATA:" type="Double" />
+            <Field name="RUS" source="R-DATA:" type="Double" />
+            <Field name="RUS_prev" source="R-DATA:" type="Double" />
+            <Field name="SAF" source="R-DATA:" type="Double" />
+            <Field name="SAF_prev" source="R-DATA:" type="Double" />
+            <Field name="SEN" source="R-DATA:" type="Double" />
+            <Field name="SEN_prev" source="R-DATA:" type="Double" />
+            <Field name="SIN" source="R-DATA:" type="Double" />
+            <Field name="SIN_prev" source="R-DATA:" type="Double" />
+            <Field name="SLO" source="R-DATA:" type="Double" />
+            <Field name="SLO_prev" source="R-DATA:" type="Double" />
+            <Field name="SRB" source="R-DATA:" type="Double" />
+            <Field name="SRB_prev" source="R-DATA:" type="Double" />
+            <Field name="SRI" source="R-DATA:" type="Double" />
+            <Field name="SRI_prev" source="R-DATA:" type="Double" />
+            <Field name="SUD" source="R-DATA:" type="Double" />
+            <Field name="SUD_prev" source="R-DATA:" type="Double" />
+            <Field name="SUI" source="R-DATA:" type="Double" />
+            <Field name="SUI_prev" source="R-DATA:" type="Double" />
+            <Field name="SUR" source="R-DATA:" type="Double" />
+            <Field name="SUR_prev" source="R-DATA:" type="Double" />
+            <Field name="SVK" source="R-DATA:" type="Double" />
+            <Field name="SVK_prev" source="R-DATA:" type="Double" />
+            <Field name="SWE" source="R-DATA:" type="Double" />
+            <Field name="SWE_prev" source="R-DATA:" type="Double" />
+            <Field name="SYR" source="R-DATA:" type="Double" />
+            <Field name="SYR_prev" source="R-DATA:" type="Double" />
+            <Field name="TAN" source="R-DATA:" type="Double" />
+            <Field name="TAN_prev" source="R-DATA:" type="Double" />
+            <Field name="TGA" source="R-DATA:" type="Double" />
+            <Field name="TGA_prev" source="R-DATA:" type="Double" />
+            <Field name="THA" source="R-DATA:" type="Double" />
+            <Field name="THA_prev" source="R-DATA:" type="Double" />
+            <Field name="TJK" source="R-DATA:" type="Double" />
+            <Field name="TJK_prev" source="R-DATA:" type="Double" />
+            <Field name="TOG" source="R-DATA:" type="Double" />
+            <Field name="TOG_prev" source="R-DATA:" type="Double" />
+            <Field name="TPE" source="R-DATA:" type="Double" />
+            <Field name="TPE_prev" source="R-DATA:" type="Double" />
+            <Field name="TRI" source="R-DATA:" type="Double" />
+            <Field name="TRI_prev" source="R-DATA:" type="Double" />
+            <Field name="TUN" source="R-DATA:" type="Double" />
+            <Field name="TUN_prev" source="R-DATA:" type="Double" />
+            <Field name="TUR" source="R-DATA:" type="Double" />
+            <Field name="TUR_prev" source="R-DATA:" type="Double" />
+            <Field name="UAE" source="R-DATA:" type="Double" />
+            <Field name="UAE_prev" source="R-DATA:" type="Double" />
+            <Field name="UGA" source="R-DATA:" type="Double" />
+            <Field name="UGA_prev" source="R-DATA:" type="Double" />
+            <Field name="UKR" source="R-DATA:" type="Double" />
+            <Field name="UKR_prev" source="R-DATA:" type="Double" />
+            <Field name="URS" source="R-DATA:" type="Double" />
+            <Field name="URS_prev" source="R-DATA:" type="Double" />
+            <Field name="URU" source="R-DATA:" type="Double" />
+            <Field name="URU_prev" source="R-DATA:" type="Double" />
+            <Field name="USA" source="R-DATA:" type="Double" />
+            <Field name="USA_prev" source="R-DATA:" type="Double" />
+            <Field name="UZB" source="R-DATA:" type="Double" />
+            <Field name="UZB_prev" source="R-DATA:" type="Double" />
+            <Field name="VEN" source="R-DATA:" type="Double" />
+            <Field name="VEN_prev" source="R-DATA:" type="Double" />
+            <Field name="VIE" source="R-DATA:" type="Double" />
+            <Field name="VIE_prev" source="R-DATA:" type="Double" />
+            <Field name="YUF" source="R-DATA:" type="Double" />
+            <Field name="YUF_prev" source="R-DATA:" type="Double" />
+            <Field name="YUG" source="R-DATA:" type="Double" />
+            <Field name="YUG_prev" source="R-DATA:" type="Double" />
+            <Field name="ZAM" source="R-DATA:" type="Double" />
+            <Field name="ZAM_prev" source="R-DATA:" type="Double" />
+            <Field name="ZIM" source="R-DATA:" type="Double" />
+            <Field name="ZIM_prev" source="R-DATA:" type="Double" />
+            <Field name="num_of_events" source="R-DATA:" type="Double" />
+            <Field name="aus_medals" source="R-DATA:" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\Score.yxmc" />
+    </Node>
+    <Node ToolID="27">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="126" y="1890" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\703054~1\AppData\Local\Temp\Engine_10332_bd4fb91cb9ab46ee82037ab485f85c4d_\Engine_8992_d6df52b171654c62ae9b4de9688c8bed_.yxdb</TempFile>
+          <Layout>
+            <View1>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="28">
+      <GuiSettings>
+        <Position x="186" y="1662" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="New Model">aus_stepwise</Value>
+          <Value name="both">False</Value>
+          <Value name="backward">True</Value>
+          <Value name="AIC">True</Value>
+          <Value name="BIC">False</Value>
+          <Value name="graph.resolution">1x</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\Stepwise.yxmc" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings>
+        <Position x="186" y="798" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="New Model">usa_stepwise</Value>
+          <Value name="both">False</Value>
+          <Value name="backward">True</Value>
+          <Value name="AIC">True</Value>
+          <Value name="BIC">False</Value>
+          <Value name="graph.resolution">1x</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\Stepwise.yxmc" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Reports" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="7" Connection="Right Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Join" />
+      <Destination ToolID="7" Connection="Left Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="22" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="Output" />
+      <Destination ToolID="22" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="Reports" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="16" Connection="Right Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Join" />
+      <Destination ToolID="16" Connection="Left Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Reports" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="14" Connection="Right Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Join" />
+      <Destination ToolID="14" Connection="Left Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="Output" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="Output" />
+      <Destination ToolID="21" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Join" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Join" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Join" />
+      <Destination ToolID="9" Connection="Left Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="9" Connection="Right Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Join" />
+      <Destination ToolID="23" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Join" />
+      <Destination ToolID="28" Connection="Left Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="23" Connection="Output" />
+      <Destination ToolID="28" Connection="Right Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Join" />
+      <Destination ToolID="26" Connection="Left Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="28" Connection="Output" />
+      <Destination ToolID="26" Connection="Right Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="23" Connection="Reports" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="26" Connection="Output" />
+      <Destination ToolID="27" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="28" Connection="Reports" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Reports" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Vertical</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>alteryx-logistic-regression</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
