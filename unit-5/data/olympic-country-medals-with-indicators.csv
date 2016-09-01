@@ -1,0 +1,520 @@
+olympic_id,year,host_nation,host_advantage,country_abv,country,olympic_medals,olympic_medals_score,gdp,population,region,income_group
+15,1960,ITA,False,ARG,Argentina,2,7,,20619075,Latin America & Caribbean,Not classified
+15,1960,ITA,False,AUS,Australia,22,73,18567588756,10276477,East Asia & Pacific,High income
+15,1960,ITA,False,AUT,Austria,2,7,6592693841,7047539,Europe & Central Asia,High income
+15,1960,ITA,False,BEL,Belgium,4,6,11658722591,9153489,Europe & Central Asia,High income
+15,1960,ITA,False,BRA,Brazil,2,13,15165569913,72493585,Latin America & Caribbean,Upper middle income
+15,1960,ITA,False,CAN,Canada,1,18,41093453545,17909009,North America,High income
+15,1960,ITA,False,CZE,Czech Republic,8,37,,9602006,Europe & Central Asia,High income
+15,1960,ITA,False,EGY,"Egypt, Arab Rep.",2,3,,27072397,Middle East & North Africa,Lower middle income
+15,1960,ITA,False,ETH,Ethiopia,1,3,,22151218,Sub-Saharan Africa,Low income
+15,1960,ITA,False,FIN,Finland,5,9,5224102196,4429634,Europe & Central Asia,High income
+15,1960,ITA,False,FRA,France,5,17,62651474947,46814237,Europe & Central Asia,High income
+15,1960,ITA,False,GHA,Ghana,1,2,1217230095,6652285,Sub-Saharan Africa,Lower middle income
+15,1960,ITA,False,HUN,Hungary,21,108,,9983967,Europe & Central Asia,High income
+15,1960,ITA,False,IND,India,1,26,37679274491,449661874,South Asia,Lower middle income
+15,1960,ITA,False,IRQ,Iraq,1,1,1684121535,7289759,Middle East & North Africa,Upper middle income
+15,1960,ITA,True,ITA,Italy,36,178,40385288344,50199700,Europe & Central Asia,High income
+15,1960,ITA,False,JPN,Japan,18,57,44307342950,92500572,East Asia & Pacific,High income
+15,1960,ITA,False,MEX,Mexico,1,1,13056164925,38174114,Latin America & Caribbean,Upper middle income
+15,1960,ITA,False,SCG,Montenegro,2,50,,480579,Europe & Central Asia,Upper middle income
+15,1960,ITA,False,MAR,Morocco,1,2,2037154689,12328534,Middle East & North Africa,Lower middle income
+15,1960,ITA,False,NZL,New Zealand,3,7,5485854792,2371800,East Asia & Pacific,High income
+15,1960,ITA,False,NOR,Norway,1,6,5163271598,3581239,Europe & Central Asia,High income
+15,1960,ITA,False,PAK,Pakistan,2,43,3707055836,44911810,South Asia,Lower middle income
+15,1960,ITA,False,POL,Poland,21,49,,29637450,Europe & Central Asia,High income
+15,1960,ITA,False,ESP,Spain,1,14,12072126075,30455000,Europe & Central Asia,High income
+15,1960,ITA,False,SWE,Sweden,6,13,14842870293,7484656,Europe & Central Asia,High income
+15,1960,ITA,False,TUR,Turkey,9,25,13995067818,27553280,Europe & Central Asia,Upper middle income
+15,1960,ITA,False,GBR,United Kingdom,20,43,72328047042,52400000,Europe & Central Asia,High income
+15,1960,ITA,False,USA,United States,71,271,5.43E+11,180671000,North America,High income
+15,1960,ITA,False,VEN,"Venezuela, RB",1,1,8607600069,8146845,Latin America & Caribbean,Upper middle income
+16,1964,JPN,False,ARG,Argentina,1,2,25605249382,21953926,Latin America & Caribbean,Not classified
+16,1964,JPN,False,AUS,Australia,18,63,23754059805,11167000,East Asia & Pacific,High income
+16,1964,JPN,False,BAH,"Bahamas, The",1,6,266664053.7,133697,Latin America & Caribbean,High income
+16,1964,JPN,False,BEL,Belgium,3,7,15960106681,9378113,Europe & Central Asia,High income
+16,1964,JPN,False,BRA,Brazil,1,12,21211892260,81751802,Latin America & Caribbean,Upper middle income
+16,1964,JPN,False,CAN,Canada,4,11,48882938810,19325000,North America,High income
+16,1964,JPN,False,CUB,Cuba,1,2,,7787149,Latin America & Caribbean,Upper middle income
+16,1964,JPN,False,CZE,Czech Republic,14,103,,9727804,Europe & Central Asia,High income
+16,1964,JPN,False,ETH,Ethiopia,1,3,,24396965,Sub-Saharan Africa,Low income
+16,1964,JPN,False,FIN,Finland,5,11,7766655086,4548543,Europe & Central Asia,High income
+16,1964,JPN,False,FRA,France,15,46,94906593388,49449403,Europe & Central Asia,High income
+16,1964,JPN,False,GHA,Ghana,1,1,1731296200,7513286,Sub-Saharan Africa,Lower middle income
+16,1964,JPN,False,HUN,Hungary,22,147,,10119835,Europe & Central Asia,High income
+16,1964,JPN,False,IND,India,1,48,57470781033,487690114,South Asia,Lower middle income
+16,1964,JPN,False,IRL,Ireland,1,1,2766608946,2866550,Europe & Central Asia,High income
+16,1964,JPN,False,ITA,Italy,27,104,63175417019,51675350,Europe & Central Asia,High income
+16,1964,JPN,True,JPN,Japan,29,133,81749006382,97826000,East Asia & Pacific,High income
+16,1964,JPN,False,KEN,Kenya,1,1,998759333.6,9200158,Sub-Saharan Africa,Lower middle income
+16,1964,JPN,False,KOR,"Korea, Rep.",3,5,3358134143,27984155,East Asia & Pacific,High income
+16,1964,JPN,False,MEX,Mexico,1,1,20070134741,43264267,Latin America & Caribbean,Upper middle income
+16,1964,JPN,False,SCG,Montenegro,5,30,,521753,Europe & Central Asia,Upper middle income
+16,1964,JPN,False,NZL,New Zealand,5,14,7274144351,2585400,East Asia & Pacific,High income
+16,1964,JPN,False,PAK,Pakistan,1,32,5130407637,49555472,South Asia,Lower middle income
+16,1964,JPN,False,POL,Poland,22,79,,31139450,Europe & Central Asia,High income
+16,1964,JPN,False,SWE,Sweden,8,25,21137242561,7661354,Europe & Central Asia,High income
+16,1964,JPN,False,TUN,Tunisia,2,3,,4530835,Middle East & North Africa,Lower middle income
+16,1964,JPN,False,TUR,Turkey,6,13,11177777778,30292969,Europe & Central Asia,Upper middle income
+16,1964,JPN,False,GBR,United Kingdom,18,57,93387598814,54000000,Europe & Central Asia,High income
+16,1964,JPN,False,USA,United States,90,341,6.86E+11,191889000,North America,High income
+16,1964,JPN,False,URU,Uruguay,1,1,1975701728,2665387,Latin America & Caribbean,High income
+17,1968,MEX,False,ARG,Argentina,2,2,26436857247,23261273,Latin America & Caribbean,Not classified
+17,1968,MEX,False,AUS,Australia,17,94,32641953186,12009000,East Asia & Pacific,High income
+17,1968,MEX,False,AUT,Austria,4,7,12440625313,7415403,Europe & Central Asia,High income
+17,1968,MEX,False,BEL,Belgium,2,4,21376353113,9618756,Europe & Central Asia,High income
+17,1968,MEX,False,BRA,Brazil,3,5,33875881876,91213009,Latin America & Caribbean,Upper middle income
+17,1968,MEX,False,CMR,Cameroon,1,2,1053076992,6437157,Sub-Saharan Africa,Lower middle income
+17,1968,MEX,False,CAN,Canada,5,19,70759031842,20744000,North America,High income
+17,1968,MEX,False,CUB,Cuba,4,20,,8413329,Latin America & Caribbean,Upper middle income
+17,1968,MEX,False,CZE,Czech Republic,13,50,,9876346,Europe & Central Asia,High income
+17,1968,MEX,False,ETH,Ethiopia,2,5,,26945459,Sub-Saharan Africa,Low income
+17,1968,MEX,False,FIN,Finland,4,8,8823033880,4626469,Europe & Central Asia,High income
+17,1968,MEX,False,FRA,France,15,56,1.30E+11,51276054,Europe & Central Asia,High income
+17,1968,MEX,False,HUN,Hungary,32,165,,10255815,Europe & Central Asia,High income
+17,1968,MEX,False,IND,India,1,16,54016411987,530274729,South Asia,Lower middle income
+17,1968,MEX,False,ITA,Italy,15,49,87942231678,53235750,Europe & Central Asia,High income
+17,1968,MEX,False,JAM,Jamaica,1,2,1083839096,1823706,Latin America & Caribbean,Upper middle income
+17,1968,MEX,False,JPN,Japan,25,120,1.47E+11,101061000,East Asia & Pacific,High income
+17,1968,MEX,False,KEN,Kenya,9,25,1353295458,10502250,Sub-Saharan Africa,Lower middle income
+17,1968,MEX,False,KOR,"Korea, Rep.",2,3,5955336766,30838302,East Asia & Pacific,High income
+17,1968,MEX,True,MEX,Mexico,9,18,29363632834,48893607,Latin America & Caribbean,Upper middle income
+17,1968,MEX,False,SCG,Montenegro,8,69,,517481,Europe & Central Asia,Upper middle income
+17,1968,MEX,False,NZL,New Zealand,3,17,5180597621,2748100,East Asia & Pacific,High income
+17,1968,MEX,False,NOR,Norway,2,16,10159934137,3816486,Europe & Central Asia,High income
+17,1968,MEX,False,PAK,Pakistan,1,39,8090088413,55045897,South Asia,Lower middle income
+17,1968,MEX,False,POL,Poland,18,50,,32294655,Europe & Central Asia,High income
+17,1968,MEX,False,SWE,Sweden,4,21,29143383491,7912273,Europe & Central Asia,High income
+17,1968,MEX,False,TUN,Tunisia,2,4,1214666667,4933131,Middle East & North Africa,Lower middle income
+17,1968,MEX,False,TUR,Turkey,2,6,17500000000,33196289,Europe & Central Asia,Upper middle income
+17,1968,MEX,False,UGA,Uganda,2,3,1037379286,8872866,Sub-Saharan Africa,Low income
+17,1968,MEX,False,GBR,United Kingdom,13,42,1.05E+11,55211700,Europe & Central Asia,High income
+17,1968,MEX,False,USA,United States,107,346,9.43E+11,200706000,North America,High income
+17,1968,MEX,False,VEN,"Venezuela, RB",1,3,11470909285,10881995,Latin America & Caribbean,Upper middle income
+18,1972,GER,False,ARG,Argentina,1,2,34733000536,24782950,Latin America & Caribbean,Not classified
+18,1972,GER,False,AUS,Australia,17,49,51928738318,13177000,East Asia & Pacific,High income
+18,1972,GER,False,AUT,Austria,3,4,22006470861,7544201,Europe & Central Asia,High income
+18,1972,GER,False,BEL,Belgium,2,4,37408626615,9711115,Europe & Central Asia,High income
+18,1972,GER,False,BRA,Brazil,2,2,58539008786,100844391,Latin America & Caribbean,Upper middle income
+18,1972,GER,False,CAN,Canada,5,12,1.13E+11,21993631,North America,High income
+18,1972,GER,False,COL,Colombia,3,4,8671371951,23146803,Latin America & Caribbean,Upper middle income
+18,1972,GER,False,CUB,Cuba,8,29,8135150889,9025299,Latin America & Caribbean,Upper middle income
+18,1972,GER,False,CZE,Czech Republic,8,54,,9867632,Europe & Central Asia,High income
+18,1972,GER,False,ETH,Ethiopia,2,2,,30135007,Sub-Saharan Africa,Low income
+18,1972,GER,False,FIN,Finland,8,17,14754136507,4639657,Europe & Central Asia,High income
+18,1972,GER,False,FRA,France,13,32,2.04E+11,52959228,Europe & Central Asia,High income
+18,1972,GER,False,GHA,Ghana,1,1,2112293280,9083575,Sub-Saharan Africa,Lower middle income
+18,1972,GER,False,HUN,Hungary,34,147,,10398489,Europe & Central Asia,High income
+18,1972,GER,False,IND,India,1,14,72716595884,579800632,South Asia,Lower middle income
+18,1972,GER,False,ITA,Italy,18,46,1.45E+11,54381345,Europe & Central Asia,High income
+18,1972,GER,False,JAM,Jamaica,1,1,1875146615,1925162,Latin America & Caribbean,Upper middle income
+18,1972,GER,False,JPN,Japan,29,133,3.13E+11,107188000,East Asia & Pacific,High income
+18,1972,GER,False,KEN,Kenya,9,25,2107279157,12083165,Sub-Saharan Africa,Lower middle income
+18,1972,GER,False,PRK,"Korea, Dem. People’s Rep.",5,18,,15214615,East Asia & Pacific,Low income
+18,1972,GER,False,KOR,"Korea, Rep.",1,2,11367558350,33505406,East Asia & Pacific,High income
+18,1972,GER,False,MEX,Mexico,1,2,45178119327,55480125,Latin America & Caribbean,Upper middle income
+18,1972,GER,False,SCG,Montenegro,5,49,,521785,Europe & Central Asia,Upper middle income
+18,1972,GER,False,NZL,New Zealand,3,36,9567331065,2903900,East Asia & Pacific,High income
+18,1972,GER,False,NOR,Norway,4,14,17358610850,3933004,Europe & Central Asia,High income
+18,1972,GER,False,PAK,Pakistan,1,30,9309109507,61341255,South Asia,Lower middle income
+18,1972,GER,False,POL,Poland,21,108,,33055650,Europe & Central Asia,High income
+18,1972,GER,False,ESP,Spain,1,1,58971806627,34502705,Europe & Central Asia,High income
+18,1972,GER,False,SWE,Sweden,16,40,48263914959,8122300,Europe & Central Asia,High income
+18,1972,GER,False,TUN,Tunisia,1,2,2237570219,5294325,Middle East & North Africa,Lower middle income
+18,1972,GER,False,TUR,Turkey,1,2,20431095406,36475356,Europe & Central Asia,Upper middle income
+18,1972,GER,False,UGA,Uganda,2,5,1490970307,9988321,Sub-Saharan Africa,Low income
+18,1972,GER,False,GBR,United Kingdom,17,53,1.70E+11,56086065,Europe & Central Asia,High income
+18,1972,GER,False,USA,United States,94,320,1.28E+12,209896000,North America,High income
+19,1976,CAN,False,AUS,Australia,5,38,1.05E+11,14033000,East Asia & Pacific,High income
+19,1976,CAN,False,AUT,Austria,1,1,42856485618,7565525,Europe & Central Asia,High income
+19,1976,CAN,False,BEL,Belgium,6,12,71494607106,9818227,Europe & Central Asia,High income
+19,1976,CAN,False,BER,Bermuda,1,1,386300000,53200,North America,High income
+19,1976,CAN,False,BRA,Brazil,2,3,1.53E+11,111076063,Latin America & Caribbean,Upper middle income
+19,1976,CAN,True,CAN,Canada,11,28,2.07E+11,23518000,North America,High income
+19,1976,CAN,False,CUB,Cuba,13,40,13789579893,9544268,Latin America & Caribbean,Upper middle income
+19,1976,CAN,False,CZE,Czech Republic,8,23,,10125939,Europe & Central Asia,High income
+19,1976,CAN,False,FIN,Finland,6,16,31873171719,4725664,Europe & Central Asia,High income
+19,1976,CAN,False,FRA,France,9,37,3.73E+11,54541493,Europe & Central Asia,High income
+19,1976,CAN,False,HUN,Hungary,22,88,,10598677,Europe & Central Asia,High income
+19,1976,CAN,False,ITA,Italy,15,61,2.24E+11,55718260,Europe & Central Asia,High income
+19,1976,CAN,False,JAM,Jamaica,2,5,2966042913,2037716,Latin America & Caribbean,Upper middle income
+19,1976,CAN,False,JPN,Japan,25,97,5.76E+11,112771000,East Asia & Pacific,High income
+19,1976,CAN,False,PRK,"Korea, Dem. People’s Rep.",2,5,,16539029,East Asia & Pacific,Low income
+19,1976,CAN,False,KOR,"Korea, Rep.",6,20,31354545455,35848523,East Asia & Pacific,High income
+19,1976,CAN,False,MEX,Mexico,2,4,89023916067,62620087,Latin America & Caribbean,Upper middle income
+19,1976,CAN,False,SCG,Montenegro,8,37,,552562,Europe & Central Asia,Upper middle income
+19,1976,CAN,False,NZL,New Zealand,4,56,13604832424,3110500,East Asia & Pacific,High income
+19,1976,CAN,False,NOR,Norway,2,14,35942270686,4026152,Europe & Central Asia,High income
+19,1976,CAN,False,PAK,Pakistan,1,17,13338485494,68818471,South Asia,Lower middle income
+19,1976,CAN,False,POL,Poland,25,137,,34356300,Europe & Central Asia,High income
+19,1976,CAN,False,ESP,Spain,2,12,1.18E+11,35939437,Europe & Central Asia,High income
+19,1976,CAN,False,SWE,Sweden,5,29,88102107647,8222286,Europe & Central Asia,High income
+19,1976,CAN,False,THA,Thailand,1,1,16985208712,43386846,East Asia & Pacific,Upper middle income
+19,1976,CAN,False,GBR,United Kingdom,13,59,2.33E+11,56211968,Europe & Central Asia,High income
+19,1976,CAN,False,USA,United States,94,337,1.88E+12,218035000,North America,High income
+19,1976,CAN,False,VEN,"Venezuela, RB",1,2,36272315695,13739142,Latin America & Caribbean,Upper middle income
+20,1980,RUS,False,AUS,Australia,9,24,1.50E+11,14692000,East Asia & Pacific,High income
+20,1980,RUS,False,AUT,Austria,4,10,81861232823,7549433,Europe & Central Asia,High income
+20,1980,RUS,False,BEL,Belgium,1,3,1.28E+11,9859242,Europe & Central Asia,High income
+20,1980,RUS,False,BRA,Brazil,4,17,2.35E+11,122199721,Latin America & Caribbean,Upper middle income
+20,1980,RUS,False,CUB,Cuba,19,43,19912889808,9835177,Latin America & Caribbean,Upper middle income
+20,1980,RUS,False,CZE,Czech Republic,14,103,,10304193,Europe & Central Asia,High income
+20,1980,RUS,False,ETH,Ethiopia,4,8,,35239974,Sub-Saharan Africa,Low income
+20,1980,RUS,False,FIN,Finland,8,16,53685049410,4779535,Europe & Central Asia,High income
+20,1980,RUS,False,FRA,France,14,70,7.04E+11,55340782,Europe & Central Asia,High income
+20,1980,RUS,False,GUY,Guyana,1,1,603200000,786614,Latin America & Caribbean,Upper middle income
+20,1980,RUS,False,HUN,Hungary,31,91,,10711122,Europe & Central Asia,High income
+20,1980,RUS,False,IND,India,1,48,1.90E+11,697229745,South Asia,Lower middle income
+20,1980,RUS,False,IRL,Ireland,2,5,21772289367,3412800,Europe & Central Asia,High income
+20,1980,RUS,False,ITA,Italy,15,72,4.76E+11,56433883,Europe & Central Asia,High income
+20,1980,RUS,False,JAM,Jamaica,3,3,2679379383,2133000,Latin America & Caribbean,Upper middle income
+20,1980,RUS,False,PRK,"Korea, Dem. People’s Rep.",5,8,,17372167,East Asia & Pacific,Low income
+20,1980,RUS,False,MEX,Mexico,4,11,1.94E+11,69330974,Latin America & Caribbean,Upper middle income
+20,1980,RUS,False,SCG,Montenegro,9,108,,572608,Europe & Central Asia,Upper middle income
+20,1980,RUS,False,POL,Poland,30,77,,35574150,Europe & Central Asia,High income
+20,1980,RUS,False,ESP,Spain,6,47,2.32E+11,37439035,Europe & Central Asia,High income
+20,1980,RUS,False,SWE,Sweden,12,30,1.40E+11,8310531,Europe & Central Asia,High income
+20,1980,RUS,False,UGA,Uganda,1,2,1244610000,12547754,Sub-Saharan Africa,Low income
+20,1980,RUS,False,GBR,United Kingdom,21,73,5.65E+11,56314216,Europe & Central Asia,High income
+20,1980,RUS,False,VEN,"Venezuela, RB",1,2,67135122864,15343917,Latin America & Caribbean,Upper middle income
+20,1980,RUS,False,ZIM,Zimbabwe,1,45,6678868200,7289083,Sub-Saharan Africa,Low income
+21,1984,USA,False,ALG,Algeria,2,2,53698280328,21893857,Middle East & North Africa,Upper middle income
+21,1984,USA,False,AUS,Australia,23,76,1.93E+11,15544000,East Asia & Pacific,High income
+21,1984,USA,False,AUT,Austria,3,6,67821568599,7561434,Europe & Central Asia,High income
+21,1984,USA,False,BEL,Belgium,4,9,83795759983,9855372,Europe & Central Asia,High income
+21,1984,USA,False,BRA,Brazil,8,69,2.09E+11,133950551,Latin America & Caribbean,Upper middle income
+21,1984,USA,False,CMR,Cameroon,1,1,7801858401,10070779,Sub-Saharan Africa,Lower middle income
+21,1984,USA,False,CAN,Canada,46,161,3.55E+11,25702000,North America,High income
+21,1984,USA,False,CHN,China,32,141,2.58E+11,1036825000,East Asia & Pacific,Upper middle income
+21,1984,USA,False,COL,Colombia,1,2,38253120738,30350082,Latin America & Caribbean,Upper middle income
+21,1984,USA,False,CIV,"Cote d'Ivoire",1,2,6841639250,9769105,Sub-Saharan Africa,Lower middle income
+21,1984,USA,False,DOM,Dominican Republic,1,1,10330399700,6351572,Latin America & Caribbean,Upper middle income
+21,1984,USA,False,EGY,"Egypt, Arab Rep.",1,2,30642873038,48061546,Middle East & North Africa,Lower middle income
+21,1984,USA,False,FIN,Finland,12,22,52926394935,4881803,Europe & Central Asia,High income
+21,1984,USA,False,FRA,France,28,123,5.33E+11,56470769,Europe & Central Asia,High income
+21,1984,USA,False,ISL,Iceland,1,1,2887825524,239511,Europe & Central Asia,High income
+21,1984,USA,False,IRL,Ireland,1,2,20129238177,3532423,Europe & Central Asia,High income
+21,1984,USA,False,ITA,Italy,32,128,4.36E+11,56576718,Europe & Central Asia,High income
+21,1984,USA,False,JAM,Jamaica,3,10,2373564490,2279900,Latin America & Caribbean,Upper middle income
+21,1984,USA,False,JPN,Japan,31,77,1.29E+12,120018000,East Asia & Pacific,High income
+21,1984,USA,False,KEN,Kenya,3,5,6191437070,18942599,Sub-Saharan Africa,Lower middle income
+21,1984,USA,False,KOR,"Korea, Rep.",19,81,99983374277,40405956,East Asia & Pacific,High income
+21,1984,USA,False,MEX,Mexico,6,13,1.76E+11,75721210,Latin America & Caribbean,Upper middle income
+21,1984,USA,False,SCG,Montenegro,18,189,,600884,Europe & Central Asia,Upper middle income
+21,1984,USA,False,MAR,Morocco,2,6,14824728528,22094516,Middle East & North Africa,Lower middle income
+21,1984,USA,False,NZL,New Zealand,11,56,21665456808,3227100,East Asia & Pacific,High income
+21,1984,USA,False,NOR,Norway,3,5,62057955033,4140099,Europe & Central Asia,High income
+21,1984,USA,False,PAK,Pakistan,1,45,31151825047,89183159,South Asia,Lower middle income
+21,1984,USA,False,PER,Peru,1,2,17132968269,19099575,Latin America & Caribbean,Upper middle income
+21,1984,USA,False,ESP,Spain,5,37,1.72E+11,38278575,Europe & Central Asia,High income
+21,1984,USA,False,SUR,Suriname,1,1,864150000,367611,Latin America & Caribbean,Upper middle income
+21,1984,USA,False,SWE,Sweden,19,56,1.08E+11,8336605,Europe & Central Asia,High income
+21,1984,USA,False,SYR,Syrian Arab Republic,1,2,17503082982,10313485,Middle East & North Africa,Lower middle income
+21,1984,USA,False,THA,Thailand,1,2,41797647303,51105438,East Asia & Pacific,Upper middle income
+21,1984,USA,False,TUR,Turkey,3,3,59989909458,48138191,Europe & Central Asia,Upper middle income
+21,1984,USA,False,GBR,United Kingdom,37,110,4.61E+11,56422072,Europe & Central Asia,High income
+21,1984,USA,True,USA,United States,173,781,4.04E+12,235825000,North America,High income
+21,1984,USA,False,VEN,"Venezuela, RB",3,3,55952339080,17057786,Latin America & Caribbean,Upper middle income
+21,1984,USA,False,ZAM,Zambia,1,1,2719518933,6793708,Sub-Saharan Africa,Lower middle income
+22,1988,KOR,False,ARG,Argentina,2,14,1.26E+11,31795515,Latin America & Caribbean,Not classified
+22,1988,KOR,False,AUS,Australia,14,77,2.36E+11,16532200,East Asia & Pacific,High income
+22,1988,KOR,False,AUT,Austria,1,3,1.33E+11,7585317,Europe & Central Asia,High income
+22,1988,KOR,False,BEL,Belgium,2,2,1.63E+11,9901664,Europe & Central Asia,High income
+22,1988,KOR,False,BRA,Brazil,6,42,3.30E+11,145150468,Latin America & Caribbean,Upper middle income
+22,1988,KOR,False,CAN,Canada,10,34,5.07E+11,26895000,North America,High income
+22,1988,KOR,False,CHI,Channel Islands,1,2,,138186,Europe & Central Asia,High income
+22,1988,KOR,False,CHN,China,28,80,3.11E+11,1101630000,East Asia & Pacific,Upper middle income
+22,1988,KOR,False,COL,Colombia,1,1,39212545681,32975533,Latin America & Caribbean,Upper middle income
+22,1988,KOR,False,CZE,Czech Republic,8,20,,10355276,Europe & Central Asia,High income
+22,1988,KOR,False,DJI,Djibouti,1,1,395794554.1,523266,Middle East & North Africa,Lower middle income
+22,1988,KOR,False,FIN,Finland,4,7,1.09E+11,4946481,Europe & Central Asia,High income
+22,1988,KOR,False,FRA,France,16,57,1.02E+12,57836486,Europe & Central Asia,High income
+22,1988,KOR,False,HUN,Hungary,23,93,,10596487,Europe & Central Asia,High income
+22,1988,KOR,False,ITA,Italy,14,61,8.89E+11,56629288,Europe & Central Asia,High income
+22,1988,KOR,False,JAM,Jamaica,2,12,3828342820,2356400,Latin America & Caribbean,Upper middle income
+22,1988,KOR,False,JPN,Japan,14,31,3.02E+12,122613000,East Asia & Pacific,High income
+22,1988,KOR,False,KEN,Kenya,9,21,8355380879,21899004,Sub-Saharan Africa,Lower middle income
+22,1988,KOR,True,KOR,"Korea, Rep.",33,173,2.02E+11,42031247,East Asia & Pacific,High income
+22,1988,KOR,False,MEX,Mexico,2,2,1.83E+11,82223153,Latin America & Caribbean,Upper middle income
+22,1988,KOR,False,SCG,Montenegro,12,120,,607413,Europe & Central Asia,Upper middle income
+22,1988,KOR,False,MAR,Morocco,3,5,25705139619,24027330,Middle East & North Africa,Lower middle income
+22,1988,KOR,False,AHO,Netherlands,1,2,2.59E+11,14760094,Europe & Central Asia,High income
+22,1988,KOR,False,NZL,New Zealand,13,36,45176167472,3283400,East Asia & Pacific,High income
+22,1988,KOR,False,NOR,Norway,5,48,1.02E+11,4209488,Europe & Central Asia,High income
+22,1988,KOR,False,PAK,Pakistan,1,1,38472741069,101420791,South Asia,Lower middle income
+22,1988,KOR,False,PER,Peru,1,24,15029999286,20909897,Latin America & Caribbean,Upper middle income
+22,1988,KOR,False,POL,Poland,16,34,,37824487,Europe & Central Asia,High income
+22,1988,KOR,False,SEN,Senegal,1,2,4985152888,7062540,Sub-Saharan Africa,Low income
+22,1988,KOR,False,ESP,Spain,4,9,3.75E+11,38715849,Europe & Central Asia,High income
+22,1988,KOR,False,SUR,Suriname,1,3,1160900000,391851,Latin America & Caribbean,Upper middle income
+22,1988,KOR,False,SWE,Sweden,10,21,2.04E+11,8436489,Europe & Central Asia,High income
+22,1988,KOR,False,THA,Thailand,1,1,61667254411,54933561,East Asia & Pacific,Upper middle income
+22,1988,KOR,False,TUR,Turkey,2,5,90852814005,52126497,Europe & Central Asia,Upper middle income
+22,1988,KOR,False,GBR,United Kingdom,24,113,9.10E+11,56928327,Europe & Central Asia,High income
+22,1988,KOR,False,USA,United States,94,409,5.25E+12,244499000,North America,High income
+23,1992,ESP,False,ALG,Algeria,2,4,48003298223,27180921,Middle East & North Africa,Upper middle income
+23,1992,ESP,False,ARG,Argentina,1,2,2.29E+11,33655149,Latin America & Caribbean,Not classified
+23,1992,ESP,False,AUS,Australia,27,109,3.25E+11,17495000,East Asia & Pacific,High income
+23,1992,ESP,False,AUT,Austria,2,10,1.95E+11,7840709,Europe & Central Asia,High income
+23,1992,ESP,False,BAH,"Bahamas, The",1,1,3109000000,266133,Latin America & Caribbean,High income
+23,1992,ESP,False,BEL,Belgium,3,4,2.36E+11,10045158,Europe & Central Asia,High income
+23,1992,ESP,False,BRA,Brazil,2,38,4.01E+11,155379009,Latin America & Caribbean,Upper middle income
+23,1992,ESP,False,CAN,Canada,18,102,5.92E+11,28519597,North America,High income
+23,1992,ESP,False,CHN,China,52,163,4.25E+11,1164970000,East Asia & Pacific,Upper middle income
+23,1992,ESP,False,COL,Colombia,1,1,49279585355,35558683,Latin America & Caribbean,Upper middle income
+23,1992,ESP,False,CUB,Cuba,31,166,22085858204,10735775,Latin America & Caribbean,Upper middle income
+23,1992,ESP,False,EST,Estonia,2,5,,1533091,Europe & Central Asia,High income
+23,1992,ESP,False,ETH,Ethiopia,3,5,10492993078,51602776,Sub-Saharan Africa,Low income
+23,1992,ESP,False,FIN,Finland,5,13,1.13E+11,5041992,Europe & Central Asia,High income
+23,1992,ESP,False,FRA,France,29,80,1.41E+12,58851216,Europe & Central Asia,High income
+23,1992,ESP,False,GHA,Ghana,1,20,6413901602,15471527,Sub-Saharan Africa,Lower middle income
+23,1992,ESP,False,HUN,Hungary,31,99,38541488005,10369341,Europe & Central Asia,High income
+23,1992,ESP,False,IRL,Ireland,2,5,55981360981,3558430,Europe & Central Asia,High income
+23,1992,ESP,False,ISR,Israel,2,3,65771216421,5123000,Middle East & North Africa,High income
+23,1992,ESP,False,ITA,Italy,19,97,1.32E+12,56797087,Europe & Central Asia,High income
+23,1992,ESP,False,JAM,Jamaica,4,7,3530892749,2423044,Latin America & Caribbean,Upper middle income
+23,1992,ESP,False,JPN,Japan,21,60,3.85E+12,124229000,East Asia & Pacific,High income
+23,1992,ESP,False,KEN,Kenya,8,16,8209129172,25029754,Sub-Saharan Africa,Lower middle income
+23,1992,ESP,False,PRK,"Korea, Dem. People’s Rep.",9,18,,20838082,East Asia & Pacific,Low income
+23,1992,ESP,False,KOR,"Korea, Rep.",27,116,3.56E+11,43747962,East Asia & Pacific,High income
+23,1992,ESP,False,LTU,Lithuania,2,15,,3700114,Europe & Central Asia,High income
+23,1992,ESP,False,MEX,Mexico,1,2,3.64E+11,89110043,Latin America & Caribbean,Upper middle income
+23,1992,ESP,False,MAR,Morocco,3,6,33711069431,25866445,Middle East & North Africa,Lower middle income
+23,1992,ESP,False,NAM,Namibia,2,4,3448326858,1513689,Sub-Saharan Africa,Upper middle income
+23,1992,ESP,False,NZL,New Zealand,10,24,41649298171,3531700,East Asia & Pacific,High income
+23,1992,ESP,False,NOR,Norway,7,47,1.31E+11,4286401,Europe & Central Asia,High income
+23,1992,ESP,False,PAK,Pakistan,1,16,48635176853,113616165,South Asia,Lower middle income
+23,1992,ESP,False,PER,Peru,1,2,35180917546,22737056,Latin America & Caribbean,Upper middle income
+23,1992,ESP,False,POL,Poland,19,78,92527774558,38363667,Europe & Central Asia,High income
+23,1992,ESP,False,QAT,Qatar,1,1,7646153984,489668,Middle East & North Africa,High income
+23,1992,ESP,False,RUS,Russian Federation,1,2,4.60E+11,148689000,Europe & Central Asia,Upper middle income
+23,1992,ESP,True,ESP,Spain,22,190,6.29E+11,39067745,Europe & Central Asia,High income
+23,1992,ESP,False,SUR,Suriname,1,1,404600000,423572,Latin America & Caribbean,Upper middle income
+23,1992,ESP,False,SWE,Sweden,12,64,2.80E+11,8668067,Europe & Central Asia,High income
+23,1992,ESP,False,THA,Thailand,1,1,1.11E+11,57761574,East Asia & Pacific,Upper middle income
+23,1992,ESP,False,TUR,Turkey,6,12,1.58E+11,55811134,Europe & Central Asia,Upper middle income
+23,1992,ESP,False,GBR,United Kingdom,20,67,1.18E+12,57580402,Europe & Central Asia,High income
+23,1992,ESP,False,USA,United States,109,445,6.54E+12,256514000,North America,High income
+24,1996,USA,False,ALG,Algeria,3,7,46941496780,29411839,Middle East & North Africa,Upper middle income
+24,1996,USA,False,ARG,Argentina,3,39,2.72E+11,35419683,Latin America & Caribbean,Not classified
+24,1996,USA,False,ARM,Armenia,2,5,1596968913,3173425,Europe & Central Asia,Lower middle income
+24,1996,USA,False,AUS,Australia,41,216,4.01E+11,18311000,East Asia & Pacific,High income
+24,1996,USA,False,AUT,Austria,3,4,2.37E+11,7959017,Europe & Central Asia,High income
+24,1996,USA,False,AZE,Azerbaijan,1,2,3176749593,7763000,Europe & Central Asia,Upper middle income
+24,1996,USA,False,BAH,"Bahamas, The",1,8,3609000000,283792,Latin America & Caribbean,High income
+24,1996,USA,False,BLR,Belarus,15,31,14756861538,10160000,Europe & Central Asia,Upper middle income
+24,1996,USA,False,BEL,Belgium,6,12,2.81E+11,10156637,Europe & Central Asia,High income
+24,1996,USA,False,BRA,Brazil,15,89,8.50E+11,165303155,Latin America & Caribbean,Upper middle income
+24,1996,USA,False,BDI,Burundi,1,3,869033856.3,6333415,Sub-Saharan Africa,Low income
+24,1996,USA,False,CAN,Canada,22,95,6.29E+11,29671900,North America,High income
+24,1996,USA,False,CHN,China,48,226,8.61E+11,1217550000,East Asia & Pacific,Upper middle income
+24,1996,USA,False,CUB,Cuba,25,143,25017300000,10955372,Latin America & Caribbean,Upper middle income
+24,1996,USA,False,ECU,Ecuador,1,3,25226393197,11683480,Latin America & Caribbean,Upper middle income
+24,1996,USA,False,ETH,Ethiopia,3,7,8547939731,59076414,Sub-Saharan Africa,Low income
+24,1996,USA,False,FIN,Finland,4,8,1.32E+11,5124573,Europe & Central Asia,High income
+24,1996,USA,False,FRA,France,37,106,1.61E+12,59753098,Europe & Central Asia,High income
+24,1996,USA,False,GEO,Georgia,2,2,3094915506,4616100,Europe & Central Asia,Upper middle income
+24,1996,USA,False,HKG,"Hong Kong SAR, China",1,3,1.60E+11,6435500,East Asia & Pacific,High income
+24,1996,USA,False,HUN,Hungary,21,68,46484876516,10311238,Europe & Central Asia,High income
+24,1996,USA,False,IND,India,1,1,4.00E+11,979290432,South Asia,Lower middle income
+24,1996,USA,False,IRL,Ireland,4,10,75850514113,3637510,Europe & Central Asia,High income
+24,1996,USA,False,ISR,Israel,1,1,1.10E+11,5692000,Middle East & North Africa,High income
+24,1996,USA,False,ITA,Italy,35,133,1.31E+12,56860281,Europe & Central Asia,High income
+24,1996,USA,False,JAM,Jamaica,6,17,6504445801,2509923,Latin America & Caribbean,Upper middle income
+24,1996,USA,False,JPN,Japan,14,75,4.71E+12,125757000,East Asia & Pacific,High income
+24,1996,USA,False,KAZ,Kazakhstan,11,21,21035357833,15577894,Europe & Central Asia,Upper middle income
+24,1996,USA,False,KEN,Kenya,8,14,12045858436,28116027,Sub-Saharan Africa,Lower middle income
+24,1996,USA,False,PRK,"Korea, Dem. People’s Rep.",5,10,,22016510,East Asia & Pacific,Low income
+24,1996,USA,False,KOR,"Korea, Rep.",27,135,6.03E+11,45524681,East Asia & Pacific,High income
+24,1996,USA,False,LTU,Lithuania,1,11,8385109020,3601613,Europe & Central Asia,High income
+24,1996,USA,False,MEX,Mexico,1,1,3.97E+11,96181710,Latin America & Caribbean,Upper middle income
+24,1996,USA,False,MDA,Moldova,2,5,1695130457,3667748,Europe & Central Asia,Lower middle income
+24,1996,USA,False,MAR,Morocco,2,2,43161452678,27556892,Middle East & North Africa,Lower middle income
+24,1996,USA,False,MOZ,Mozambique,1,1,3523842275,16410777,Sub-Saharan Africa,Low income
+24,1996,USA,False,NAM,Namibia,2,4,3945340776,1705349,Sub-Saharan Africa,Upper middle income
+24,1996,USA,False,NZL,New Zealand,6,17,70140835299,3732000,East Asia & Pacific,High income
+24,1996,USA,False,NOR,Norway,7,29,1.64E+11,4381336,Europe & Central Asia,High income
+24,1996,USA,False,POL,Poland,17,42,1.57E+11,38624370,Europe & Central Asia,High income
+24,1996,USA,False,RUS,Russian Federation,63,234,3.92E+11,148160042,Europe & Central Asia,Upper middle income
+24,1996,USA,False,SVK,Slovak Republic,3,6,27821913815,5373361,Europe & Central Asia,High income
+24,1996,USA,False,ESP,Spain,17,135,6.41E+11,39478186,Europe & Central Asia,High income
+24,1996,USA,False,SWE,Sweden,8,60,2.88E+11,8840998,Europe & Central Asia,High income
+24,1996,USA,False,SYR,Syrian Arab Republic,1,3,13789560878,14736209,Middle East & North Africa,Lower middle income
+24,1996,USA,False,THA,Thailand,2,4,1.83E+11,59878955,East Asia & Pacific,Upper middle income
+24,1996,USA,False,TUN,Tunisia,1,1,19587322786,9089300,Middle East & North Africa,Lower middle income
+24,1996,USA,False,TUR,Turkey,6,15,1.81E+11,59451488,Europe & Central Asia,Upper middle income
+24,1996,USA,False,UGA,Uganda,1,1,6044585327,21041468,Sub-Saharan Africa,Low income
+24,1996,USA,False,GBR,United Kingdom,15,41,1.31E+12,58166950,Europe & Central Asia,High income
+24,1996,USA,True,USA,United States,102,620,8.10E+12,269394000,North America,High income
+24,1996,USA,False,UZB,Uzbekistan,2,3,13948892216,23225000,Europe & Central Asia,Lower middle income
+24,1996,USA,False,ZAM,Zambia,1,2,3597220962,9502346,Sub-Saharan Africa,Lower middle income
+25,2000,AUS,False,ALG,Algeria,5,8,54790060513,31183658,Middle East & North Africa,Upper middle income
+25,2000,AUS,False,ARG,Argentina,4,37,2.84E+11,37057453,Latin America & Caribbean,Not classified
+25,2000,AUS,False,ARM,Armenia,1,1,1911563665,3076098,Europe & Central Asia,Lower middle income
+25,2000,AUS,True,AUS,Australia,59,374,4.15E+11,19153000,East Asia & Pacific,High income
+25,2000,AUS,False,AUT,Austria,3,11,1.96E+11,8011566,Europe & Central Asia,High income
+25,2000,AUS,False,AZE,Azerbaijan,3,7,5272617196,8048600,Europe & Central Asia,Upper middle income
+25,2000,AUS,False,BAH,"Bahamas, The",2,15,6327552000,297891,Latin America & Caribbean,High income
+25,2000,AUS,False,BAR,Barbados,1,1,3121500000,269838,Latin America & Caribbean,High income
+25,2000,AUS,False,BLR,Belarus,17,36,12736856485,10005000,Europe & Central Asia,Upper middle income
+25,2000,AUS,False,BEL,Belgium,5,10,2.38E+11,10251250,Europe & Central Asia,High income
+25,2000,AUS,False,BRA,Brazil,12,58,6.55E+11,175786441,Latin America & Caribbean,Upper middle income
+25,2000,AUS,False,CMR,Cameroon,1,54,9287367235,15927713,Sub-Saharan Africa,Lower middle income
+25,2000,AUS,False,CAN,Canada,14,44,7.42E+11,30769700,North America,High income
+25,2000,AUS,False,CHI,Channel Islands,1,18,6439703435,148725,Europe & Central Asia,High income
+25,2000,AUS,False,CHN,China,54,189,1.21E+12,1262645000,East Asia & Pacific,Upper middle income
+25,2000,AUS,False,COL,Colombia,1,3,99886577576,40403959,Latin America & Caribbean,Upper middle income
+25,2000,AUS,False,CUB,Cuba,29,149,30565200000,11116787,Latin America & Caribbean,Upper middle income
+25,2000,AUS,False,EST,Estonia,3,5,5685773519,1396985,Europe & Central Asia,High income
+25,2000,AUS,False,ETH,Ethiopia,8,17,8242392104,66443603,Sub-Saharan Africa,Low income
+25,2000,AUS,False,FIN,Finland,4,12,1.26E+11,5176209,Europe & Central Asia,High income
+25,2000,AUS,False,FRA,France,38,142,1.37E+12,60912498,Europe & Central Asia,High income
+25,2000,AUS,False,GEO,Georgia,6,6,3057453483,4418300,Europe & Central Asia,Upper middle income
+25,2000,AUS,False,HUN,Hungary,17,127,47169872903,10210971,Europe & Central Asia,High income
+25,2000,AUS,False,ISL,Iceland,1,1,8924735423,281205,Europe & Central Asia,High income
+25,2000,AUS,False,IND,India,1,1,4.77E+11,1053481072,South Asia,Lower middle income
+25,2000,AUS,False,IRL,Ireland,1,2,99833960199,3805174,Europe & Central Asia,High income
+25,2000,AUS,False,ISR,Israel,1,1,1.32E+11,6289000,Middle East & North Africa,High income
+25,2000,AUS,False,ITA,Italy,34,126,1.14E+12,56942108,Europe & Central Asia,High income
+25,2000,AUS,False,JAM,Jamaica,9,29,8929375580,2589389,Latin America & Caribbean,Upper middle income
+25,2000,AUS,False,JPN,Japan,18,85,4.73E+12,126843000,East Asia & Pacific,High income
+25,2000,AUS,False,KAZ,Kazakhstan,7,17,18291990619,14883626,Europe & Central Asia,Upper middle income
+25,2000,AUS,False,KEN,Kenya,7,14,12705357103,31065820,Sub-Saharan Africa,Lower middle income
+25,2000,AUS,False,PRK,"Korea, Dem. People’s Rep.",4,5,,22840218,East Asia & Pacific,Low income
+25,2000,AUS,False,KOR,"Korea, Rep.",28,123,5.62E+11,47008111,East Asia & Pacific,High income
+25,2000,AUS,False,KGZ,Kyrgyz Republic,1,1,1369691955,4898400,Europe & Central Asia,Lower middle income
+25,2000,AUS,False,LTU,Lithuania,5,21,11539211480,3499536,Europe & Central Asia,High income
+25,2000,AUS,False,MKD,"Macedonia, FYR",1,1,3772851420,2012051,Europe & Central Asia,Upper middle income
+25,2000,AUS,False,MEX,Mexico,6,10,6.84E+11,102808590,Latin America & Caribbean,Upper middle income
+25,2000,AUS,False,MDA,Moldova,2,3,1288420223,3639592,Europe & Central Asia,Lower middle income
+25,2000,AUS,False,MAR,Morocco,5,6,38857251336,28950553,Middle East & North Africa,Lower middle income
+25,2000,AUS,False,MOZ,Mozambique,1,3,5016469069,18264536,Sub-Saharan Africa,Low income
+25,2000,AUS,False,NZL,New Zealand,4,6,52623281957,3857700,East Asia & Pacific,High income
+25,2000,AUS,False,NOR,Norway,10,90,1.71E+11,4490967,Europe & Central Asia,High income
+25,2000,AUS,False,POL,Poland,14,48,1.72E+11,38258629,Europe & Central Asia,High income
+25,2000,AUS,False,QAT,Qatar,1,1,17759890110,593453,Middle East & North Africa,High income
+25,2000,AUS,False,RUS,Russian Federation,88,391,2.60E+11,146596557,Europe & Central Asia,Upper middle income
+25,2000,AUS,False,SVK,Slovak Republic,5,13,29114875622,5388720,Europe & Central Asia,High income
+25,2000,AUS,False,ESP,Spain,11,67,5.95E+11,40263216,Europe & Central Asia,High income
+25,2000,AUS,False,SWE,Sweden,12,62,2.60E+11,8872109,Europe & Central Asia,High income
+25,2000,AUS,False,THA,Thailand,3,5,1.26E+11,62693322,East Asia & Pacific,Upper middle income
+25,2000,AUS,False,TUR,Turkey,5,11,2.67E+11,63240157,Europe & Central Asia,Upper middle income
+25,2000,AUS,False,GBR,United Kingdom,28,117,1.55E+12,58892514,Europe & Central Asia,High income
+25,2000,AUS,False,USA,United States,93,574,1.03E+13,282162411,North America,High income
+25,2000,AUS,False,URU,Uruguay,1,2,22823255802,3321242,Latin America & Caribbean,High income
+25,2000,AUS,False,UZB,Uzbekistan,4,7,13760374488,24650400,Europe & Central Asia,Lower middle income
+25,2000,AUS,False,VIE,Vietnam,1,2,33640085728,77630900,East Asia & Pacific,Lower middle income
+26,2004,GRC,False,ARG,Argentina,6,105,1.82E+11,38728778,Latin America & Caribbean,Not classified
+26,2004,GRC,False,AUS,Australia,49,325,6.13E+11,20127400,East Asia & Pacific,High income
+26,2004,GRC,False,AUT,Austria,7,18,3.00E+11,8171966,Europe & Central Asia,High income
+26,2004,GRC,False,AZE,Azerbaijan,5,7,8680511918,8306500,Europe & Central Asia,Upper middle income
+26,2004,GRC,False,BAH,"Bahamas, The",2,4,7094413000,322539,Latin America & Caribbean,High income
+26,2004,GRC,False,BLR,Belarus,15,27,23141587718,9730000,Europe & Central Asia,Upper middle income
+26,2004,GRC,False,BEL,Belgium,3,5,3.71E+11,10421137,Europe & Central Asia,High income
+26,2004,GRC,False,BRA,Brazil,10,95,6.69E+11,186116363,Latin America & Caribbean,Upper middle income
+26,2004,GRC,False,CMR,Cameroon,1,3,15775357015,17667576,Sub-Saharan Africa,Lower middle income
+26,2004,GRC,False,CAN,Canada,12,33,1.02E+12,31995000,North America,High income
+26,2004,GRC,False,CHI,Channel Islands,3,10,8553643354,153170,Europe & Central Asia,High income
+26,2004,GRC,False,CHN,China,60,225,1.94E+12,1296075000,East Asia & Pacific,Upper middle income
+26,2004,GRC,False,COL,Colombia,1,1,1.17E+11,42724157,Latin America & Caribbean,Upper middle income
+26,2004,GRC,False,CUB,Cuba,27,134,38202800000,11240680,Latin America & Caribbean,Upper middle income
+26,2004,GRC,False,DOM,Dominican Republic,1,3,22039210346,9102997,Latin America & Caribbean,Upper middle income
+26,2004,GRC,False,EGY,"Egypt, Arab Rep.",5,8,78845185293,73596068,Middle East & North Africa,Lower middle income
+26,2004,GRC,False,ERI,Eritrea,1,1,1109054005,4064958,Sub-Saharan Africa,Low income
+26,2004,GRC,False,EST,Estonia,3,4,12059204969,1362550,Europe & Central Asia,High income
+26,2004,GRC,False,ETH,Ethiopia,7,14,10131187261,74506974,Sub-Saharan Africa,Low income
+26,2004,GRC,False,FIN,Finland,2,4,1.97E+11,5228172,Europe & Central Asia,High income
+26,2004,GRC,False,FRA,France,33,105,2.12E+12,62704897,Europe & Central Asia,High income
+26,2004,GRC,False,GEO,Georgia,4,10,5125273881,4245000,Europe & Central Asia,Upper middle income
+26,2004,GRC,False,HKG,"Hong Kong SAR, China",1,4,1.69E+11,6783500,East Asia & Pacific,High income
+26,2004,GRC,False,HUN,Hungary,17,100,1.04E+11,10107146,Europe & Central Asia,High income
+26,2004,GRC,False,IND,India,1,2,7.22E+11,1126419321,South Asia,Lower middle income
+26,2004,GRC,False,ISR,Israel,2,4,1.35E+11,6809000,Middle East & North Africa,High income
+26,2004,GRC,False,ITA,Italy,32,193,1.80E+12,57685327,Europe & Central Asia,High income
+26,2004,GRC,False,JAM,Jamaica,5,22,10150978155,2634145,Latin America & Caribbean,Upper middle income
+26,2004,GRC,False,JPN,Japan,37,154,4.66E+12,127761000,East Asia & Pacific,High income
+26,2004,GRC,False,KAZ,Kazakhstan,8,14,43151647003,15012985,Europe & Central Asia,Upper middle income
+26,2004,GRC,False,KEN,Kenya,7,13,16095337094,34437460,Sub-Saharan Africa,Lower middle income
+26,2004,GRC,False,PRK,"Korea, Dem. People’s Rep.",5,9,,23639296,East Asia & Pacific,Low income
+26,2004,GRC,False,KOR,"Korea, Rep.",30,108,7.65E+11,48039415,East Asia & Pacific,High income
+26,2004,GRC,False,LTU,Lithuania,3,7,22649930576,3377075,Europe & Central Asia,High income
+26,2004,GRC,False,MEX,Mexico,4,7,7.70E+11,108257822,Latin America & Caribbean,Upper middle income
+26,2004,GRC,False,SCG,Montenegro,1,2,2073255525,613353,Europe & Central Asia,Upper middle income
+26,2004,GRC,False,MAR,Morocco,3,8,59626020162,30093109,Middle East & North Africa,Lower middle income
+26,2004,GRC,False,NZL,New Zealand,5,16,1.04E+11,4087500,East Asia & Pacific,High income
+26,2004,GRC,False,NOR,Norway,6,17,2.64E+11,4591910,Europe & Central Asia,High income
+26,2004,GRC,False,POL,Poland,10,22,2.54E+11,38182222,Europe & Central Asia,High income
+26,2004,GRC,False,RUS,Russian Federation,92,330,5.91E+11,144067054,Europe & Central Asia,Upper middle income
+26,2004,GRC,False,SVK,Slovak Republic,6,18,57240535138,5372280,Europe & Central Asia,High income
+26,2004,GRC,False,ESP,Spain,19,54,1.07E+12,42921895,Europe & Central Asia,High income
+26,2004,GRC,False,SWE,Sweden,7,27,3.82E+11,8993531,Europe & Central Asia,High income
+26,2004,GRC,False,SYR,Syrian Arab Republic,1,1,25086930693,17671913,Middle East & North Africa,Lower middle income
+26,2004,GRC,False,THA,Thailand,8,15,1.73E+11,65404522,East Asia & Pacific,Upper middle income
+26,2004,GRC,False,TUR,Turkey,10,19,3.92E+11,66973561,Europe & Central Asia,Upper middle income
+26,2004,GRC,False,GBR,United Kingdom,30,112,2.30E+12,59987905,Europe & Central Asia,High income
+26,2004,GRC,False,USA,United States,103,563,1.23E+13,292805298,North America,High income
+26,2004,GRC,False,UZB,Uzbekistan,5,10,12030023548,25864350,Europe & Central Asia,Lower middle income
+26,2004,GRC,False,VEN,"Venezuela, RB",2,2,1.12E+11,26314483,Latin America & Caribbean,Upper middle income
+26,2004,GRC,False,ZIM,Zimbabwe,3,6,5805598400,12867828,Sub-Saharan Africa,Low income
+47,2008,CHN,False,AFG,Afghanistan,1,1,10190529882,26528741,South Asia,Low income
+47,2008,CHN,False,ALG,Algeria,2,3,1.71E+11,34811059,Middle East & North Africa,Upper middle income
+47,2008,CHN,False,ARG,Argentina,5,78,4.04E+11,40381860,Latin America & Caribbean,Not classified
+47,2008,CHN,False,ARM,Armenia,6,6,11662040714,2975029,Europe & Central Asia,Lower middle income
+47,2008,CHN,False,AUS,Australia,46,253,1.05E+12,21249200,East Asia & Pacific,High income
+47,2008,CHN,False,AUT,Austria,3,4,4.28E+11,8321496,Europe & Central Asia,High income
+47,2008,CHN,False,AZE,Azerbaijan,8,12,48852482960,8763400,Europe & Central Asia,Upper middle income
+47,2008,CHN,False,BAH,"Bahamas, The",2,13,8246650000,348587,Latin America & Caribbean,High income
+47,2008,CHN,False,BLR,Belarus,19,65,60752177439,9528000,Europe & Central Asia,Upper middle income
+47,2008,CHN,False,BEL,Belgium,2,11,5.19E+11,10709973,Europe & Central Asia,High income
+47,2008,CHN,False,BRA,Brazil,14,133,1.70E+12,194769696,Latin America & Caribbean,Upper middle income
+47,2008,CHN,False,BRN,Brunei Darussalam,1,3,14393099069,380786,East Asia & Pacific,High income
+47,2008,CHN,False,CMR,Cameroon,1,3,23322254114,19570418,Sub-Saharan Africa,Lower middle income
+47,2008,CHN,False,CAN,Canada,18,69,1.55E+12,33245773,North America,High income
+47,2008,CHN,False,CHI,Channel Islands,1,2,,157587,Europe & Central Asia,High income
+47,2008,CHN,True,CHN,China,95,382,4.56E+12,1324655000,East Asia & Pacific,Upper middle income
+47,2008,CHN,False,COL,Colombia,2,3,2.44E+11,44901660,Latin America & Caribbean,Upper middle income
+47,2008,CHN,False,CUB,Cuba,25,86,60806300000,11290239,Latin America & Caribbean,Upper middle income
+47,2008,CHN,False,DOM,Dominican Republic,2,5,48152993004,9636491,Latin America & Caribbean,Upper middle income
+47,2008,CHN,False,ECU,Ecuador,1,2,61762635000,14447600,Latin America & Caribbean,Upper middle income
+47,2008,CHN,False,EGY,"Egypt, Arab Rep.",1,1,1.63E+11,78976122,Middle East & North Africa,Lower middle income
+47,2008,CHN,False,EST,Estonia,2,7,24194038377,1337090,Europe & Central Asia,High income
+47,2008,CHN,False,ETH,Ethiopia,7,16,27066912635,83079608,Sub-Saharan Africa,Low income
+47,2008,CHN,False,FIN,Finland,4,9,2.84E+11,5313399,Europe & Central Asia,High income
+47,2008,CHN,False,FRA,France,40,148,2.92E+12,64374990,Europe & Central Asia,High income
+47,2008,CHN,False,GEO,Georgia,6,12,12795044473,4030000,Europe & Central Asia,Upper middle income
+47,2008,CHN,False,HUN,Hungary,10,67,1.57E+11,10038188,Europe & Central Asia,High income
+47,2008,CHN,False,IND,India,3,5,1.22E+12,1197070109,South Asia,Lower middle income
+47,2008,CHN,False,IRN,"Iran, Islamic Rep.",2,4,3.97E+11,72530693,Middle East & North Africa,Upper middle income
+47,2008,CHN,False,IRL,Ireland,3,4,2.75E+11,4489544,Europe & Central Asia,High income
+47,2008,CHN,False,ISR,Israel,1,1,2.17E+11,7308800,Middle East & North Africa,High income
+47,2008,CHN,False,ITA,Italy,28,74,2.39E+12,58826731,Europe & Central Asia,High income
+47,2008,CHN,False,JAM,Jamaica,10,42,13678551838,2671934,Latin America & Caribbean,Upper middle income
+47,2008,CHN,False,JPN,Japan,24,104,4.85E+12,128063000,East Asia & Pacific,High income
+47,2008,CHN,False,KAZ,Kazakhstan,12,20,1.33E+11,15674000,Europe & Central Asia,Upper middle income
+47,2008,CHN,False,KEN,Kenya,14,29,35895153328,38244442,Sub-Saharan Africa,Lower middle income
+47,2008,CHN,False,PRK,"Korea, Dem. People’s Rep.",6,11,,24243829,East Asia & Pacific,Low income
+47,2008,CHN,False,KOR,"Korea, Rep.",29,168,1.00E+12,48948698,East Asia & Pacific,High income
+47,2008,CHN,False,KGZ,Kyrgyz Republic,2,3,5139957785,5318700,Europe & Central Asia,Lower middle income
+47,2008,CHN,False,LTU,Lithuania,5,7,47850551149,3198231,Europe & Central Asia,High income
+47,2008,CHN,False,MEX,Mexico,3,8,1.10E+12,114972821,Latin America & Caribbean,Upper middle income
+47,2008,CHN,False,MDA,Moldova,1,1,6054806101,3570108,Europe & Central Asia,Lower middle income
+47,2008,CHN,False,MAR,Morocco,2,3,92507257784,31350544,Middle East & North Africa,Lower middle income
+47,2008,CHN,False,NZL,New Zealand,9,28,1.33E+11,4259800,East Asia & Pacific,High income
+47,2008,CHN,False,NOR,Norway,9,59,4.62E+11,4768212,Europe & Central Asia,High income
+47,2008,CHN,False,PAN,Panama,1,3,24522200000,3498679,Latin America & Caribbean,Upper middle income
+47,2008,CHN,False,POL,Poland,10,45,5.30E+11,38125759,Europe & Central Asia,High income
+47,2008,CHN,False,RUS,Russian Federation,72,277,1.66E+12,142742350,Europe & Central Asia,Upper middle income
+47,2008,CHN,False,SRB,Serbia,3,16,49259526053,7350222,Europe & Central Asia,Upper middle income
+47,2008,CHN,False,SVK,Slovak Republic,5,15,1.00E+11,5379233,Europe & Central Asia,High income
+47,2008,CHN,False,ESP,Spain,18,133,1.63E+12,45954106,Europe & Central Asia,High income
+47,2008,CHN,False,SWE,Sweden,4,10,5.14E+11,9219637,Europe & Central Asia,High income
+47,2008,CHN,False,TJK,Tajikistan,2,3,5161298559,7254072,Europe & Central Asia,Lower middle income
+47,2008,CHN,False,THA,Thailand,4,10,2.91E+11,66453255,East Asia & Pacific,Upper middle income
+47,2008,CHN,False,TUN,Tunisia,1,3,44856586316,10328900,Middle East & North Africa,Lower middle income
+47,2008,CHN,False,TUR,Turkey,8,14,7.30E+11,70344357,Europe & Central Asia,Upper middle income
+47,2008,CHN,False,GBR,United Kingdom,46,156,2.79E+12,61806995,Europe & Central Asia,High income
+47,2008,CHN,False,USA,United States,110,679,1.47E+13,304093966,North America,High income
+47,2008,CHN,False,UZB,Uzbekistan,6,10,27934030937,27302800,Europe & Central Asia,Lower middle income
+47,2008,CHN,False,VEN,"Venezuela, RB",1,1,3.16E+11,28116716,Latin America & Caribbean,Upper middle income
+47,2008,CHN,False,VIE,Vietnam,1,2,99130304099,85118700,East Asia & Pacific,Lower middle income
+47,2008,CHN,False,ZIM,Zimbabwe,4,9,4415702800,13495462,Sub-Saharan Africa,Low income
